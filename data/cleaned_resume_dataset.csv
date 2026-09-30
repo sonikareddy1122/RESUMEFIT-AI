@@ -1,0 +1,1201 @@
+Resume_ID,Education,Experience_Level,Experience_Years,Skills,Target_Job,Location,Skill_Match_Percentage,Resume_Score,Recommendation
+RES0001,B.Tech IT,Fresher,0,"AWS, Python, Docker, Azure",Cloud Engineer,Delhi,50.0,35.0,Not Recommended
+RES0002,M.Tech CSE,Junior,2,"Azure, Linux, Kubernetes, AWS, Git, Python, Docker, Networking, Flask, Java",Cloud Engineer,Bangalore,100.0,80.0,Highly Recommended
+RES0003,B.Sc Computer Science,Fresher,0,"Node.js, REST API, HTML, CSS, React, MongoDB, JavaScript, Git",Web Developer,Hyderabad,100.0,70.0,Recommended
+RES0004,B.Tech CSE,Senior,10,"Git, REST API, JavaScript, Node.js, Data Visualization",Web Developer,Hyderabad,50.0,65.0,Recommended
+RES0005,B.Tech IT,Fresher,0,"Node.js, REST API, Git, MongoDB, HTML",Web Developer,Hyderabad,62.5,43.75,Not Recommended
+RES0006,B.Sc Computer Science,Junior,2,"Linux, AWS, Azure, Git, Kubernetes, CSS",Cloud Engineer,Chennai,62.5,53.75,Recommended
+RES0007,B.Sc Computer Science,Junior,2,"SQL, NumPy, Scikit-learn, Deep Learning, Statistics, Python, Pandas",Data Scientist,Warangal,87.5,71.25,Recommended
+RES0008,B.Tech IT,Mid-Level,3,"Python, Statistics, Excel, Power BI, NumPy",Data Analyst,Delhi,62.5,58.75,Recommended
+RES0009,M.Tech CSE,Senior,8,"MongoDB, CSS, JavaScript, REST API, Node.js, Git, React, Power BI, Django",Web Developer,Bangalore,87.5,91.25,Highly Recommended
+RES0010,MCA,Senior,10,"Deep Learning, Python, Statistics, Scikit-learn, SQL, Machine Learning, NumPy, Pandas, MySQL, Django",Data Scientist,Chennai,100.0,100.0,Highly Recommended
+RES0011,B.Sc Computer Science,Senior,7,"Java, Flask, Django, SQL, React, Python",Backend Developer,Pune,62.5,73.75,Recommended
+RES0012,B.Tech IT,Fresher,0,"Excel, Pandas, Python, Data Visualization, SQL, NumPy, Machine Learning",Data Analyst,Mumbai,75.0,52.5,Recommended
+RES0013,MCA,Fresher,0,"Python, Docker, Deep Learning, Scikit-learn, Machine Learning, SQL, PyTorch, MySQL, Data Visualization",ML Engineer,Warangal,87.5,61.25,Recommended
+RES0014,M.Tech CSE,Senior,7,"SQL, Flask, REST API, Django, Java, NumPy",Backend Developer,Mumbai,62.5,73.75,Recommended
+RES0015,B.Tech IT,Junior,1,"Linux, Kubernetes, Python, Docker, Git, Django, MySQL",Cloud Engineer,Chennai,62.5,48.75,Not Recommended
+RES0016,B.Tech CSE,Mid-Level,3,"Power BI, Pandas, SQL, Python, Statistics, Excel, Data Visualization, NumPy",Data Analyst,Mumbai,100.0,85.0,Highly Recommended
+RES0017,B.Tech IT,Fresher,0,"Deep Learning, SQL, NumPy, Statistics, Pandas, Python, Django",Data Scientist,Hyderabad,75.0,52.5,Recommended
+RES0018,MCA,Mid-Level,3,"Python, Kubernetes, Git, Networking, AWS, Docker, Linux",Cloud Engineer,Bangalore,87.5,76.25,Highly Recommended
+RES0019,B.Tech CSE,Senior,10,"Deep Learning, SQL, Pandas, Statistics, Machine Learning, TensorFlow",Data Scientist,Hyderabad,62.5,73.75,Recommended
+RES0020,B.Tech IT,Senior,6,"Python, Data Visualization, SQL, NumPy, Power BI, Pandas, Excel, Statistics, Deep Learning",Data Analyst,Pune,100.0,100.0,Highly Recommended
+RES0021,B.Tech CSE,Fresher,0,"PyTorch, TensorFlow, Scikit-learn, Docker, SQL, Python, Deep Learning, Excel",ML Engineer,Delhi,87.5,61.25,Recommended
+RES0022,M.Tech CSE,Fresher,0,"Python, PyTorch, TensorFlow, SQL, Kubernetes, Deep Learning",ML Engineer,Warangal,62.5,43.75,Not Recommended
+RES0023,M.Tech CSE,Junior,1,"SQL, Scikit-learn, Deep Learning, Pandas",Data Scientist,Mumbai,50.0,40.0,Not Recommended
+RES0024,B.Sc Computer Science,Senior,8,"NumPy, Excel, SQL, Statistics, Data Visualization, Power BI, Pandas",Data Analyst,Warangal,87.5,91.25,Highly Recommended
+RES0025,M.Tech CSE,Junior,2,"Data Visualization, Pandas, Statistics, Python",Data Analyst,Bangalore,50.0,45.0,Not Recommended
+RES0026,M.Tech CSE,Mid-Level,5,"TensorFlow, Deep Learning, SQL, Machine Learning, Data Visualization",ML Engineer,Warangal,50.0,60.0,Recommended
+RES0027,M.Tech CSE,Junior,2,"AWS, Python, Linux, Docker, Networking, Kubernetes, Azure, Git",Cloud Engineer,Chennai,100.0,80.0,Highly Recommended
+RES0028,B.Tech CSE,Senior,8,"Flask, Java, Git, SQL, REST API, Node.js",Backend Developer,Hyderabad,62.5,73.75,Recommended
+RES0029,B.Tech CSE,Fresher,0,"Excel, NumPy, Data Visualization, SQL, Power BI, Statistics, Git, Docker",Data Analyst,Hyderabad,75.0,52.5,Recommended
+RES0030,B.Tech CSE,Mid-Level,4,"AWS, Git, Docker, Linux, Azure, Python",Cloud Engineer,Warangal,75.0,72.5,Recommended
+RES0031,B.Tech IT,Junior,1,"Power BI, NumPy, SQL, Python, Excel, Data Visualization, Linux",Data Analyst,Warangal,75.0,57.5,Recommended
+RES0032,B.Tech CSE,Senior,6,"Python, SQL, Scikit-learn, Machine Learning, Pandas, NumPy, Deep Learning, Azure",Data Scientist,Warangal,87.5,91.25,Highly Recommended
+RES0033,B.Tech IT,Fresher,0,"React, REST API, MongoDB, JavaScript, Node.js",Web Developer,Delhi,62.5,43.75,Not Recommended
+RES0034,B.Tech CSE,Fresher,0,"Scikit-learn, Machine Learning, Python, Statistics, NumPy, Pandas, SQL, Linux, React",Data Scientist,Chennai,87.5,61.25,Recommended
+RES0035,MCA,Junior,2,"NumPy, Python, Statistics, Deep Learning, Pandas, SQL, Machine Learning, Scikit-learn, Linux, AWS",Data Scientist,Hyderabad,100.0,80.0,Highly Recommended
+RES0036,B.Sc Computer Science,Fresher,0,"AWS, Linux, Git, Azure, Docker, Python, Networking, Scikit-learn, JavaScript",Cloud Engineer,Delhi,87.5,61.25,Recommended
+RES0037,MCA,Senior,7,"PyTorch, Scikit-learn, TensorFlow, Deep Learning, SQL, Docker, Machine Learning, Python",ML Engineer,Mumbai,100.0,100.0,Highly Recommended
+RES0038,M.Tech CSE,Mid-Level,4,"MySQL, Django, Python, SQL, Git, Flask, Linux",Backend Developer,Pune,75.0,72.5,Recommended
+RES0039,M.Tech CSE,Mid-Level,3,"MongoDB, REST API, Git, CSS, HTML, NumPy",Web Developer,Warangal,62.5,58.75,Recommended
+RES0040,MCA,Fresher,0,"Pandas, Statistics, SQL, Scikit-learn, Python, Deep Learning",Data Scientist,Pune,75.0,52.5,Recommended
+RES0041,B.Tech CSE,Senior,7,"React, Git, REST API, MongoDB, Node.js, CSS, HTML, JavaScript, Machine Learning, Java",Web Developer,Bangalore,100.0,100.0,Highly Recommended
+RES0042,M.Tech CSE,Mid-Level,4,"Networking, AWS, Linux, Azure, Git, Python, Kubernetes, Docker, PyTorch, SQL",Cloud Engineer,Mumbai,100.0,90.0,Highly Recommended
+RES0043,B.Sc Computer Science,Senior,7,"Git, Networking, Linux, Kubernetes, Azure, Docker, Python, AWS, REST API",Cloud Engineer,Chennai,100.0,100.0,Highly Recommended
+RES0044,B.Tech CSE,Junior,1,"Node.js, CSS, JavaScript, Git, Docker",Web Developer,Bangalore,50.0,40.0,Not Recommended
+RES0045,B.Tech CSE,Junior,2,"React, HTML, MongoDB, Git, JavaScript, Pandas, Scikit-learn",Web Developer,Pune,62.5,53.75,Recommended
+RES0046,MCA,Senior,10,"MySQL, REST API, Python, SQL, MongoDB",Backend Developer,Delhi,50.0,65.0,Recommended
+RES0047,MCA,Junior,2,"Kubernetes, Networking, Azure, Docker, Git, Python, AWS, Linux, Data Visualization",Cloud Engineer,Bangalore,100.0,80.0,Highly Recommended
+RES0048,B.Tech CSE,Mid-Level,4,"Python, REST API, Django, Flask, Git, MySQL, Java, SQL, TensorFlow",Backend Developer,Chennai,100.0,90.0,Highly Recommended
+RES0049,M.Tech CSE,Fresher,0,"Scikit-learn, Machine Learning, Pandas, Statistics, Deep Learning, SQL, Python, Java",Data Scientist,Chennai,87.5,61.25,Recommended
+RES0050,B.Tech CSE,Junior,1,"Python, Statistics, Deep Learning, SQL",Data Scientist,Bangalore,50.0,40.0,Not Recommended
+RES0051,M.Tech CSE,Fresher,0,"React, MongoDB, Git, JavaScript, AWS",Web Developer,Warangal,50.0,35.0,Not Recommended
+RES0052,M.Tech CSE,Junior,1,"SQL, NumPy, Python, Machine Learning, Pandas, Deep Learning, TensorFlow, MySQL",Data Scientist,Delhi,75.0,57.5,Recommended
+RES0053,M.Tech CSE,Mid-Level,3,"Machine Learning, SQL, PyTorch, Python, Deep Learning, TensorFlow, Docker, Scikit-learn",ML Engineer,Warangal,100.0,85.0,Highly Recommended
+RES0054,B.Sc Computer Science,Senior,9,"CSS, React, JavaScript, REST API, MongoDB, Node.js, HTML, Docker, SQL",Web Developer,Pune,87.5,91.25,Highly Recommended
+RES0055,MCA,Mid-Level,3,"Linux, Docker, Azure, AWS, Git, Python, Networking, Kubernetes, Flask, Data Visualization",Cloud Engineer,Pune,100.0,85.0,Highly Recommended
+RES0056,B.Sc Computer Science,Fresher,0,"Docker, Machine Learning, Deep Learning, Scikit-learn, PyTorch, Linux",ML Engineer,Mumbai,62.5,43.75,Not Recommended
+RES0057,MCA,Senior,9,"Pandas, Scikit-learn, Deep Learning, Statistics, MongoDB, TensorFlow",Data Scientist,Warangal,50.0,65.0,Recommended
+RES0058,M.Tech CSE,Mid-Level,4,"Pandas, SQL, Power BI, Statistics, PyTorch",Data Analyst,Mumbai,50.0,55.0,Recommended
+RES0059,B.Sc Computer Science,Mid-Level,3,"MySQL, Flask, Django, SQL, Git, REST API, Excel",Backend Developer,Hyderabad,75.0,67.5,Recommended
+RES0060,B.Tech IT,Senior,8,"Python, AWS, Networking, Linux, Azure",Cloud Engineer,Delhi,62.5,73.75,Recommended
+RES0061,M.Tech CSE,Junior,2,"Django, Python, Java, SQL, Flask, REST API, MySQL, Git",Backend Developer,Hyderabad,100.0,80.0,Highly Recommended
+RES0062,B.Sc Computer Science,Junior,1,"Pandas, NumPy, SQL, Power BI, Python, Data Visualization, Statistics, Excel, CSS",Data Analyst,Chennai,100.0,75.0,Highly Recommended
+RES0063,B.Tech CSE,Junior,1,"CSS, React, REST API, HTML, PyTorch, SQL",Web Developer,Warangal,50.0,40.0,Not Recommended
+RES0064,M.Tech CSE,Senior,9,"Java, Git, Python, Django, REST API, SQL, PyTorch, Excel",Backend Developer,Pune,75.0,82.5,Highly Recommended
+RES0065,B.Tech CSE,Junior,1,"SQL, Deep Learning, PyTorch, Scikit-learn, Python, Docker, TensorFlow, Machine Learning, Excel, React",ML Engineer,Bangalore,100.0,75.0,Highly Recommended
+RES0066,B.Sc Computer Science,Fresher,0,"SQL, Python, REST API, Flask, HTML, Django",Backend Developer,Bangalore,62.5,43.75,Not Recommended
+RES0067,MCA,Fresher,0,"Docker, Python, Scikit-learn, Machine Learning, Deep Learning, TensorFlow, JavaScript, Excel",ML Engineer,Mumbai,75.0,52.5,Recommended
+RES0068,B.Sc Computer Science,Mid-Level,4,"NumPy, Statistics, SQL, Python, Deep Learning",Data Scientist,Hyderabad,62.5,63.75,Recommended
+RES0069,M.Tech CSE,Fresher,0,"REST API, JavaScript, Node.js, Git, React, CSS",Web Developer,Pune,75.0,52.5,Recommended
+RES0070,B.Tech CSE,Junior,2,"Linux, AWS, Git, Azure, Python, Docker, PyTorch",Cloud Engineer,Mumbai,75.0,62.5,Recommended
+RES0071,B.Sc Computer Science,Mid-Level,5,"Linux, Azure, Networking, Kubernetes, Python, AWS, Git, NumPy",Cloud Engineer,Hyderabad,87.5,86.25,Highly Recommended
+RES0072,MCA,Fresher,0,"Statistics, Scikit-learn, Pandas, Machine Learning, Deep Learning, NumPy",Data Scientist,Chennai,75.0,52.5,Recommended
+RES0073,B.Tech CSE,Junior,2,"Machine Learning, SQL, TensorFlow, PyTorch, Python, Deep Learning, Django, Pandas",ML Engineer,Mumbai,75.0,62.5,Recommended
+RES0074,B.Tech CSE,Junior,1,"HTML, CSS, JavaScript, Node.js, REST API, React, Git, Docker, Python",Web Developer,Chennai,87.5,66.25,Recommended
+RES0075,B.Tech IT,Senior,8,"MySQL, Python, Java, Git, Kubernetes",Backend Developer,Mumbai,50.0,65.0,Recommended
+RES0076,B.Tech IT,Junior,1,"Git, Networking, Kubernetes, Python, Azure, Linux, AWS, Django",Cloud Engineer,Chennai,87.5,66.25,Recommended
+RES0077,B.Tech IT,Senior,10,"Node.js, REST API, HTML, JavaScript, MongoDB, React, SQL, CSS",Web Developer,Pune,87.5,91.25,Highly Recommended
+RES0078,MCA,Fresher,0,"SQL, TensorFlow, Deep Learning, Machine Learning, PyTorch, Scikit-learn, Excel",ML Engineer,Chennai,75.0,52.5,Recommended
+RES0079,B.Tech CSE,Senior,6,"Git, Kubernetes, Python, Azure, Networking, AWS, Docker, SQL, Pandas",Cloud Engineer,Mumbai,87.5,91.25,Highly Recommended
+RES0080,MCA,Mid-Level,4,"JavaScript, React, Git, CSS",Web Developer,Mumbai,50.0,55.0,Recommended
+RES0081,B.Tech CSE,Junior,2,"Azure, Git, Docker, Linux, Kubernetes, Networking, Python, Deep Learning, JavaScript",Cloud Engineer,Bangalore,87.5,71.25,Recommended
+RES0082,B.Sc Computer Science,Fresher,0,"Git, AWS, Python, Networking, Azure",Cloud Engineer,Hyderabad,62.5,43.75,Not Recommended
+RES0083,B.Tech IT,Senior,10,"PyTorch, Deep Learning, SQL, TensorFlow",ML Engineer,Delhi,50.0,65.0,Recommended
+RES0084,B.Tech IT,Junior,2,"Machine Learning, Python, NumPy, Pandas, SQL, HTML",Data Scientist,Delhi,62.5,53.75,Recommended
+RES0085,MCA,Mid-Level,5,"PyTorch, Scikit-learn, Python, TensorFlow, Deep Learning, Docker, SQL",ML Engineer,Chennai,87.5,86.25,Highly Recommended
+RES0086,MCA,Mid-Level,5,"Linux, Kubernetes, Docker, Azure, Git, Networking, AWS",Cloud Engineer,Chennai,87.5,86.25,Highly Recommended
+RES0087,B.Tech CSE,Senior,8,"AWS, Git, Python, Kubernetes, Docker, Networking, Flask, Machine Learning",Cloud Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0088,B.Sc Computer Science,Senior,6,"Scikit-learn, SQL, Deep Learning, Statistics, Machine Learning, Pandas, Python, NumPy, Flask, Node.js",Data Scientist,Mumbai,100.0,100.0,Highly Recommended
+RES0089,B.Tech IT,Mid-Level,5,"Machine Learning, Deep Learning, SQL, TensorFlow, Docker",ML Engineer,Mumbai,62.5,68.75,Recommended
+RES0090,MCA,Fresher,0,"PyTorch, SQL, TensorFlow, Deep Learning, Docker",ML Engineer,Bangalore,62.5,43.75,Not Recommended
+RES0091,B.Sc Computer Science,Senior,8,"Scikit-learn, Python, Pandas, Statistics, Machine Learning, Deep Learning, NumPy, Git",Data Scientist,Hyderabad,87.5,91.25,Highly Recommended
+RES0092,B.Tech CSE,Senior,8,"Networking, AWS, Linux, Python, Docker, Excel, SQL",Cloud Engineer,Delhi,62.5,73.75,Recommended
+RES0093,B.Tech CSE,Junior,1,"JavaScript, HTML, REST API, MongoDB, MySQL",Web Developer,Pune,50.0,40.0,Not Recommended
+RES0094,MCA,Senior,8,"REST API, Node.js, Git, CSS, React, JavaScript",Web Developer,Hyderabad,75.0,82.5,Highly Recommended
+RES0095,B.Sc Computer Science,Fresher,0,"Kubernetes, Networking, Git, Azure, Docker, AWS, Pandas, Power BI",Cloud Engineer,Pune,75.0,52.5,Recommended
+RES0096,B.Tech CSE,Fresher,0,"Machine Learning, SQL, TensorFlow, Python, Docker, Power BI, Linux",ML Engineer,Warangal,62.5,43.75,Not Recommended
+RES0097,B.Tech IT,Junior,2,"Deep Learning, SQL, PyTorch, Machine Learning, Python, TensorFlow, Docker",ML Engineer,Warangal,87.5,71.25,Recommended
+RES0098,B.Tech CSE,Mid-Level,3,"Python, Machine Learning, SQL, Scikit-learn, Statistics, Deep Learning, Pandas, NumPy",Data Scientist,Mumbai,100.0,85.0,Highly Recommended
+RES0099,B.Tech CSE,Fresher,0,"Deep Learning, Docker, Python, Machine Learning, Git, CSS",ML Engineer,Pune,50.0,35.0,Not Recommended
+RES0100,MCA,Fresher,0,"CSS, React, Node.js, MongoDB, HTML, JavaScript, NumPy, Networking",Web Developer,Hyderabad,75.0,52.5,Recommended
+RES0101,B.Tech IT,Fresher,0,"REST API, Git, HTML, React, Node.js, MongoDB, JavaScript, PyTorch",Web Developer,Bangalore,87.5,61.25,Recommended
+RES0102,M.Tech CSE,Junior,2,"Scikit-learn, TensorFlow, PyTorch, Docker, Deep Learning, Machine Learning, SQL, Python, AWS, Flask",ML Engineer,Pune,100.0,80.0,Highly Recommended
+RES0103,B.Sc Computer Science,Mid-Level,4,"Scikit-learn, Statistics, Pandas, Deep Learning, NumPy, Machine Learning, Python, CSS",Data Scientist,Bangalore,87.5,81.25,Highly Recommended
+RES0104,M.Tech CSE,Fresher,0,"Azure, AWS, Git, Python, Kubernetes, Linux, Networking",Cloud Engineer,Mumbai,87.5,61.25,Recommended
+RES0105,B.Sc Computer Science,Mid-Level,3,"Flask, Git, Python, REST API, SQL, Django, Java, MySQL, JavaScript",Backend Developer,Mumbai,100.0,85.0,Highly Recommended
+RES0106,B.Sc Computer Science,Fresher,0,"SQL, Flask, REST API, Java, Python, Docker",Backend Developer,Warangal,62.5,43.75,Not Recommended
+RES0107,B.Sc Computer Science,Mid-Level,4,"TensorFlow, SQL, Docker, PyTorch, Python, Deep Learning, Machine Learning, Scikit-learn",ML Engineer,Chennai,100.0,90.0,Highly Recommended
+RES0108,B.Tech CSE,Fresher,0,"Excel, Pandas, NumPy, Power BI, Python",Data Analyst,Delhi,62.5,43.75,Not Recommended
+RES0109,B.Sc Computer Science,Fresher,0,"MySQL, REST API, Git, SQL, Java, React",Backend Developer,Hyderabad,62.5,43.75,Not Recommended
+RES0110,M.Tech CSE,Senior,9,"Python, Scikit-learn, Deep Learning, Machine Learning, Pandas, Django, NumPy",Data Scientist,Chennai,75.0,82.5,Highly Recommended
+RES0111,B.Tech IT,Senior,10,"SQL, Machine Learning, Pandas, Python, Statistics, Scikit-learn, Deep Learning, NumPy",Data Scientist,Hyderabad,100.0,100.0,Highly Recommended
+RES0112,B.Tech CSE,Senior,9,"Pandas, SQL, Statistics, Excel, Data Visualization, MySQL",Data Analyst,Bangalore,62.5,73.75,Recommended
+RES0113,MCA,Fresher,0,"Pandas, NumPy, Statistics, Machine Learning, Python, SQL, Deep Learning, Java",Data Scientist,Warangal,87.5,61.25,Recommended
+RES0114,M.Tech CSE,Senior,8,"SQL, PyTorch, TensorFlow, Scikit-learn, Deep Learning, Python, Machine Learning, Docker, Azure",ML Engineer,Hyderabad,100.0,100.0,Highly Recommended
+RES0115,B.Sc Computer Science,Mid-Level,3,"React, MongoDB, Node.js, REST API, MySQL, Git",Web Developer,Chennai,62.5,58.75,Recommended
+RES0116,B.Tech IT,Junior,1,"SQL, NumPy, Statistics, Deep Learning, REST API",Data Scientist,Bangalore,50.0,40.0,Not Recommended
+RES0117,M.Tech CSE,Senior,10,"Deep Learning, PyTorch, Machine Learning, Python, Scikit-learn, CSS, Django",ML Engineer,Delhi,62.5,73.75,Recommended
+RES0118,B.Sc Computer Science,Mid-Level,5,"Python, Git, Networking, Docker, Azure, Kubernetes, AWS, Linux, MongoDB",Cloud Engineer,Hyderabad,100.0,95.0,Highly Recommended
+RES0119,B.Tech CSE,Senior,9,"Machine Learning, Deep Learning, TensorFlow, Scikit-learn, Python, PyTorch, Docker, SQL",ML Engineer,Mumbai,100.0,100.0,Highly Recommended
+RES0120,MCA,Junior,1,"Git, MySQL, Django, Java, Power BI",Backend Developer,Pune,50.0,40.0,Not Recommended
+RES0121,M.Tech CSE,Junior,2,"SQL, Pandas, NumPy, Data Visualization, Python, Power BI, Git, CSS",Data Analyst,Chennai,75.0,62.5,Recommended
+RES0122,B.Sc Computer Science,Fresher,0,"SQL, Docker, Deep Learning, PyTorch, Python, Scikit-learn, Machine Learning",ML Engineer,Mumbai,87.5,61.25,Recommended
+RES0123,B.Sc Computer Science,Mid-Level,5,"Linux, Docker, Python, Networking, Azure, Kubernetes, AWS, MongoDB, TensorFlow",Cloud Engineer,Delhi,87.5,86.25,Highly Recommended
+RES0124,M.Tech CSE,Fresher,0,"Docker, Linux, Python, AWS, Networking, Kubernetes, Azure, Git, TensorFlow",Cloud Engineer,Delhi,100.0,70.0,Recommended
+RES0125,B.Tech IT,Junior,1,"Python, AWS, Docker, Networking, Azure, Git, Kubernetes, React",Cloud Engineer,Hyderabad,87.5,66.25,Recommended
+RES0126,M.Tech CSE,Senior,7,"Python, Scikit-learn, Deep Learning, PyTorch",ML Engineer,Bangalore,50.0,65.0,Recommended
+RES0127,B.Tech IT,Junior,2,"Machine Learning, Scikit-learn, Pandas, Python, Statistics, SQL, NumPy, Deep Learning, React, Docker",Data Scientist,Warangal,100.0,80.0,Highly Recommended
+RES0128,MCA,Senior,7,"Git, MongoDB, Node.js, React, REST API, Data Visualization",Web Developer,Warangal,62.5,73.75,Recommended
+RES0129,B.Tech IT,Mid-Level,4,"Machine Learning, Statistics, Deep Learning, Python, Pandas, SQL, NumPy, Scikit-learn, MySQL",Data Scientist,Mumbai,100.0,90.0,Highly Recommended
+RES0130,B.Sc Computer Science,Junior,2,"SQL, Deep Learning, Pandas, Machine Learning, Python, Statistics, Scikit-learn, HTML",Data Scientist,Hyderabad,87.5,71.25,Recommended
+RES0131,B.Tech CSE,Mid-Level,4,"Python, Deep Learning, Docker, SQL, Machine Learning",ML Engineer,Delhi,62.5,63.75,Recommended
+RES0132,M.Tech CSE,Senior,6,"Deep Learning, NumPy, Python, Scikit-learn, Statistics, SQL, Pandas",Data Scientist,Warangal,87.5,91.25,Highly Recommended
+RES0133,MCA,Fresher,0,"PyTorch, Python, SQL, Machine Learning, TensorFlow, Data Visualization, HTML",ML Engineer,Hyderabad,62.5,43.75,Not Recommended
+RES0134,M.Tech CSE,Mid-Level,3,"HTML, Git, Node.js, REST API, CSS, JavaScript, MongoDB, React, Java",Web Developer,Mumbai,100.0,85.0,Highly Recommended
+RES0135,B.Tech CSE,Senior,8,"CSS, Node.js, JavaScript, HTML, REST API, Django",Web Developer,Chennai,62.5,73.75,Recommended
+RES0136,B.Tech CSE,Mid-Level,3,"Python, Git, AWS, Docker",Cloud Engineer,Hyderabad,50.0,50.0,Recommended
+RES0137,B.Tech CSE,Senior,6,"Scikit-learn, SQL, Docker, Machine Learning, TensorFlow, Deep Learning, PyTorch, Python",ML Engineer,Chennai,100.0,100.0,Highly Recommended
+RES0138,M.Tech CSE,Senior,8,"Pandas, Python, Machine Learning, Scikit-learn, Statistics, Data Visualization",Data Scientist,Hyderabad,62.5,73.75,Recommended
+RES0139,B.Sc Computer Science,Senior,9,"Linux, Docker, AWS, Git, Networking",Cloud Engineer,Delhi,62.5,73.75,Recommended
+RES0140,MCA,Fresher,0,"Git, CSS, React, MongoDB, JavaScript, Node.js, REST API",Web Developer,Pune,87.5,61.25,Recommended
+RES0141,M.Tech CSE,Senior,7,"Django, SQL, Python, Flask, MySQL, React, Pandas",Backend Developer,Delhi,62.5,73.75,Recommended
+RES0142,MCA,Mid-Level,5,"MongoDB, HTML, Git, JavaScript, React, CSS, Deep Learning, Node.js",Web Developer,Warangal,87.5,86.25,Highly Recommended
+RES0143,B.Tech CSE,Junior,2,"AWS, Azure, Linux, Kubernetes, Networking",Cloud Engineer,Chennai,62.5,53.75,Recommended
+RES0144,B.Sc Computer Science,Senior,8,"HTML, Node.js, CSS, React, JavaScript, Git, REST API, MongoDB, AWS, Linux",Web Developer,Delhi,100.0,100.0,Highly Recommended
+RES0145,B.Tech CSE,Mid-Level,4,"Machine Learning, Python, Scikit-learn, Docker, TensorFlow, Git, HTML",ML Engineer,Delhi,62.5,63.75,Recommended
+RES0146,B.Tech CSE,Senior,7,"Node.js, Git, React, CSS, HTML",Web Developer,Delhi,62.5,73.75,Recommended
+RES0147,B.Sc Computer Science,Junior,1,"Git, MongoDB, JavaScript, HTML, CSS, Excel",Web Developer,Warangal,62.5,48.75,Not Recommended
+RES0148,MCA,Junior,1,"TensorFlow, Python, Machine Learning, Scikit-learn, PyTorch, Docker, SQL, Deep Learning, Power BI, Git",ML Engineer,Hyderabad,100.0,75.0,Highly Recommended
+RES0149,MCA,Mid-Level,3,"Docker, PyTorch, TensorFlow, Scikit-learn, Python, SQL, Machine Learning, Node.js, Django",ML Engineer,Warangal,87.5,76.25,Highly Recommended
+RES0150,B.Tech IT,Mid-Level,5,"SQL, MySQL, Java, REST API, Python, Django, Git, Flask",Backend Developer,Bangalore,100.0,95.0,Highly Recommended
+RES0151,M.Tech CSE,Fresher,0,"PyTorch, SQL, Python, Deep Learning, Machine Learning, Docker, TensorFlow, Scikit-learn, REST API, JavaScript",ML Engineer,Mumbai,100.0,70.0,Recommended
+RES0152,B.Tech CSE,Fresher,0,"Docker, Azure, Python, Linux, Networking, Deep Learning, Java",Cloud Engineer,Delhi,62.5,43.75,Not Recommended
+RES0153,B.Sc Computer Science,Senior,7,"REST API, MySQL, Django, Git, Python, Java, Power BI, Statistics",Backend Developer,Warangal,75.0,82.5,Highly Recommended
+RES0154,B.Tech IT,Mid-Level,5,"Linux, Kubernetes, AWS, Python, Azure, Git, Docker, NumPy",Cloud Engineer,Bangalore,87.5,86.25,Highly Recommended
+RES0155,MCA,Fresher,0,"Scikit-learn, TensorFlow, Machine Learning, Deep Learning, Python, Docker",ML Engineer,Chennai,75.0,52.5,Recommended
+RES0156,B.Tech IT,Mid-Level,5,"JavaScript, HTML, REST API, MongoDB, React, Git, Azure",Web Developer,Delhi,75.0,77.5,Highly Recommended
+RES0157,B.Tech CSE,Fresher,0,"Deep Learning, TensorFlow, PyTorch, SQL, Scikit-learn, CSS",ML Engineer,Pune,62.5,43.75,Not Recommended
+RES0158,MCA,Mid-Level,5,"REST API, Java, Django, SQL, Python, Git, MySQL, JavaScript",Backend Developer,Hyderabad,87.5,86.25,Highly Recommended
+RES0159,M.Tech CSE,Junior,2,"Excel, Data Visualization, NumPy, Statistics, Power BI, SQL, Python, Deep Learning",Data Analyst,Mumbai,87.5,71.25,Recommended
+RES0160,M.Tech CSE,Fresher,0,"SQL, PyTorch, TensorFlow, Docker, Machine Learning",ML Engineer,Bangalore,62.5,43.75,Not Recommended
+RES0161,M.Tech CSE,Fresher,0,"NumPy, Statistics, Excel, Pandas, Data Visualization, Python, Power BI, HTML, Git",Data Analyst,Hyderabad,87.5,61.25,Recommended
+RES0162,M.Tech CSE,Junior,2,"NumPy, Statistics, Power BI, Pandas, Data Visualization",Data Analyst,Mumbai,62.5,53.75,Recommended
+RES0163,MCA,Mid-Level,4,"SQL, PyTorch, Scikit-learn, Deep Learning, Docker, CSS, NumPy",ML Engineer,Warangal,62.5,63.75,Recommended
+RES0164,M.Tech CSE,Senior,8,"NumPy, Data Visualization, Python, Power BI, Excel, Pandas, SQL, Java",Data Analyst,Delhi,87.5,91.25,Highly Recommended
+RES0165,M.Tech CSE,Fresher,0,"REST API, Flask, Python, Django, Git, MySQL, Java, SQL, Networking, Node.js",Backend Developer,Bangalore,100.0,70.0,Recommended
+RES0166,B.Tech IT,Junior,2,"NumPy, Power BI, SQL, Statistics, Data Visualization, Pandas, Excel, Machine Learning, Deep Learning",Data Analyst,Delhi,87.5,71.25,Recommended
+RES0167,B.Tech IT,Mid-Level,5,"REST API, JavaScript, CSS, React, MongoDB, Node.js, Git, HTML, Docker, Azure",Web Developer,Chennai,100.0,95.0,Highly Recommended
+RES0168,B.Sc Computer Science,Mid-Level,3,"NumPy, Scikit-learn, SQL, Pandas, Machine Learning, Statistics, HTML",Data Scientist,Mumbai,75.0,67.5,Recommended
+RES0169,B.Sc Computer Science,Senior,7,"Git, Kubernetes, Docker, Azure, Python, AWS, Linux, Networking, HTML",Cloud Engineer,Bangalore,100.0,100.0,Highly Recommended
+RES0170,M.Tech CSE,Junior,1,"Django, Java, Python, Git, MySQL, Flask",Backend Developer,Hyderabad,75.0,57.5,Recommended
+RES0171,MCA,Senior,7,"NumPy, Data Visualization, Power BI, Python, SQL, Pandas, Excel, JavaScript",Data Analyst,Warangal,87.5,91.25,Highly Recommended
+RES0172,B.Tech IT,Senior,7,"PyTorch, Scikit-learn, Python, SQL, Machine Learning, Deep Learning, MongoDB, Node.js",ML Engineer,Hyderabad,75.0,82.5,Highly Recommended
+RES0173,MCA,Senior,7,"JavaScript, Git, MongoDB, HTML, Node.js, CSS, React, Networking",Web Developer,Warangal,87.5,91.25,Highly Recommended
+RES0174,B.Tech IT,Fresher,0,"Django, Java, Python, SQL, MySQL, Git, REST API, React, Data Visualization",Backend Developer,Delhi,87.5,61.25,Recommended
+RES0175,MCA,Fresher,0,"TensorFlow, Machine Learning, PyTorch, Docker, Scikit-learn, Deep Learning, MySQL",ML Engineer,Bangalore,75.0,52.5,Recommended
+RES0176,B.Sc Computer Science,Fresher,0,"Scikit-learn, SQL, Python, Machine Learning, Pandas, Deep Learning, Statistics, REST API",Data Scientist,Chennai,87.5,61.25,Recommended
+RES0177,MCA,Mid-Level,5,"Kubernetes, AWS, Python, Git, Networking, Azure",Cloud Engineer,Hyderabad,75.0,77.5,Highly Recommended
+RES0178,MCA,Mid-Level,4,"Python, Linux, Azure, Networking, Git, Kubernetes",Cloud Engineer,Delhi,75.0,72.5,Recommended
+RES0179,B.Tech CSE,Fresher,0,"REST API, MySQL, Java, Django, Python, SQL, Flask, Data Visualization, Git",Backend Developer,Hyderabad,100.0,70.0,Recommended
+RES0180,M.Tech CSE,Senior,6,"REST API, Django, MySQL, Java, Flask, Git, SQL, Python, Excel, Machine Learning",Backend Developer,Mumbai,100.0,100.0,Highly Recommended
+RES0181,B.Tech CSE,Senior,8,"MongoDB, CSS, Node.js, React, HTML",Web Developer,Delhi,62.5,73.75,Recommended
+RES0182,B.Tech CSE,Fresher,0,"Pandas, Statistics, Python, SQL, NumPy, Power BI, Data Visualization, MongoDB",Data Analyst,Hyderabad,87.5,61.25,Recommended
+RES0183,MCA,Mid-Level,4,"Node.js, React, CSS, Git, Flask, PyTorch",Web Developer,Pune,50.0,55.0,Recommended
+RES0184,B.Tech IT,Senior,10,"CSS, Git, REST API, Node.js, MongoDB, JavaScript, React",Web Developer,Bangalore,87.5,91.25,Highly Recommended
+RES0185,MCA,Senior,7,"AWS, Git, Networking, Docker, Kubernetes, MongoDB, Linux",Cloud Engineer,Bangalore,75.0,82.5,Highly Recommended
+RES0186,B.Tech CSE,Junior,1,"JavaScript, MongoDB, CSS, HTML, Node.js, REST API, Power BI",Web Developer,Hyderabad,75.0,57.5,Recommended
+RES0187,M.Tech CSE,Junior,1,"Python, Power BI, Pandas, Data Visualization, SQL, Excel, NumPy, Statistics, TensorFlow",Data Analyst,Bangalore,100.0,75.0,Highly Recommended
+RES0188,B.Sc Computer Science,Junior,2,"REST API, MySQL, Flask, Django, SQL, Git, Machine Learning, JavaScript",Backend Developer,Bangalore,75.0,62.5,Recommended
+RES0189,B.Sc Computer Science,Senior,10,"Kubernetes, Networking, Docker, Python, AWS, Linux, Git, Azure, Power BI, Deep Learning",Cloud Engineer,Chennai,100.0,100.0,Highly Recommended
+RES0190,B.Tech IT,Mid-Level,5,"Git, Azure, Docker, Kubernetes, Networking, Python, Linux",Cloud Engineer,Bangalore,87.5,86.25,Highly Recommended
+RES0191,MCA,Junior,2,"REST API, React, Node.js, Git",Web Developer,Bangalore,50.0,45.0,Not Recommended
+RES0192,B.Tech IT,Fresher,0,"Docker, SQL, Deep Learning, Python, Flask, Machine Learning",ML Engineer,Chennai,62.5,43.75,Not Recommended
+RES0193,B.Tech IT,Junior,1,"HTML, REST API, MongoDB, CSS, Node.js, React, Git, JavaScript, Java",Web Developer,Delhi,100.0,75.0,Highly Recommended
+RES0194,MCA,Mid-Level,4,"React, MongoDB, CSS, Node.js, JavaScript, Scikit-learn",Web Developer,Chennai,62.5,63.75,Recommended
+RES0195,M.Tech CSE,Junior,1,"Docker, TensorFlow, Python, SQL, Deep Learning, Scikit-learn, Machine Learning, PyTorch, Node.js",ML Engineer,Hyderabad,100.0,75.0,Highly Recommended
+RES0196,B.Sc Computer Science,Mid-Level,4,"SQL, Deep Learning, Machine Learning, Scikit-learn, Docker, Python, PyTorch, TensorFlow, Linux",ML Engineer,Delhi,100.0,90.0,Highly Recommended
+RES0197,M.Tech CSE,Fresher,0,"Networking, Azure, Python, Docker, Git, AWS, Kubernetes",Cloud Engineer,Mumbai,87.5,61.25,Recommended
+RES0198,B.Tech IT,Fresher,0,"Python, Statistics, Data Visualization, Power BI",Data Analyst,Delhi,50.0,35.0,Not Recommended
+RES0199,M.Tech CSE,Senior,9,"Pandas, NumPy, Deep Learning, Machine Learning",Data Scientist,Hyderabad,50.0,65.0,Recommended
+RES0200,MCA,Junior,1,"Statistics, Python, Data Visualization, Pandas, Excel, Power BI, SQL, NumPy, Machine Learning, MongoDB",Data Analyst,Hyderabad,100.0,75.0,Highly Recommended
+RES0201,MCA,Fresher,0,"REST API, Java, Django, Flask, SQL, Excel",Backend Developer,Chennai,62.5,43.75,Not Recommended
+RES0202,MCA,Senior,9,"React, Git, CSS, JavaScript, HTML, Node.js, MongoDB",Web Developer,Mumbai,87.5,91.25,Highly Recommended
+RES0203,B.Sc Computer Science,Fresher,0,"HTML, Git, CSS, MongoDB, Statistics",Web Developer,Mumbai,50.0,35.0,Not Recommended
+RES0204,B.Tech CSE,Mid-Level,5,"Power BI, Statistics, NumPy, Pandas, Data Visualization, Deep Learning",Data Analyst,Mumbai,62.5,68.75,Recommended
+RES0205,M.Tech CSE,Junior,2,"Docker, Git, Networking, AWS",Cloud Engineer,Hyderabad,50.0,45.0,Not Recommended
+RES0206,B.Tech IT,Fresher,0,"TensorFlow, PyTorch, Docker, SQL, Deep Learning, Data Visualization",ML Engineer,Mumbai,62.5,43.75,Not Recommended
+RES0207,M.Tech CSE,Senior,8,"AWS, Networking, Kubernetes, Azure, Git, Linux, Machine Learning, SQL",Cloud Engineer,Hyderabad,75.0,82.5,Highly Recommended
+RES0208,M.Tech CSE,Senior,6,"Networking, Kubernetes, Azure, Docker, Git, Python",Cloud Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0209,B.Tech IT,Senior,8,"REST API, Flask, Python, MySQL, SQL, Django, MongoDB",Backend Developer,Chennai,75.0,82.5,Highly Recommended
+RES0210,B.Tech IT,Fresher,0,"Python, Excel, Power BI, Statistics, MySQL",Data Analyst,Bangalore,50.0,35.0,Not Recommended
+RES0211,MCA,Fresher,0,"REST API, HTML, MongoDB, Git, JavaScript, React, Node.js, PyTorch, Statistics",Web Developer,Chennai,87.5,61.25,Recommended
+RES0212,B.Tech IT,Mid-Level,4,"CSS, Git, Node.js, MongoDB, REST API, JavaScript, React",Web Developer,Chennai,87.5,81.25,Highly Recommended
+RES0213,B.Tech CSE,Mid-Level,4,"CSS, MongoDB, React, JavaScript, Git, Django",Web Developer,Bangalore,62.5,63.75,Recommended
+RES0214,MCA,Mid-Level,4,"Kubernetes, Networking, AWS, Azure, Docker, Python, Linux, JavaScript",Cloud Engineer,Chennai,87.5,81.25,Highly Recommended
+RES0215,B.Sc Computer Science,Senior,10,"JavaScript, MongoDB, REST API, Node.js, CSS, React, Git, HTML, Statistics",Web Developer,Warangal,100.0,100.0,Highly Recommended
+RES0216,M.Tech CSE,Junior,1,"Statistics, Machine Learning, Pandas, Deep Learning, Python, NumPy",Data Scientist,Delhi,75.0,57.5,Recommended
+RES0217,B.Sc Computer Science,Junior,2,"MongoDB, REST API, JavaScript, HTML, React, Django, Python",Web Developer,Delhi,62.5,53.75,Recommended
+RES0218,MCA,Fresher,0,"Statistics, Python, Pandas, NumPy, Scikit-learn, Machine Learning, SQL, HTML, MongoDB",Data Scientist,Warangal,87.5,61.25,Recommended
+RES0219,B.Tech CSE,Fresher,0,"Machine Learning, Python, Docker, Deep Learning, Scikit-learn, PyTorch, SQL, TensorFlow, Django",ML Engineer,Hyderabad,100.0,70.0,Recommended
+RES0220,M.Tech CSE,Junior,2,"TensorFlow, Docker, Deep Learning, SQL, PyTorch, HTML, Flask",ML Engineer,Hyderabad,62.5,53.75,Recommended
+RES0221,B.Sc Computer Science,Mid-Level,4,"Node.js, React, HTML, Git, AWS, Statistics",Web Developer,Warangal,50.0,55.0,Recommended
+RES0222,B.Sc Computer Science,Fresher,0,"Deep Learning, Machine Learning, Pandas, Python, Scikit-learn, Statistics, SQL, NumPy",Data Scientist,Warangal,100.0,70.0,Recommended
+RES0223,B.Tech IT,Junior,1,"AWS, Git, Docker, Networking, Data Visualization, Kubernetes",Cloud Engineer,Chennai,62.5,48.75,Not Recommended
+RES0224,M.Tech CSE,Junior,2,"Git, Java, REST API, MySQL, Django, SQL, Flask, Deep Learning",Backend Developer,Mumbai,87.5,71.25,Recommended
+RES0225,B.Tech IT,Mid-Level,4,"HTML, Git, CSS, REST API, JavaScript, React, MongoDB, MySQL, Linux",Web Developer,Bangalore,87.5,81.25,Highly Recommended
+RES0226,MCA,Senior,10,"Node.js, Git, React, MongoDB, REST API, Linux",Web Developer,Hyderabad,62.5,73.75,Recommended
+RES0227,B.Sc Computer Science,Fresher,0,"Docker, PyTorch, Machine Learning, Deep Learning, Python, SQL",ML Engineer,Bangalore,75.0,52.5,Recommended
+RES0228,M.Tech CSE,Junior,2,"Deep Learning, Docker, Scikit-learn, Machine Learning, Statistics, Git",ML Engineer,Pune,50.0,45.0,Not Recommended
+RES0229,M.Tech CSE,Fresher,0,"Machine Learning, NumPy, SQL, Pandas, Deep Learning, Python, Statistics, CSS",Data Scientist,Warangal,87.5,61.25,Recommended
+RES0230,MCA,Senior,9,"Docker, Machine Learning, SQL, TensorFlow, Django, Linux",ML Engineer,Pune,50.0,65.0,Recommended
+RES0231,B.Sc Computer Science,Junior,2,"Networking, Azure, AWS, Linux, Python, Kubernetes, Git",Cloud Engineer,Bangalore,87.5,71.25,Recommended
+RES0232,B.Tech IT,Senior,6,"MongoDB, Node.js, REST API, HTML, Git, CSS, JavaScript, React, NumPy, Power BI",Web Developer,Delhi,100.0,100.0,Highly Recommended
+RES0233,MCA,Fresher,0,"Linux, Git, AWS, Kubernetes, Docker, Node.js",Cloud Engineer,Warangal,62.5,43.75,Not Recommended
+RES0234,M.Tech CSE,Junior,1,"Scikit-learn, Statistics, Deep Learning, NumPy, Pandas",Data Scientist,Warangal,62.5,48.75,Not Recommended
+RES0235,B.Sc Computer Science,Mid-Level,5,"Scikit-learn, NumPy, Machine Learning, Statistics, AWS, Networking",Data Scientist,Chennai,50.0,60.0,Recommended
+RES0236,B.Tech IT,Junior,1,"SQL, MySQL, REST API, Python, Power BI",Backend Developer,Bangalore,50.0,40.0,Not Recommended
+RES0237,MCA,Senior,9,"Kubernetes, Git, Python, Networking, Linux, AWS, JavaScript, REST API",Cloud Engineer,Hyderabad,75.0,82.5,Highly Recommended
+RES0238,MCA,Mid-Level,5,"Git, Linux, Python, Docker, REST API, Pandas",Cloud Engineer,Hyderabad,50.0,60.0,Recommended
+RES0239,M.Tech CSE,Senior,7,"Networking, Python, Git, Docker",Cloud Engineer,Pune,50.0,65.0,Recommended
+RES0240,B.Tech CSE,Fresher,0,"NumPy, Machine Learning, Statistics, Scikit-learn, SQL, Deep Learning, Pandas, Flask",Data Scientist,Hyderabad,87.5,61.25,Recommended
+RES0241,B.Tech IT,Mid-Level,3,"AWS, Networking, Azure, Kubernetes, Linux, Git, Python",Cloud Engineer,Warangal,87.5,76.25,Highly Recommended
+RES0242,B.Tech CSE,Senior,8,"Scikit-learn, Deep Learning, Python, SQL, Power BI, Azure",ML Engineer,Delhi,50.0,65.0,Recommended
+RES0243,MCA,Fresher,0,"Git, Python, AWS, Networking, Linux",Cloud Engineer,Bangalore,62.5,43.75,Not Recommended
+RES0244,B.Tech IT,Senior,6,"Git, Python, MySQL, SQL, Flask, JavaScript",Backend Developer,Bangalore,62.5,73.75,Recommended
+RES0245,MCA,Junior,1,"CSS, HTML, JavaScript, Git, Python",Web Developer,Hyderabad,50.0,40.0,Not Recommended
+RES0246,MCA,Junior,1,"Python, Django, Flask, Java, REST API, MySQL, Git, SQL, JavaScript",Backend Developer,Hyderabad,100.0,75.0,Highly Recommended
+RES0247,B.Tech IT,Mid-Level,5,"Statistics, Machine Learning, Pandas, Deep Learning",Data Scientist,Hyderabad,50.0,60.0,Recommended
+RES0248,B.Tech CSE,Junior,2,"NumPy, Statistics, Scikit-learn, Python, Machine Learning, Deep Learning, Pandas, SQL, Flask",Data Scientist,Pune,100.0,80.0,Highly Recommended
+RES0249,B.Tech IT,Senior,10,"Data Visualization, NumPy, Pandas, Python, Statistics, React",Data Analyst,Pune,62.5,73.75,Recommended
+RES0250,B.Tech CSE,Fresher,0,"Deep Learning, SQL, TensorFlow, Python, PyTorch, Docker, Scikit-learn, Machine Learning, Excel",ML Engineer,Warangal,100.0,70.0,Recommended
+RES0251,B.Tech IT,Mid-Level,3,"Node.js, Git, REST API, MongoDB, React, CSS, JavaScript, HTML, Power BI, SQL",Web Developer,Chennai,100.0,85.0,Highly Recommended
+RES0252,B.Tech CSE,Junior,1,"Power BI, Statistics, SQL, Pandas, Excel, NumPy, Python, Data Visualization, Django, TensorFlow",Data Analyst,Pune,100.0,75.0,Highly Recommended
+RES0253,MCA,Mid-Level,5,"Python, Excel, NumPy, SQL, Data Visualization, Power BI, Statistics, Java, Kubernetes",Data Analyst,Mumbai,87.5,86.25,Highly Recommended
+RES0254,B.Sc Computer Science,Fresher,0,"Docker, Networking, Azure, Git, AWS, Kubernetes, CSS",Cloud Engineer,Chennai,75.0,52.5,Recommended
+RES0255,B.Sc Computer Science,Fresher,0,"Azure, Kubernetes, Git, Linux, Docker, AWS, Networking, Python, Excel",Cloud Engineer,Mumbai,100.0,70.0,Recommended
+RES0256,B.Tech CSE,Junior,1,"Kubernetes, Python, Linux, AWS",Cloud Engineer,Pune,50.0,40.0,Not Recommended
+RES0257,MCA,Mid-Level,4,"Deep Learning, Machine Learning, Python, PyTorch, TensorFlow, Scikit-learn, SQL",ML Engineer,Warangal,87.5,81.25,Highly Recommended
+RES0258,MCA,Mid-Level,4,"NumPy, Python, Pandas, Statistics, SQL, Data Visualization, Excel, Power BI",Data Analyst,Chennai,100.0,90.0,Highly Recommended
+RES0259,M.Tech CSE,Senior,7,"Data Visualization, Python, Excel, SQL, NumPy, Power BI, Pandas, Statistics, Scikit-learn",Data Analyst,Delhi,100.0,100.0,Highly Recommended
+RES0260,B.Tech CSE,Mid-Level,3,"SQL, Python, REST API, MySQL, Java, Git, PyTorch",Backend Developer,Warangal,75.0,67.5,Recommended
+RES0261,B.Tech IT,Mid-Level,3,"Linux, AWS, Azure, Networking, Python, Kubernetes, Docker",Cloud Engineer,Hyderabad,87.5,76.25,Highly Recommended
+RES0262,M.Tech CSE,Fresher,0,"Statistics, Scikit-learn, Machine Learning, Pandas, Python, Deep Learning, NumPy, SQL, Django, MySQL",Data Scientist,Pune,100.0,70.0,Recommended
+RES0263,B.Sc Computer Science,Senior,8,"Kubernetes, Docker, Git, Python, Networking, MongoDB, Statistics",Cloud Engineer,Bangalore,62.5,73.75,Recommended
+RES0264,B.Tech IT,Senior,9,"Excel, Statistics, Pandas, Python, SQL",Data Analyst,Chennai,62.5,73.75,Recommended
+RES0265,B.Sc Computer Science,Fresher,0,"Git, REST API, CSS, React, Django",Web Developer,Hyderabad,50.0,35.0,Not Recommended
+RES0266,B.Sc Computer Science,Senior,10,"Python, SQL, Machine Learning, Statistics, Deep Learning, Scikit-learn",Data Scientist,Hyderabad,75.0,82.5,Highly Recommended
+RES0267,B.Tech IT,Fresher,0,"Linux, Git, Azure, AWS, Kubernetes, Python, Data Visualization, Power BI",Cloud Engineer,Pune,75.0,52.5,Recommended
+RES0268,MCA,Mid-Level,5,"SQL, Python, Statistics, Data Visualization, Pandas",Data Analyst,Delhi,62.5,68.75,Recommended
+RES0269,B.Tech IT,Senior,7,"Linux, Git, AWS, Python",Cloud Engineer,Hyderabad,50.0,65.0,Recommended
+RES0270,MCA,Senior,6,"Python, TensorFlow, Docker, Machine Learning, Git, Data Visualization",ML Engineer,Pune,50.0,65.0,Recommended
+RES0271,B.Tech CSE,Junior,2,"Docker, Networking, Azure, Python, Git, Linux, Kubernetes",Cloud Engineer,Pune,87.5,71.25,Recommended
+RES0272,M.Tech CSE,Fresher,0,"MongoDB, HTML, REST API, JavaScript, React, Git, CSS, Node.js, Linux, TensorFlow",Web Developer,Pune,100.0,70.0,Recommended
+RES0273,B.Tech CSE,Mid-Level,5,"Networking, Linux, Kubernetes, Docker, Git, Azure, AWS",Cloud Engineer,Bangalore,87.5,86.25,Highly Recommended
+RES0274,B.Tech IT,Fresher,0,"Python, Statistics, Power BI, Pandas, Excel, NumPy",Data Analyst,Bangalore,75.0,52.5,Recommended
+RES0275,B.Sc Computer Science,Junior,1,"Linux, Networking, Python, AWS, Azure, Machine Learning, Pandas",Cloud Engineer,Bangalore,62.5,48.75,Not Recommended
+RES0276,MCA,Mid-Level,3,"Flask, Django, Python, SQL, Java, MySQL",Backend Developer,Pune,75.0,67.5,Recommended
+RES0277,M.Tech CSE,Senior,6,"Python, SQL, Pandas, Statistics",Data Analyst,Chennai,50.0,65.0,Recommended
+RES0278,B.Tech CSE,Junior,1,"SQL, Git, Flask, Java, MySQL",Backend Developer,Warangal,62.5,48.75,Not Recommended
+RES0279,B.Tech IT,Senior,9,"NumPy, Python, Excel, Power BI, Statistics, SQL, Data Visualization, Pandas",Data Analyst,Delhi,100.0,100.0,Highly Recommended
+RES0280,B.Sc Computer Science,Junior,1,"Scikit-learn, Machine Learning, Docker, PyTorch, SQL, Excel",ML Engineer,Delhi,62.5,48.75,Not Recommended
+RES0281,MCA,Junior,2,"Statistics, Data Visualization, Pandas, Python, SQL, Excel, Power BI, NumPy, PyTorch, MySQL",Data Analyst,Delhi,100.0,80.0,Highly Recommended
+RES0282,B.Sc Computer Science,Junior,1,"NumPy, Excel, SQL, Python, Statistics, Java",Data Analyst,Delhi,62.5,48.75,Not Recommended
+RES0283,MCA,Junior,2,"Pandas, Statistics, Python, NumPy, Data Visualization, SQL, MongoDB",Data Analyst,Pune,75.0,62.5,Recommended
+RES0284,B.Tech CSE,Mid-Level,3,"REST API, HTML, React, Node.js, CSS, MongoDB, MySQL",Web Developer,Chennai,75.0,67.5,Recommended
+RES0285,B.Tech CSE,Fresher,0,"Machine Learning, Deep Learning, Docker, TensorFlow",ML Engineer,Chennai,50.0,35.0,Not Recommended
+RES0286,B.Tech CSE,Mid-Level,3,"Git, Flask, Python, REST API, Java, SQL, Django, MySQL",Backend Developer,Bangalore,100.0,85.0,Highly Recommended
+RES0287,B.Tech IT,Fresher,0,"Node.js, Git, JavaScript, REST API, CSS, HTML, MongoDB, React, Power BI, Docker",Web Developer,Chennai,100.0,70.0,Recommended
+RES0288,B.Tech IT,Junior,2,"SQL, Excel, NumPy, Pandas, Power BI, Python, Statistics",Data Analyst,Hyderabad,87.5,71.25,Recommended
+RES0289,B.Sc Computer Science,Fresher,0,"Node.js, REST API, React, Git, SQL",Web Developer,Delhi,50.0,35.0,Not Recommended
+RES0290,MCA,Mid-Level,3,"SQL, Git, REST API, MySQL, Java, Flask, Python, NumPy",Backend Developer,Warangal,87.5,76.25,Highly Recommended
+RES0291,B.Tech CSE,Senior,10,"Python, Machine Learning, Scikit-learn, Docker, PyTorch, Deep Learning, SQL, TensorFlow, Networking, Linux",ML Engineer,Pune,100.0,100.0,Highly Recommended
+RES0292,M.Tech CSE,Junior,1,"REST API, Git, SQL, Python, MySQL, Flask, Django, Power BI, HTML",Backend Developer,Warangal,87.5,66.25,Recommended
+RES0293,MCA,Junior,1,"JavaScript, CSS, REST API, Git, HTML, Node.js",Web Developer,Warangal,75.0,57.5,Recommended
+RES0294,B.Sc Computer Science,Mid-Level,5,"Flask, Git, Python, MySQL, REST API, SQL, HTML",Backend Developer,Pune,75.0,77.5,Highly Recommended
+RES0295,M.Tech CSE,Mid-Level,4,"Statistics, Python, Power BI, SQL, Pandas, Excel, Data Visualization, NumPy, MySQL, React",Data Analyst,Chennai,100.0,90.0,Highly Recommended
+RES0296,MCA,Mid-Level,5,"MongoDB, HTML, CSS, JavaScript, React, REST API, Git",Web Developer,Bangalore,87.5,86.25,Highly Recommended
+RES0297,B.Tech CSE,Junior,1,"Pandas, Excel, Python, Statistics, Data Visualization, SQL, Power BI, MongoDB",Data Analyst,Chennai,87.5,66.25,Recommended
+RES0298,MCA,Senior,10,"Python, Docker, Networking, Kubernetes, AWS, Linux, Azure",Cloud Engineer,Warangal,87.5,91.25,Highly Recommended
+RES0299,M.Tech CSE,Fresher,0,"Deep Learning, Python, Docker, PyTorch, Kubernetes",ML Engineer,Bangalore,50.0,35.0,Not Recommended
+RES0300,B.Tech IT,Mid-Level,4,"Python, SQL, Deep Learning, Pandas, Scikit-learn, Flask",Data Scientist,Warangal,62.5,63.75,Recommended
+RES0301,MCA,Mid-Level,4,"REST API, Git, HTML, MongoDB, CSS, React, JavaScript, Node.js",Web Developer,Bangalore,100.0,90.0,Highly Recommended
+RES0302,M.Tech CSE,Junior,1,"PyTorch, Python, TensorFlow, SQL",ML Engineer,Delhi,50.0,40.0,Not Recommended
+RES0303,B.Tech IT,Junior,1,"NumPy, Scikit-learn, Pandas, Deep Learning, Python, Java, Docker",Data Scientist,Bangalore,62.5,48.75,Not Recommended
+RES0304,MCA,Mid-Level,5,"PyTorch, Scikit-learn, SQL, Deep Learning, TensorFlow, Machine Learning, Docker, Python, Excel",ML Engineer,Mumbai,100.0,95.0,Highly Recommended
+RES0305,B.Sc Computer Science,Mid-Level,5,"Java, Python, Django, SQL, Flask, Git, MySQL, AWS",Backend Developer,Chennai,87.5,86.25,Highly Recommended
+RES0306,B.Sc Computer Science,Junior,1,"PyTorch, Machine Learning, SQL, Docker, Scikit-learn, Python, Statistics, JavaScript",ML Engineer,Delhi,75.0,57.5,Recommended
+RES0307,B.Sc Computer Science,Junior,2,"Node.js, React, REST API, Git, HTML, JavaScript, Power BI, Azure",Web Developer,Delhi,75.0,62.5,Recommended
+RES0308,B.Sc Computer Science,Junior,2,"PyTorch, SQL, Machine Learning, Docker, Scikit-learn, TensorFlow, Python, Deep Learning",ML Engineer,Delhi,100.0,80.0,Highly Recommended
+RES0309,B.Sc Computer Science,Mid-Level,4,"NumPy, SQL, Data Visualization, Excel, Power BI, REST API",Data Analyst,Warangal,62.5,63.75,Recommended
+RES0310,MCA,Mid-Level,4,"Python, Statistics, NumPy, Pandas, Data Visualization, SQL, Power BI, MySQL, Flask",Data Analyst,Hyderabad,87.5,81.25,Highly Recommended
+RES0311,B.Sc Computer Science,Junior,1,"Pandas, Machine Learning, Deep Learning, NumPy, Scikit-learn",Data Scientist,Pune,62.5,48.75,Not Recommended
+RES0312,B.Tech IT,Junior,2,"Scikit-learn, Docker, Python, SQL, TensorFlow, Azure",ML Engineer,Warangal,62.5,53.75,Recommended
+RES0313,B.Tech CSE,Fresher,0,"Statistics, NumPy, Power BI, Data Visualization, Pandas, REST API",Data Analyst,Mumbai,62.5,43.75,Not Recommended
+RES0314,B.Tech IT,Junior,2,"Python, Machine Learning, NumPy, SQL, Deep Learning, Statistics",Data Scientist,Chennai,75.0,62.5,Recommended
+RES0315,B.Tech CSE,Fresher,0,"Statistics, NumPy, Deep Learning, Machine Learning",Data Scientist,Chennai,50.0,35.0,Not Recommended
+RES0316,B.Tech IT,Senior,6,"Scikit-learn, TensorFlow, Docker, Machine Learning, Deep Learning, PyTorch, SQL",ML Engineer,Bangalore,87.5,91.25,Highly Recommended
+RES0317,B.Sc Computer Science,Fresher,0,"Pandas, Scikit-learn, Python, NumPy, SQL",Data Scientist,Pune,62.5,43.75,Not Recommended
+RES0318,MCA,Senior,6,"AWS, Linux, Networking, Python, Git, Kubernetes, MySQL, CSS",Cloud Engineer,Mumbai,75.0,82.5,Highly Recommended
+RES0319,M.Tech CSE,Junior,2,"Deep Learning, Machine Learning, Scikit-learn, Python, Docker, SQL, PyTorch, NumPy, Networking",ML Engineer,Warangal,87.5,71.25,Recommended
+RES0320,MCA,Mid-Level,3,"SQL, Excel, Python, NumPy, Power BI, Pandas, Statistics, Data Visualization, Azure, Scikit-learn",Data Analyst,Hyderabad,100.0,85.0,Highly Recommended
+RES0321,M.Tech CSE,Senior,7,"REST API, Flask, Git, SQL, Java, Python, Django, MySQL, AWS",Backend Developer,Hyderabad,100.0,100.0,Highly Recommended
+RES0322,B.Sc Computer Science,Senior,6,"Java, SQL, Flask, Git, Networking",Backend Developer,Hyderabad,50.0,65.0,Recommended
+RES0323,B.Tech CSE,Fresher,0,"NumPy, Machine Learning, Scikit-learn, Statistics, JavaScript",Data Scientist,Warangal,50.0,35.0,Not Recommended
+RES0324,MCA,Mid-Level,5,"Excel, NumPy, Statistics, SQL, REST API",Data Analyst,Hyderabad,50.0,60.0,Recommended
+RES0325,MCA,Senior,7,"Deep Learning, Python, TensorFlow, Scikit-learn, PyTorch, Machine Learning, Flask",ML Engineer,Hyderabad,75.0,82.5,Highly Recommended
+RES0326,M.Tech CSE,Senior,7,"Machine Learning, Python, Pandas, NumPy, MongoDB",Data Scientist,Mumbai,50.0,65.0,Recommended
+RES0327,MCA,Senior,6,"HTML, REST API, Git, CSS, React, Node.js",Web Developer,Hyderabad,75.0,82.5,Highly Recommended
+RES0328,M.Tech CSE,Fresher,0,"Python, Scikit-learn, SQL, PyTorch, Machine Learning, Deep Learning, NumPy",ML Engineer,Pune,75.0,52.5,Recommended
+RES0329,B.Tech CSE,Junior,2,"Networking, Docker, Python, Kubernetes, Azure, PyTorch, Deep Learning",Cloud Engineer,Warangal,62.5,53.75,Recommended
+RES0330,B.Tech CSE,Junior,2,"CSS, REST API, React, JavaScript, MongoDB, TensorFlow",Web Developer,Pune,62.5,53.75,Recommended
+RES0331,MCA,Senior,8,"Deep Learning, Pandas, NumPy, Statistics",Data Scientist,Hyderabad,50.0,65.0,Recommended
+RES0332,B.Tech CSE,Mid-Level,5,"CSS, React, REST API, HTML, Docker, Java",Web Developer,Mumbai,50.0,60.0,Recommended
+RES0333,MCA,Fresher,0,"Scikit-learn, Machine Learning, Python, SQL, Pandas, NumPy, Statistics, Flask, REST API",Data Scientist,Hyderabad,87.5,61.25,Recommended
+RES0334,B.Tech IT,Senior,7,"AWS, Docker, Git, Python, Linux, MySQL, Deep Learning",Cloud Engineer,Warangal,62.5,73.75,Recommended
+RES0335,MCA,Junior,2,"Azure, Docker, Linux, Networking, Python, AWS, Kubernetes",Cloud Engineer,Hyderabad,87.5,71.25,Recommended
+RES0336,B.Tech IT,Senior,6,"CSS, REST API, React, Git, Linux, Docker",Web Developer,Mumbai,50.0,65.0,Recommended
+RES0337,M.Tech CSE,Junior,1,"Git, Networking, Linux, Kubernetes, MongoDB, AWS",Cloud Engineer,Hyderabad,62.5,48.75,Not Recommended
+RES0338,B.Tech IT,Junior,2,"Git, Node.js, React, MongoDB, CSS, REST API, JavaScript, HTML, NumPy",Web Developer,Mumbai,100.0,80.0,Highly Recommended
+RES0339,M.Tech CSE,Mid-Level,5,"Linux, Git, Python, Networking, Docker, Kubernetes, AWS, Azure",Cloud Engineer,Chennai,100.0,95.0,Highly Recommended
+RES0340,MCA,Senior,10,"Docker, Linux, Git, Networking, AWS, HTML",Cloud Engineer,Chennai,62.5,73.75,Recommended
+RES0341,B.Tech CSE,Junior,2,"CSS, HTML, React, MongoDB",Web Developer,Warangal,50.0,45.0,Not Recommended
+RES0342,B.Sc Computer Science,Senior,6,"NumPy, SQL, Python, Machine Learning, Statistics, Deep Learning",Data Scientist,Mumbai,75.0,82.5,Highly Recommended
+RES0343,MCA,Mid-Level,5,"Kubernetes, Python, Git, Linux, Networking, AWS, Azure, Docker, CSS",Cloud Engineer,Hyderabad,100.0,95.0,Highly Recommended
+RES0344,B.Tech IT,Junior,2,"Power BI, Pandas, Data Visualization, SQL, Excel, NumPy, MongoDB, Linux",Data Analyst,Pune,75.0,62.5,Recommended
+RES0345,MCA,Fresher,0,"Machine Learning, SQL, Scikit-learn, NumPy",Data Scientist,Pune,50.0,35.0,Not Recommended
+RES0346,B.Tech IT,Mid-Level,5,"PyTorch, Machine Learning, SQL, Docker, Deep Learning, Python, Scikit-learn, TensorFlow, Kubernetes, Node.js",ML Engineer,Hyderabad,100.0,95.0,Highly Recommended
+RES0347,M.Tech CSE,Fresher,0,"Linux, Kubernetes, Networking, Python, Docker, AWS, Azure, Git",Cloud Engineer,Warangal,100.0,70.0,Recommended
+RES0348,B.Tech IT,Mid-Level,4,"MySQL, Django, Git, REST API, Python, Excel",Backend Developer,Chennai,62.5,63.75,Recommended
+RES0349,B.Tech IT,Junior,1,"Docker, PyTorch, Scikit-learn, Python, SQL, REST API, Pandas",ML Engineer,Delhi,62.5,48.75,Not Recommended
+RES0350,MCA,Fresher,0,"Machine Learning, TensorFlow, Deep Learning, PyTorch, Scikit-learn, Python, Docker, HTML, CSS",ML Engineer,Chennai,87.5,61.25,Recommended
+RES0351,B.Tech CSE,Junior,1,"Python, Linux, AWS, Networking, Azure, HTML, Java",Cloud Engineer,Warangal,62.5,48.75,Not Recommended
+RES0352,MCA,Mid-Level,3,"Azure, Networking, Linux, Kubernetes, AWS, Docker, Python",Cloud Engineer,Hyderabad,87.5,76.25,Highly Recommended
+RES0353,M.Tech CSE,Junior,2,"Excel, Statistics, Data Visualization, Pandas",Data Analyst,Pune,50.0,45.0,Not Recommended
+RES0354,M.Tech CSE,Fresher,0,"REST API, React, JavaScript, HTML, MongoDB, Git, Node.js, Java, SQL",Web Developer,Warangal,87.5,61.25,Recommended
+RES0355,MCA,Senior,6,"AWS, Python, Networking, Docker, Git, Azure, Linux, Kubernetes, HTML",Cloud Engineer,Pune,100.0,100.0,Highly Recommended
+RES0356,B.Tech CSE,Junior,1,"Pandas, SQL, Scikit-learn, Deep Learning, Machine Learning, NumPy, Python, Statistics, Flask, Git",Data Scientist,Hyderabad,100.0,75.0,Highly Recommended
+RES0357,M.Tech CSE,Junior,1,"Statistics, Pandas, Data Visualization, Python, Excel, NumPy, SQL, Power BI, Flask",Data Analyst,Bangalore,100.0,75.0,Highly Recommended
+RES0358,B.Tech CSE,Mid-Level,3,"NumPy, SQL, Python, Statistics, Scikit-learn, Machine Learning, Deep Learning, Pandas, MongoDB",Data Scientist,Bangalore,100.0,85.0,Highly Recommended
+RES0359,B.Sc Computer Science,Senior,9,"Networking, Docker, Git, Azure, Linux, AWS, Kubernetes, Python",Cloud Engineer,Chennai,100.0,100.0,Highly Recommended
+RES0360,B.Tech CSE,Mid-Level,3,"SQL, Django, MySQL, Git, Flask, Java",Backend Developer,Warangal,75.0,67.5,Recommended
+RES0361,B.Sc Computer Science,Senior,10,"NumPy, Statistics, Machine Learning, SQL, Scikit-learn, Deep Learning, Pandas, REST API",Data Scientist,Hyderabad,87.5,91.25,Highly Recommended
+RES0362,M.Tech CSE,Fresher,0,"SQL, Statistics, Machine Learning, Deep Learning, NumPy, Pandas, Python, Scikit-learn",Data Scientist,Warangal,100.0,70.0,Recommended
+RES0363,MCA,Junior,2,"MySQL, Git, Django, Java, Python, SQL, Flask, REST API, Azure, Pandas",Backend Developer,Bangalore,100.0,80.0,Highly Recommended
+RES0364,B.Tech IT,Junior,1,"CSS, React, JavaScript, Node.js, HTML, Git, REST API, MongoDB, AWS, NumPy",Web Developer,Delhi,100.0,75.0,Highly Recommended
+RES0365,B.Tech CSE,Junior,2,"Python, AWS, Azure, Kubernetes, Networking, Git, Linux, REST API",Cloud Engineer,Pune,87.5,71.25,Recommended
+RES0366,M.Tech CSE,Junior,2,"HTML, MongoDB, Git, JavaScript, REST API, Node.js, CSS, Excel, Power BI",Web Developer,Delhi,87.5,71.25,Recommended
+RES0367,B.Sc Computer Science,Senior,9,"CSS, Node.js, JavaScript, React, MongoDB, Git, Statistics",Web Developer,Mumbai,75.0,82.5,Highly Recommended
+RES0368,B.Tech IT,Junior,2,"Excel, Power BI, SQL, NumPy, Python, Data Visualization, Pandas, Statistics",Data Analyst,Mumbai,100.0,80.0,Highly Recommended
+RES0369,MCA,Senior,7,"Kubernetes, Networking, Docker, AWS, SQL",Cloud Engineer,Mumbai,50.0,65.0,Recommended
+RES0370,B.Tech IT,Mid-Level,3,"Python, SQL, Deep Learning, Statistics, NumPy, Scikit-learn, Machine Learning, Kubernetes, Node.js",Data Scientist,Mumbai,87.5,76.25,Highly Recommended
+RES0371,B.Tech IT,Senior,10,"HTML, Git, REST API, JavaScript, MongoDB, React, CSS, Node.js, Kubernetes",Web Developer,Bangalore,100.0,100.0,Highly Recommended
+RES0372,B.Tech IT,Senior,9,"Django, Java, Flask, SQL, REST API, HTML, MySQL",Backend Developer,Bangalore,75.0,82.5,Highly Recommended
+RES0373,M.Tech CSE,Fresher,0,"Power BI, Pandas, Statistics, Data Visualization",Data Analyst,Bangalore,50.0,35.0,Not Recommended
+RES0374,MCA,Senior,8,"HTML, REST API, Node.js, Git, MongoDB, React, CSS, JavaScript, Power BI, Java",Web Developer,Warangal,100.0,100.0,Highly Recommended
+RES0375,B.Sc Computer Science,Senior,7,"Statistics, SQL, Power BI, NumPy, Excel, Pandas, Python, Data Visualization",Data Analyst,Warangal,100.0,100.0,Highly Recommended
+RES0376,B.Tech CSE,Senior,7,"Statistics, Excel, SQL, Python, Pandas, Data Visualization, MySQL, Docker",Data Analyst,Delhi,75.0,82.5,Highly Recommended
+RES0377,B.Sc Computer Science,Senior,7,"Scikit-learn, Python, Machine Learning, TensorFlow, Deep Learning, Docker, PyTorch, Git, SQL",ML Engineer,Pune,100.0,100.0,Highly Recommended
+RES0378,B.Tech CSE,Junior,2,"Git, Java, SQL, Django, REST API, MySQL, Flask, Python, CSS, Azure",Backend Developer,Warangal,100.0,80.0,Highly Recommended
+RES0379,B.Tech CSE,Junior,2,"Azure, Networking, Linux, Kubernetes, Docker, PyTorch, Flask",Cloud Engineer,Delhi,62.5,53.75,Recommended
+RES0380,B.Tech CSE,Mid-Level,3,"Excel, Power BI, Pandas, Statistics",Data Analyst,Chennai,50.0,50.0,Recommended
+RES0381,B.Tech CSE,Junior,2,"Python, NumPy, Power BI, Statistics, Excel, Pandas, Data Visualization, SQL, Docker, CSS",Data Analyst,Bangalore,100.0,80.0,Highly Recommended
+RES0382,B.Sc Computer Science,Senior,8,"Power BI, Pandas, SQL, Python, Excel, Statistics, Data Visualization, NumPy",Data Analyst,Delhi,100.0,100.0,Highly Recommended
+RES0383,B.Sc Computer Science,Mid-Level,4,"React, Node.js, HTML, Git, REST API, JavaScript, CSS, Power BI, PyTorch",Web Developer,Bangalore,87.5,81.25,Highly Recommended
+RES0384,MCA,Fresher,0,"Git, REST API, Django, Python, SQL",Backend Developer,Mumbai,62.5,43.75,Not Recommended
+RES0385,MCA,Junior,2,"Pandas, Excel, Python, Data Visualization, Statistics, Power BI, SQL, NumPy, PyTorch",Data Analyst,Warangal,100.0,80.0,Highly Recommended
+RES0386,B.Sc Computer Science,Senior,8,"HTML, React, MongoDB, JavaScript, Git, CSS, REST API, Data Visualization, Azure",Web Developer,Mumbai,87.5,91.25,Highly Recommended
+RES0387,B.Sc Computer Science,Fresher,0,"Django, Java, SQL, Python, PyTorch",Backend Developer,Mumbai,50.0,35.0,Not Recommended
+RES0388,B.Tech IT,Junior,1,"Scikit-learn, Machine Learning, SQL, NumPy, Statistics, Python, Pandas, Data Visualization",Data Scientist,Warangal,87.5,66.25,Recommended
+RES0389,B.Tech CSE,Fresher,0,"TensorFlow, Machine Learning, SQL, PyTorch, Deep Learning",ML Engineer,Hyderabad,62.5,43.75,Not Recommended
+RES0390,B.Sc Computer Science,Senior,7,"AWS, Git, Linux, Networking, Kubernetes, Azure, Docker, SQL",Cloud Engineer,Warangal,87.5,91.25,Highly Recommended
+RES0391,M.Tech CSE,Fresher,0,"MySQL, Java, Django, Git, Python, SQL, Docker",Backend Developer,Mumbai,75.0,52.5,Recommended
+RES0392,B.Tech IT,Senior,10,"Deep Learning, TensorFlow, Python, PyTorch, SQL, Machine Learning, Scikit-learn",ML Engineer,Hyderabad,87.5,91.25,Highly Recommended
+RES0393,B.Sc Computer Science,Mid-Level,3,"PyTorch, Machine Learning, Docker, Deep Learning, SQL, TensorFlow, Linux",ML Engineer,Pune,75.0,67.5,Recommended
+RES0394,B.Tech IT,Junior,1,"REST API, Git, JavaScript, MongoDB, React, Django",Web Developer,Warangal,62.5,48.75,Not Recommended
+RES0395,B.Tech CSE,Junior,2,"Power BI, Pandas, Data Visualization, NumPy, SQL, Python, AWS, Django",Data Analyst,Pune,75.0,62.5,Recommended
+RES0396,B.Tech IT,Fresher,0,"Scikit-learn, Statistics, Pandas, Machine Learning, NumPy, Deep Learning, Python, SQL",Data Scientist,Bangalore,100.0,70.0,Recommended
+RES0397,B.Sc Computer Science,Fresher,0,"Machine Learning, TensorFlow, Scikit-learn, Deep Learning, PyTorch, Docker, SQL, HTML, Networking",ML Engineer,Pune,87.5,61.25,Recommended
+RES0398,M.Tech CSE,Senior,9,"Power BI, Pandas, Statistics, NumPy, SQL, Data Visualization, Networking",Data Analyst,Hyderabad,75.0,82.5,Highly Recommended
+RES0399,MCA,Fresher,0,"Node.js, React, Git, CSS, MongoDB, JavaScript, REST API, HTML, SQL, PyTorch",Web Developer,Hyderabad,100.0,70.0,Recommended
+RES0400,MCA,Mid-Level,5,"Pandas, Machine Learning, Statistics, Scikit-learn, NumPy, Deep Learning, Git, Excel",Data Scientist,Mumbai,75.0,77.5,Highly Recommended
+RES0401,B.Tech CSE,Junior,1,"MySQL, Java, Git, Python, Flask, SQL, Django, React, Machine Learning",Backend Developer,Pune,87.5,66.25,Recommended
+RES0402,MCA,Fresher,0,"SQL, Power BI, Pandas, Python",Data Analyst,Hyderabad,50.0,35.0,Not Recommended
+RES0403,B.Tech IT,Junior,1,"Deep Learning, Python, Scikit-learn, TensorFlow, Docker, SQL, PyTorch, Machine Learning, Flask",ML Engineer,Hyderabad,100.0,75.0,Highly Recommended
+RES0404,M.Tech CSE,Junior,2,"NumPy, Statistics, Power BI, Data Visualization, Excel, Pandas, Python",Data Analyst,Delhi,87.5,71.25,Recommended
+RES0405,MCA,Mid-Level,4,"Git, Linux, Python, Networking, Docker, Azure, Kubernetes, AWS",Cloud Engineer,Pune,100.0,90.0,Highly Recommended
+RES0406,MCA,Fresher,0,"PyTorch, Python, SQL, Docker, Machine Learning, Networking",ML Engineer,Delhi,62.5,43.75,Not Recommended
+RES0407,MCA,Senior,9,"Node.js, HTML, React, JavaScript, CSS, REST API, Git",Web Developer,Bangalore,87.5,91.25,Highly Recommended
+RES0408,B.Sc Computer Science,Mid-Level,5,"Statistics, SQL, Machine Learning, Python, Pandas, Scikit-learn, NumPy, PyTorch, MongoDB",Data Scientist,Delhi,87.5,86.25,Highly Recommended
+RES0409,MCA,Senior,8,"MySQL, Java, Python, Git, Django, REST API",Backend Developer,Delhi,75.0,82.5,Highly Recommended
+RES0410,B.Tech CSE,Mid-Level,4,"REST API, SQL, Python, Java, Flask, MySQL, Git",Backend Developer,Bangalore,87.5,81.25,Highly Recommended
+RES0411,B.Sc Computer Science,Senior,8,"AWS, Azure, Networking, Git, Python, Linux, Kubernetes, NumPy",Cloud Engineer,Pune,87.5,91.25,Highly Recommended
+RES0412,MCA,Fresher,0,"Python, AWS, Azure, Git, MongoDB",Cloud Engineer,Mumbai,50.0,35.0,Not Recommended
+RES0413,B.Tech IT,Senior,9,"React, REST API, JavaScript, MongoDB, HTML",Web Developer,Bangalore,62.5,73.75,Recommended
+RES0414,MCA,Senior,8,"Kubernetes, Networking, Python, AWS, SQL, Excel",Cloud Engineer,Chennai,50.0,65.0,Recommended
+RES0415,B.Sc Computer Science,Fresher,0,"SQL, Machine Learning, Pandas, Statistics",Data Scientist,Warangal,50.0,35.0,Not Recommended
+RES0416,B.Tech IT,Mid-Level,5,"Azure, Networking, Python, Kubernetes, Docker",Cloud Engineer,Hyderabad,62.5,68.75,Recommended
+RES0417,B.Tech CSE,Junior,1,"HTML, MongoDB, Node.js, React, CSS, Data Visualization",Web Developer,Pune,62.5,48.75,Not Recommended
+RES0418,MCA,Junior,2,"NumPy, Statistics, Data Visualization, Python, Pandas, SQL, Power BI, Excel",Data Analyst,Mumbai,100.0,80.0,Highly Recommended
+RES0419,B.Tech CSE,Senior,9,"Networking, Python, Azure, AWS, Kubernetes, Git, TensorFlow, Statistics",Cloud Engineer,Mumbai,75.0,82.5,Highly Recommended
+RES0420,B.Tech CSE,Junior,2,"Docker, Machine Learning, PyTorch, SQL, Deep Learning, Scikit-learn, TensorFlow, Python, Linux, Azure",ML Engineer,Chennai,100.0,80.0,Highly Recommended
+RES0421,B.Tech IT,Mid-Level,5,"Scikit-learn, TensorFlow, Python, PyTorch, SQL, Deep Learning, Docker, Machine Learning, Git, JavaScript",ML Engineer,Hyderabad,100.0,95.0,Highly Recommended
+RES0422,B.Sc Computer Science,Fresher,0,"Git, Azure, Linux, Kubernetes, Networking, Docker, Python, AWS, MongoDB",Cloud Engineer,Hyderabad,100.0,70.0,Recommended
+RES0423,B.Tech IT,Fresher,0,"Python, MySQL, Java, Flask",Backend Developer,Pune,50.0,35.0,Not Recommended
+RES0424,M.Tech CSE,Mid-Level,3,"Python, NumPy, Scikit-learn, Pandas, CSS, Docker",Data Scientist,Chennai,50.0,50.0,Recommended
+RES0425,B.Tech CSE,Mid-Level,5,"SQL, Python, Deep Learning, Pandas, Statistics, Scikit-learn, NumPy, Machine Learning, CSS, Git",Data Scientist,Hyderabad,100.0,95.0,Highly Recommended
+RES0426,B.Tech CSE,Junior,2,"Linux, AWS, Azure, Networking",Cloud Engineer,Bangalore,50.0,45.0,Not Recommended
+RES0427,MCA,Fresher,0,"Pandas, NumPy, Scikit-learn, SQL, Deep Learning, Machine Learning, Python, Statistics, Docker, Data Visualization",Data Scientist,Bangalore,100.0,70.0,Recommended
+RES0428,MCA,Mid-Level,5,"Statistics, NumPy, Machine Learning, SQL, Pandas, Deep Learning, Scikit-learn, Python, CSS",Data Scientist,Bangalore,100.0,95.0,Highly Recommended
+RES0429,B.Tech CSE,Mid-Level,5,"REST API, Git, Django, SQL, Flask, Java, MySQL, Python",Backend Developer,Hyderabad,100.0,95.0,Highly Recommended
+RES0430,B.Sc Computer Science,Junior,1,"Django, Python, SQL, Java, Git, Deep Learning",Backend Developer,Hyderabad,62.5,48.75,Not Recommended
+RES0431,B.Tech CSE,Senior,10,"JavaScript, CSS, MongoDB, Git, REST API, HTML, Excel",Web Developer,Bangalore,75.0,82.5,Highly Recommended
+RES0432,M.Tech CSE,Fresher,0,"Python, Git, Kubernetes, Azure, Machine Learning",Cloud Engineer,Mumbai,50.0,35.0,Not Recommended
+RES0433,MCA,Senior,6,"AWS, Python, Linux, Kubernetes, Networking, Git, Pandas",Cloud Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0434,B.Sc Computer Science,Junior,1,"Python, Scikit-learn, Statistics, Pandas, Deep Learning, SQL, NumPy, Machine Learning, PyTorch, Kubernetes",Data Scientist,Hyderabad,100.0,75.0,Highly Recommended
+RES0435,B.Tech IT,Junior,2,"Networking, Git, Linux, Python, AWS, Kubernetes, Azure, CSS",Cloud Engineer,Hyderabad,87.5,71.25,Recommended
+RES0436,MCA,Junior,2,"HTML, Node.js, React, JavaScript, MongoDB, CSS, REST API, Git",Web Developer,Pune,100.0,80.0,Highly Recommended
+RES0437,M.Tech CSE,Fresher,0,"Kubernetes, Linux, Git, Python, Azure, AWS, Docker, Networking, Pandas",Cloud Engineer,Hyderabad,100.0,70.0,Recommended
+RES0438,B.Sc Computer Science,Senior,10,"Git, Docker, Networking, Azure, Python, Linux, AWS, TensorFlow",Cloud Engineer,Bangalore,87.5,91.25,Highly Recommended
+RES0439,B.Tech CSE,Fresher,0,"React, CSS, Git, JavaScript",Web Developer,Delhi,50.0,35.0,Not Recommended
+RES0440,B.Sc Computer Science,Senior,9,"Excel, Statistics, Data Visualization, Python, NumPy, Machine Learning, MySQL",Data Analyst,Hyderabad,62.5,73.75,Recommended
+RES0441,B.Tech IT,Fresher,0,"TensorFlow, Machine Learning, PyTorch, Scikit-learn, Deep Learning, CSS, Linux",ML Engineer,Pune,62.5,43.75,Not Recommended
+RES0442,B.Tech CSE,Fresher,0,"Python, SQL, Java, Git, MySQL, Django, Flask, REST API, MongoDB",Backend Developer,Pune,100.0,70.0,Recommended
+RES0443,MCA,Fresher,0,"Python, Git, AWS, Networking, Docker, Kubernetes, React",Cloud Engineer,Chennai,75.0,52.5,Recommended
+RES0444,M.Tech CSE,Mid-Level,4,"CSS, MongoDB, REST API, Node.js, React, JavaScript, HTML, Git",Web Developer,Pune,100.0,90.0,Highly Recommended
+RES0445,M.Tech CSE,Mid-Level,3,"HTML, JavaScript, Git, REST API, Node.js, Networking, TensorFlow",Web Developer,Delhi,62.5,58.75,Recommended
+RES0446,MCA,Junior,2,"Python, PyTorch, Deep Learning, Machine Learning, SQL, TensorFlow, Scikit-learn, Kubernetes, MySQL",ML Engineer,Bangalore,87.5,71.25,Recommended
+RES0447,B.Tech IT,Junior,1,"MySQL, SQL, Django, Git, REST API, AWS, Azure",Backend Developer,Chennai,62.5,48.75,Not Recommended
+RES0448,B.Sc Computer Science,Junior,1,"Docker, Kubernetes, Azure, Linux, Python, Git, AWS, Networking",Cloud Engineer,Warangal,100.0,75.0,Highly Recommended
+RES0449,B.Tech IT,Fresher,0,"SQL, Deep Learning, TensorFlow, Docker, Machine Learning, Python, PyTorch",ML Engineer,Warangal,87.5,61.25,Recommended
+RES0450,B.Tech CSE,Senior,7,"Django, Git, MySQL, Flask, Java, SQL, Python, REST API, Deep Learning, Pandas",Backend Developer,Mumbai,100.0,100.0,Highly Recommended
+RES0451,B.Tech IT,Fresher,0,"Flask, Java, REST API, Git, Django, Python, SQL",Backend Developer,Pune,87.5,61.25,Recommended
+RES0452,MCA,Senior,8,"Statistics, SQL, NumPy, Data Visualization, Pandas, Python",Data Analyst,Warangal,75.0,82.5,Highly Recommended
+RES0453,M.Tech CSE,Fresher,0,"REST API, React, HTML, Node.js, MongoDB, Statistics, Git",Web Developer,Mumbai,75.0,52.5,Recommended
+RES0454,B.Tech CSE,Junior,2,"Data Visualization, Statistics, Python, SQL, Power BI, Excel, NumPy, Git, Docker",Data Analyst,Pune,87.5,71.25,Recommended
+RES0455,M.Tech CSE,Junior,2,"Node.js, React, CSS, REST API, JavaScript, MongoDB",Web Developer,Warangal,75.0,62.5,Recommended
+RES0456,B.Sc Computer Science,Senior,6,"Azure, Python, Linux, AWS, Networking, Docker, Git, CSS",Cloud Engineer,Bangalore,87.5,91.25,Highly Recommended
+RES0457,B.Tech CSE,Senior,8,"React, MongoDB, HTML, JavaScript, Node.js, REST API, Git, CSS",Web Developer,Hyderabad,100.0,100.0,Highly Recommended
+RES0458,B.Tech IT,Junior,1,"SQL, REST API, Django, MySQL, Python, Flask, Java, MongoDB, Azure",Backend Developer,Warangal,87.5,66.25,Recommended
+RES0459,B.Tech IT,Fresher,0,"Git, Docker, Networking, Kubernetes, PyTorch",Cloud Engineer,Bangalore,50.0,35.0,Not Recommended
+RES0460,B.Tech CSE,Senior,7,"NumPy, Python, Pandas, Scikit-learn, HTML",Data Scientist,Bangalore,50.0,65.0,Recommended
+RES0461,B.Tech IT,Fresher,0,"Git, REST API, MySQL, Python, Django, Flask, Java, JavaScript, Power BI",Backend Developer,Bangalore,87.5,61.25,Recommended
+RES0462,M.Tech CSE,Mid-Level,4,"Scikit-learn, Python, SQL, Statistics, HTML, Machine Learning",Data Scientist,Hyderabad,62.5,63.75,Recommended
+RES0463,M.Tech CSE,Junior,2,"Statistics, SQL, Data Visualization, Excel, Power BI, PyTorch",Data Analyst,Delhi,62.5,53.75,Recommended
+RES0464,MCA,Fresher,0,"Python, Git, SQL, Flask, Django, Java",Backend Developer,Chennai,75.0,52.5,Recommended
+RES0465,B.Tech IT,Fresher,0,"CSS, Git, JavaScript, REST API, React, Kubernetes, Flask",Web Developer,Hyderabad,62.5,43.75,Not Recommended
+RES0466,B.Sc Computer Science,Junior,2,"Java, REST API, Flask, Django, SQL, Git, MySQL, Python, PyTorch, JavaScript",Backend Developer,Mumbai,100.0,80.0,Highly Recommended
+RES0467,B.Tech CSE,Fresher,0,"Networking, Git, Azure, Linux, Python, Docker, Kubernetes",Cloud Engineer,Hyderabad,87.5,61.25,Recommended
+RES0468,B.Sc Computer Science,Mid-Level,5,"React, REST API, Node.js, MongoDB, Deep Learning",Web Developer,Warangal,50.0,60.0,Recommended
+RES0469,B.Sc Computer Science,Mid-Level,5,"AWS, Python, Azure, Docker, Linux",Cloud Engineer,Mumbai,62.5,68.75,Recommended
+RES0470,M.Tech CSE,Fresher,0,"Machine Learning, Scikit-learn, Deep Learning, SQL, JavaScript",ML Engineer,Warangal,50.0,35.0,Not Recommended
+RES0471,B.Tech IT,Senior,7,"Scikit-learn, Statistics, Machine Learning, Pandas, NumPy",Data Scientist,Delhi,62.5,73.75,Recommended
+RES0472,M.Tech CSE,Mid-Level,4,"Git, React, REST API, HTML, JavaScript, MongoDB, CSS, Node.js",Web Developer,Hyderabad,100.0,90.0,Highly Recommended
+RES0473,M.Tech CSE,Fresher,0,"Python, Machine Learning, Pandas, NumPy, SQL, Statistics, Scikit-learn, Kubernetes",Data Scientist,Warangal,87.5,61.25,Recommended
+RES0474,B.Sc Computer Science,Junior,2,"Python, Deep Learning, TensorFlow, Docker, Scikit-learn, PyTorch, CSS",ML Engineer,Bangalore,75.0,62.5,Recommended
+RES0475,MCA,Junior,1,"Python, Statistics, SQL, Data Visualization, Power BI, Excel",Data Analyst,Chennai,75.0,57.5,Recommended
+RES0476,MCA,Fresher,0,"Node.js, REST API, JavaScript, CSS, HTML, Git, React, MongoDB, Deep Learning, NumPy",Web Developer,Hyderabad,100.0,70.0,Recommended
+RES0477,M.Tech CSE,Mid-Level,3,"Machine Learning, Deep Learning, TensorFlow, Python",ML Engineer,Mumbai,50.0,50.0,Recommended
+RES0478,MCA,Fresher,0,"Scikit-learn, Machine Learning, SQL, Deep Learning, PyTorch, React, MongoDB",ML Engineer,Chennai,62.5,43.75,Not Recommended
+RES0479,M.Tech CSE,Mid-Level,5,"NumPy, Python, Statistics, Deep Learning, Scikit-learn",Data Scientist,Chennai,62.5,68.75,Recommended
+RES0480,B.Sc Computer Science,Senior,6,"PyTorch, Docker, Machine Learning, Scikit-learn, Python, Linux",ML Engineer,Bangalore,62.5,73.75,Recommended
+RES0481,M.Tech CSE,Senior,10,"Python, Data Visualization, Power BI, Statistics, Pandas, SQL, Excel",Data Analyst,Chennai,87.5,91.25,Highly Recommended
+RES0482,MCA,Fresher,0,"TensorFlow, Scikit-learn, SQL, PyTorch, Python, Machine Learning, AWS, Node.js",ML Engineer,Pune,75.0,52.5,Recommended
+RES0483,B.Sc Computer Science,Mid-Level,4,"Docker, Machine Learning, SQL, Scikit-learn, Deep Learning, PyTorch, TensorFlow",ML Engineer,Pune,87.5,81.25,Highly Recommended
+RES0484,B.Sc Computer Science,Mid-Level,5,"Data Visualization, Python, Excel, Power BI, Kubernetes",Data Analyst,Mumbai,50.0,60.0,Recommended
+RES0485,M.Tech CSE,Senior,7,"SQL, Pandas, Scikit-learn, Python, Machine Learning, Statistics, NumPy, Deep Learning, Docker, Django",Data Scientist,Mumbai,100.0,100.0,Highly Recommended
+RES0486,B.Tech IT,Junior,1,"Machine Learning, Pandas, Statistics, Python, Deep Learning, NumPy, SQL, Scikit-learn, REST API, Power BI",Data Scientist,Delhi,100.0,75.0,Highly Recommended
+RES0487,B.Sc Computer Science,Senior,6,"Networking, AWS, Linux, Python, Kubernetes, Azure, Git, Docker",Cloud Engineer,Mumbai,100.0,100.0,Highly Recommended
+RES0488,B.Tech IT,Senior,10,"Statistics, Excel, Power BI, Python, Pandas, NumPy, Data Visualization, SQL",Data Analyst,Chennai,100.0,100.0,Highly Recommended
+RES0489,M.Tech CSE,Fresher,0,"MongoDB, CSS, REST API, JavaScript, Node.js, React, Git, HTML, Scikit-learn, MySQL",Web Developer,Mumbai,100.0,70.0,Recommended
+RES0490,M.Tech CSE,Mid-Level,3,"SQL, MySQL, Git, Python, Flask, REST API, Django",Backend Developer,Warangal,87.5,76.25,Highly Recommended
+RES0491,B.Sc Computer Science,Senior,9,"TensorFlow, Docker, Scikit-learn, PyTorch, Power BI",ML Engineer,Pune,50.0,65.0,Recommended
+RES0492,B.Sc Computer Science,Junior,1,"React, Git, CSS, MongoDB, REST API, HTML, Node.js, JavaScript, AWS",Web Developer,Hyderabad,100.0,75.0,Highly Recommended
+RES0493,B.Tech CSE,Junior,2,"Excel, NumPy, Power BI, Statistics",Data Analyst,Warangal,50.0,45.0,Not Recommended
+RES0494,B.Tech IT,Senior,10,"REST API, Node.js, CSS, React, MongoDB, JavaScript, Git, HTML, TensorFlow",Web Developer,Hyderabad,100.0,100.0,Highly Recommended
+RES0495,B.Tech CSE,Senior,8,"REST API, Flask, Django, SQL, Git, MySQL, Java",Backend Developer,Hyderabad,87.5,91.25,Highly Recommended
+RES0496,B.Tech IT,Senior,6,"Java, Git, Flask, Django, SQL, MySQL, Python, PyTorch, AWS",Backend Developer,Delhi,87.5,91.25,Highly Recommended
+RES0497,B.Sc Computer Science,Mid-Level,4,"Linux, Networking, AWS, Docker, Python, Azure, Git, Kubernetes, Pandas, NumPy",Cloud Engineer,Bangalore,100.0,90.0,Highly Recommended
+RES0498,B.Sc Computer Science,Fresher,0,"Pandas, NumPy, Data Visualization, Excel, Python, Statistics, SQL, Power BI, Deep Learning, MongoDB",Data Analyst,Chennai,100.0,70.0,Recommended
+RES0499,M.Tech CSE,Mid-Level,4,"JavaScript, Node.js, HTML, MongoDB, AWS",Web Developer,Warangal,50.0,55.0,Recommended
+RES0500,MCA,Mid-Level,3,"Machine Learning, PyTorch, Docker, SQL, Python, Linux",ML Engineer,Chennai,62.5,58.75,Recommended
+RES0501,B.Tech IT,Junior,2,"Networking, Azure, Linux, AWS, Docker",Cloud Engineer,Warangal,62.5,53.75,Recommended
+RES0502,B.Sc Computer Science,Fresher,0,"React, Git, MongoDB, CSS, Node.js, JavaScript, REST API",Web Developer,Hyderabad,87.5,61.25,Recommended
+RES0503,B.Tech IT,Senior,6,"Statistics, Pandas, Machine Learning, Deep Learning, SQL, NumPy, Scikit-learn, Excel",Data Scientist,Chennai,87.5,91.25,Highly Recommended
+RES0504,B.Sc Computer Science,Mid-Level,4,"Git, Node.js, MongoDB, HTML, REST API, JavaScript, CSS, PyTorch",Web Developer,Chennai,87.5,81.25,Highly Recommended
+RES0505,B.Tech IT,Mid-Level,5,"Statistics, Power BI, NumPy, SQL, Pandas, Excel, Flask",Data Analyst,Hyderabad,75.0,77.5,Highly Recommended
+RES0506,MCA,Mid-Level,3,"Azure, AWS, Kubernetes, Git, MySQL, SQL",Cloud Engineer,Delhi,50.0,50.0,Recommended
+RES0507,M.Tech CSE,Fresher,0,"TensorFlow, Python, SQL, PyTorch, Scikit-learn, Docker, Flask, Azure",ML Engineer,Delhi,75.0,52.5,Recommended
+RES0508,B.Tech CSE,Junior,2,"Excel, Power BI, NumPy, Pandas",Data Analyst,Chennai,50.0,45.0,Not Recommended
+RES0509,B.Tech CSE,Mid-Level,3,"MongoDB, JavaScript, React, REST API, AWS",Web Developer,Pune,50.0,50.0,Recommended
+RES0510,M.Tech CSE,Senior,7,"HTML, JavaScript, REST API, CSS, React, MongoDB, Kubernetes",Web Developer,Delhi,75.0,82.5,Highly Recommended
+RES0511,MCA,Mid-Level,3,"JavaScript, Node.js, React, CSS, Power BI, Python",Web Developer,Hyderabad,50.0,50.0,Recommended
+RES0512,B.Tech CSE,Fresher,0,"Pandas, Statistics, Power BI, Python, AWS",Data Analyst,Delhi,50.0,35.0,Not Recommended
+RES0513,MCA,Senior,9,"JavaScript, Git, MongoDB, React, HTML, REST API, Machine Learning, CSS",Web Developer,Warangal,87.5,91.25,Highly Recommended
+RES0514,M.Tech CSE,Mid-Level,4,"Kubernetes, AWS, Networking, Python",Cloud Engineer,Delhi,50.0,55.0,Recommended
+RES0515,MCA,Mid-Level,5,"Python, Scikit-learn, SQL, Docker, Deep Learning, TensorFlow, Machine Learning",ML Engineer,Bangalore,87.5,86.25,Highly Recommended
+RES0516,MCA,Fresher,0,"Python, Pandas, Scikit-learn, SQL, Machine Learning, Statistics, NumPy, Deep Learning, Data Visualization, Git",Data Scientist,Delhi,100.0,70.0,Recommended
+RES0517,B.Tech CSE,Mid-Level,4,"JavaScript, HTML, CSS, REST API, Git, Statistics",Web Developer,Mumbai,62.5,63.75,Recommended
+RES0518,B.Tech CSE,Junior,2,"HTML, JavaScript, MongoDB, REST API, Deep Learning, Statistics",Web Developer,Delhi,50.0,45.0,Not Recommended
+RES0519,M.Tech CSE,Fresher,0,"REST API, Python, MySQL, Java, Git, Deep Learning, Docker",Backend Developer,Bangalore,62.5,43.75,Not Recommended
+RES0520,MCA,Junior,1,"AWS, Azure, Python, Networking, Docker",Cloud Engineer,Warangal,62.5,48.75,Not Recommended
+RES0521,B.Tech IT,Senior,8,"Data Visualization, Pandas, Statistics, SQL",Data Analyst,Warangal,50.0,65.0,Recommended
+RES0522,M.Tech CSE,Junior,2,"Python, AWS, Networking, Linux, Azure, Kubernetes, Git",Cloud Engineer,Hyderabad,87.5,71.25,Recommended
+RES0523,MCA,Junior,1,"Excel, Statistics, Power BI, SQL, Data Visualization, NumPy",Data Analyst,Bangalore,75.0,57.5,Recommended
+RES0524,B.Tech CSE,Mid-Level,4,"Statistics, Data Visualization, SQL, Python, Power BI, Pandas, Excel, NumPy",Data Analyst,Delhi,100.0,90.0,Highly Recommended
+RES0525,B.Tech IT,Fresher,0,"React, CSS, Git, JavaScript, MongoDB, Azure",Web Developer,Mumbai,62.5,43.75,Not Recommended
+RES0526,B.Tech CSE,Fresher,0,"SQL, Scikit-learn, Machine Learning, Statistics, Pandas, Python, NumPy",Data Scientist,Mumbai,87.5,61.25,Recommended
+RES0527,MCA,Senior,7,"TensorFlow, Docker, Scikit-learn, Machine Learning, Deep Learning, Python, SQL, PyTorch",ML Engineer,Bangalore,100.0,100.0,Highly Recommended
+RES0528,MCA,Mid-Level,4,"AWS, Python, Docker, Git",Cloud Engineer,Mumbai,50.0,55.0,Recommended
+RES0529,B.Tech IT,Fresher,0,"CSS, Git, HTML, Node.js",Web Developer,Pune,50.0,35.0,Not Recommended
+RES0530,MCA,Junior,2,"Java, Git, Flask, REST API, HTML, React",Backend Developer,Bangalore,50.0,45.0,Not Recommended
+RES0531,B.Tech CSE,Senior,10,"Power BI, Python, SQL, Data Visualization, NumPy, Pandas",Data Analyst,Pune,75.0,82.5,Highly Recommended
+RES0532,MCA,Junior,2,"Excel, SQL, Pandas, Power BI, Statistics, NumPy, Data Visualization",Data Analyst,Chennai,87.5,71.25,Recommended
+RES0533,B.Tech CSE,Senior,9,"Machine Learning, Python, Scikit-learn, NumPy, Statistics, SQL",Data Scientist,Pune,75.0,82.5,Highly Recommended
+RES0534,MCA,Senior,7,"Pandas, Machine Learning, NumPy, SQL, Scikit-learn, Statistics, Azure, Node.js",Data Scientist,Mumbai,75.0,82.5,Highly Recommended
+RES0535,B.Tech IT,Junior,1,"Node.js, HTML, Git, React, CSS, REST API, MongoDB, PyTorch",Web Developer,Pune,87.5,66.25,Recommended
+RES0536,MCA,Senior,6,"Data Visualization, NumPy, Pandas, Python, CSS",Data Analyst,Pune,50.0,65.0,Recommended
+RES0537,B.Sc Computer Science,Mid-Level,3,"CSS, Node.js, HTML, React, MongoDB",Web Developer,Delhi,62.5,58.75,Recommended
+RES0538,M.Tech CSE,Fresher,0,"Data Visualization, NumPy, Excel, SQL, Git, Docker",Data Analyst,Pune,50.0,35.0,Not Recommended
+RES0539,B.Sc Computer Science,Fresher,0,"REST API, CSS, JavaScript, React, HTML, Node.js, Scikit-learn",Web Developer,Chennai,75.0,52.5,Recommended
+RES0540,M.Tech CSE,Mid-Level,3,"React, REST API, Git, HTML, JavaScript, MongoDB",Web Developer,Hyderabad,75.0,67.5,Recommended
+RES0541,B.Tech CSE,Junior,1,"MongoDB, Node.js, HTML, JavaScript, REST API, Git, Docker, Flask",Web Developer,Chennai,75.0,57.5,Recommended
+RES0542,M.Tech CSE,Senior,8,"SQL, Scikit-learn, Pandas, NumPy, Deep Learning, Machine Learning, Python, Statistics, Networking",Data Scientist,Hyderabad,100.0,100.0,Highly Recommended
+RES0543,M.Tech CSE,Mid-Level,4,"NumPy, Power BI, Statistics, Pandas, Python, SQL, HTML, Flask",Data Analyst,Mumbai,75.0,72.5,Recommended
+RES0544,B.Sc Computer Science,Fresher,0,"TensorFlow, Docker, Python, Scikit-learn, Kubernetes",ML Engineer,Hyderabad,50.0,35.0,Not Recommended
+RES0545,B.Sc Computer Science,Senior,10,"SQL, Scikit-learn, Deep Learning, Pandas, Statistics, Python, JavaScript, Java",Data Scientist,Bangalore,75.0,82.5,Highly Recommended
+RES0546,B.Tech CSE,Junior,2,"REST API, React, Git, HTML, JavaScript, Node.js",Web Developer,Pune,75.0,62.5,Recommended
+RES0547,B.Tech IT,Mid-Level,3,"Flask, REST API, Django, Git, MySQL, Java, Power BI",Backend Developer,Warangal,75.0,67.5,Recommended
+RES0548,MCA,Junior,1,"Docker, Deep Learning, SQL, Python, Machine Learning, React",ML Engineer,Delhi,62.5,48.75,Not Recommended
+RES0549,B.Tech CSE,Mid-Level,5,"SQL, Java, Flask, MySQL, Django, Python",Backend Developer,Bangalore,75.0,77.5,Highly Recommended
+RES0550,B.Tech IT,Mid-Level,4,"Git, CSS, REST API, Node.js, HTML, JavaScript, Statistics",Web Developer,Mumbai,75.0,72.5,Recommended
+RES0551,B.Tech CSE,Mid-Level,5,"NumPy, Python, Statistics, Pandas, Deep Learning, Scikit-learn, SQL, Machine Learning",Data Scientist,Delhi,100.0,95.0,Highly Recommended
+RES0552,B.Tech IT,Fresher,0,"PyTorch, SQL, Docker, Machine Learning, TensorFlow, Scikit-learn, Python, CSS, Deep Learning",ML Engineer,Chennai,100.0,70.0,Recommended
+RES0553,B.Sc Computer Science,Junior,1,"Power BI, Data Visualization, Excel, Python, NumPy, Pandas, Statistics, HTML, TensorFlow",Data Analyst,Hyderabad,87.5,66.25,Recommended
+RES0554,B.Tech IT,Senior,8,"Java, Django, REST API, Git, Flask, MySQL, Python, Pandas, CSS",Backend Developer,Pune,87.5,91.25,Highly Recommended
+RES0555,B.Tech CSE,Junior,2,"PyTorch, Deep Learning, SQL, Scikit-learn, NumPy",ML Engineer,Delhi,50.0,45.0,Not Recommended
+RES0556,B.Tech IT,Mid-Level,4,"Node.js, CSS, Git, React, MongoDB, HTML, JavaScript",Web Developer,Warangal,87.5,81.25,Highly Recommended
+RES0557,B.Tech IT,Senior,10,"Java, Django, REST API, Python, MySQL, Git, React, NumPy",Backend Developer,Warangal,75.0,82.5,Highly Recommended
+RES0558,B.Sc Computer Science,Mid-Level,4,"Machine Learning, Statistics, Pandas, Deep Learning, Scikit-learn",Data Scientist,Mumbai,62.5,63.75,Recommended
+RES0559,B.Sc Computer Science,Senior,7,"Kubernetes, AWS, Git, Azure, Docker, Linux, Networking",Cloud Engineer,Pune,87.5,91.25,Highly Recommended
+RES0560,M.Tech CSE,Senior,10,"AWS, Networking, Docker, Kubernetes, Git, MongoDB, Scikit-learn",Cloud Engineer,Pune,62.5,73.75,Recommended
+RES0561,B.Sc Computer Science,Senior,7,"Machine Learning, Deep Learning, PyTorch, Scikit-learn, Python, Docker, TensorFlow, Node.js, Kubernetes",ML Engineer,Chennai,87.5,91.25,Highly Recommended
+RES0562,B.Sc Computer Science,Mid-Level,5,"NumPy, Machine Learning, Pandas, Statistics",Data Scientist,Delhi,50.0,60.0,Recommended
+RES0563,B.Sc Computer Science,Mid-Level,5,"Power BI, Statistics, NumPy, SQL, Python, Excel, Data Visualization, Pandas, MongoDB",Data Analyst,Delhi,100.0,95.0,Highly Recommended
+RES0564,M.Tech CSE,Mid-Level,4,"Azure, Linux, Git, Docker, Networking, AWS",Cloud Engineer,Warangal,75.0,72.5,Recommended
+RES0565,M.Tech CSE,Fresher,0,"Git, CSS, HTML, REST API, Node.js, JavaScript, MongoDB",Web Developer,Pune,87.5,61.25,Recommended
+RES0566,B.Sc Computer Science,Mid-Level,3,"CSS, REST API, MongoDB, HTML, React",Web Developer,Warangal,62.5,58.75,Recommended
+RES0567,B.Tech IT,Junior,2,"Git, CSS, MongoDB, JavaScript, HTML, Node.js, React, REST API",Web Developer,Bangalore,100.0,80.0,Highly Recommended
+RES0568,MCA,Senior,6,"SQL, Pandas, Scikit-learn, Python, NumPy",Data Scientist,Bangalore,62.5,73.75,Recommended
+RES0569,B.Tech CSE,Mid-Level,5,"Python, Power BI, Data Visualization, Excel",Data Analyst,Hyderabad,50.0,60.0,Recommended
+RES0570,B.Tech CSE,Junior,2,"Power BI, Pandas, SQL, NumPy, React, Java",Data Analyst,Mumbai,50.0,45.0,Not Recommended
+RES0571,M.Tech CSE,Fresher,0,"Deep Learning, SQL, PyTorch, Scikit-learn, Machine Learning, Docker, MySQL, Python",ML Engineer,Mumbai,87.5,61.25,Recommended
+RES0572,M.Tech CSE,Senior,8,"NumPy, SQL, Deep Learning, Python, Scikit-learn",Data Scientist,Delhi,62.5,73.75,Recommended
+RES0573,B.Tech IT,Junior,2,"Git, Flask, Python, Java, SQL, Pandas",Backend Developer,Hyderabad,62.5,53.75,Recommended
+RES0574,B.Sc Computer Science,Mid-Level,5,"Docker, Python, PyTorch, Machine Learning, Flask",ML Engineer,Delhi,50.0,60.0,Recommended
+RES0575,M.Tech CSE,Mid-Level,5,"NumPy, Power BI, Python, Statistics, Pandas",Data Analyst,Warangal,62.5,68.75,Recommended
+RES0576,B.Sc Computer Science,Junior,1,"REST API, JavaScript, React, CSS, HTML, SQL",Web Developer,Delhi,62.5,48.75,Not Recommended
+RES0577,B.Tech IT,Senior,9,"REST API, React, Node.js, HTML",Web Developer,Delhi,50.0,65.0,Recommended
+RES0578,M.Tech CSE,Senior,6,"SQL, Python, Git, Java, TensorFlow",Backend Developer,Bangalore,50.0,65.0,Recommended
+RES0579,M.Tech CSE,Senior,9,"Node.js, REST API, Git, MongoDB, JavaScript, React, CSS, Docker",Web Developer,Mumbai,87.5,91.25,Highly Recommended
+RES0580,B.Tech IT,Fresher,0,"Docker, Python, SQL, Deep Learning, TensorFlow, Networking",ML Engineer,Hyderabad,62.5,43.75,Not Recommended
+RES0581,MCA,Mid-Level,3,"Azure, Kubernetes, Python, AWS",Cloud Engineer,Chennai,50.0,50.0,Recommended
+RES0582,B.Sc Computer Science,Mid-Level,5,"Java, MySQL, Python, Django, REST API, Git, Flask, SQL, HTML, Linux",Backend Developer,Mumbai,100.0,95.0,Highly Recommended
+RES0583,MCA,Senior,6,"Statistics, Python, Power BI, NumPy, Scikit-learn",Data Analyst,Hyderabad,50.0,65.0,Recommended
+RES0584,M.Tech CSE,Senior,10,"NumPy, Scikit-learn, SQL, Pandas, Deep Learning, Python, Statistics, Machine Learning, AWS",Data Scientist,Delhi,100.0,100.0,Highly Recommended
+RES0585,B.Sc Computer Science,Mid-Level,4,"Git, REST API, Django, Java, Python, Flask, SQL, MySQL, CSS, JavaScript",Backend Developer,Hyderabad,100.0,90.0,Highly Recommended
+RES0586,MCA,Mid-Level,4,"Python, SQL, Excel, NumPy, Data Visualization, Pandas, Statistics, Power BI",Data Analyst,Pune,100.0,90.0,Highly Recommended
+RES0587,B.Tech CSE,Mid-Level,3,"TensorFlow, Machine Learning, SQL, Deep Learning, MySQL, PyTorch",ML Engineer,Chennai,62.5,58.75,Recommended
+RES0588,B.Sc Computer Science,Fresher,0,"Scikit-learn, Python, Pandas, Deep Learning, Docker, Django",Data Scientist,Delhi,50.0,35.0,Not Recommended
+RES0589,B.Tech IT,Mid-Level,4,"HTML, JavaScript, React, Node.js, Git, CSS, MongoDB, REST API",Web Developer,Mumbai,100.0,90.0,Highly Recommended
+RES0590,B.Tech CSE,Junior,2,"Docker, Linux, Networking, Python, Kubernetes, AWS, JavaScript",Cloud Engineer,Chennai,75.0,62.5,Recommended
+RES0591,B.Sc Computer Science,Mid-Level,3,"Statistics, Data Visualization, SQL, Pandas, Python, Excel, MySQL, Linux",Data Analyst,Mumbai,75.0,67.5,Recommended
+RES0592,M.Tech CSE,Mid-Level,3,"MySQL, Java, SQL, Python, Flask, REST API, Git, MongoDB",Backend Developer,Pune,87.5,76.25,Highly Recommended
+RES0593,M.Tech CSE,Senior,7,"MongoDB, Git, Node.js, CSS, HTML, JavaScript, NumPy, Kubernetes",Web Developer,Delhi,75.0,82.5,Highly Recommended
+RES0594,MCA,Junior,1,"Linux, Python, Networking, Git, Kubernetes, Docker, AWS, Excel, Pandas",Cloud Engineer,Bangalore,87.5,66.25,Recommended
+RES0595,B.Tech IT,Mid-Level,5,"Git, Kubernetes, Docker, AWS, Azure, Networking, Statistics",Cloud Engineer,Mumbai,75.0,77.5,Highly Recommended
+RES0596,M.Tech CSE,Senior,9,"Pandas, Python, SQL, Scikit-learn, Statistics, Deep Learning, NumPy, HTML",Data Scientist,Delhi,87.5,91.25,Highly Recommended
+RES0597,M.Tech CSE,Junior,1,"Excel, Data Visualization, SQL, Python, Statistics, PyTorch",Data Analyst,Delhi,62.5,48.75,Not Recommended
+RES0598,MCA,Mid-Level,5,"HTML, REST API, MongoDB, JavaScript, Excel, Node.js",Web Developer,Delhi,62.5,68.75,Recommended
+RES0599,B.Tech IT,Fresher,0,"Excel, SQL, Python, Pandas, NumPy, Data Visualization, Statistics, Node.js",Data Analyst,Warangal,87.5,61.25,Recommended
+RES0600,B.Tech CSE,Junior,1,"SQL, Docker, Scikit-learn, Machine Learning, TensorFlow, Python",ML Engineer,Chennai,75.0,57.5,Recommended
+RES0601,M.Tech CSE,Senior,9,"Node.js, REST API, MongoDB, HTML, React, JavaScript, CSS, Python, Statistics",Web Developer,Delhi,87.5,91.25,Highly Recommended
+RES0602,B.Tech CSE,Junior,2,"Machine Learning, Deep Learning, Pandas, Statistics, NumPy, Python, PyTorch, Node.js",Data Scientist,Mumbai,75.0,62.5,Recommended
+RES0603,MCA,Mid-Level,4,"Git, REST API, MongoDB, HTML, CSS, React, Java",Web Developer,Hyderabad,75.0,72.5,Recommended
+RES0604,B.Sc Computer Science,Fresher,0,"Pandas, Statistics, SQL, Deep Learning, Machine Learning, NumPy, Node.js",Data Scientist,Warangal,75.0,52.5,Recommended
+RES0605,MCA,Mid-Level,4,"REST API, MongoDB, JavaScript, React, HTML, Node.js, CSS, MySQL, Scikit-learn",Web Developer,Delhi,87.5,81.25,Highly Recommended
+RES0606,MCA,Junior,2,"Excel, NumPy, Power BI, SQL",Data Analyst,Chennai,50.0,45.0,Not Recommended
+RES0607,B.Tech IT,Senior,8,"Java, Git, MySQL, Django, MongoDB, Machine Learning",Backend Developer,Pune,50.0,65.0,Recommended
+RES0608,B.Tech CSE,Senior,8,"Node.js, CSS, Git, MongoDB, JavaScript, Azure",Web Developer,Bangalore,62.5,73.75,Recommended
+RES0609,B.Sc Computer Science,Junior,1,"React, HTML, REST API, Node.js, CSS, Git, MongoDB",Web Developer,Pune,87.5,66.25,Recommended
+RES0610,M.Tech CSE,Senior,9,"Django, Java, Python, SQL, MySQL, Git, Flask",Backend Developer,Warangal,87.5,91.25,Highly Recommended
+RES0611,B.Tech IT,Senior,7,"Azure, Networking, Python, Git, Linux, Kubernetes, Docker, HTML, Django",Cloud Engineer,Mumbai,87.5,91.25,Highly Recommended
+RES0612,B.Tech IT,Senior,7,"Pandas, Deep Learning, SQL, Statistics, Scikit-learn, Python, Networking",Data Scientist,Chennai,75.0,82.5,Highly Recommended
+RES0613,MCA,Senior,10,"Java, Python, REST API, Git, SQL, Flask, Django, TensorFlow, Data Visualization",Backend Developer,Chennai,87.5,91.25,Highly Recommended
+RES0614,M.Tech CSE,Fresher,0,"Python, Data Visualization, Excel, SQL, Statistics",Data Analyst,Hyderabad,62.5,43.75,Not Recommended
+RES0615,M.Tech CSE,Senior,8,"SQL, Deep Learning, TensorFlow, Docker, Machine Learning, PyTorch, Python, Scikit-learn, Azure",ML Engineer,Pune,100.0,100.0,Highly Recommended
+RES0616,B.Sc Computer Science,Fresher,0,"Scikit-learn, Deep Learning, NumPy, Pandas",Data Scientist,Chennai,50.0,35.0,Not Recommended
+RES0617,M.Tech CSE,Mid-Level,5,"Data Visualization, Statistics, Excel, NumPy, Power BI, TensorFlow",Data Analyst,Chennai,62.5,68.75,Recommended
+RES0618,B.Tech IT,Junior,1,"Git, MongoDB, React, CSS, REST API",Web Developer,Bangalore,62.5,48.75,Not Recommended
+RES0619,MCA,Fresher,0,"Deep Learning, Machine Learning, SQL, Pandas, Python",Data Scientist,Pune,62.5,43.75,Not Recommended
+RES0620,B.Sc Computer Science,Junior,1,"Docker, TensorFlow, SQL, Python, Machine Learning, PyTorch, Scikit-learn, Deep Learning",ML Engineer,Delhi,100.0,75.0,Highly Recommended
+RES0621,B.Tech IT,Senior,6,"REST API, Django, Python, MySQL, Java, Git",Backend Developer,Chennai,75.0,82.5,Highly Recommended
+RES0622,B.Tech CSE,Fresher,0,"SQL, Power BI, Excel, Pandas, Python, Data Visualization",Data Analyst,Pune,75.0,52.5,Recommended
+RES0623,B.Sc Computer Science,Junior,1,"Networking, Python, Docker, Linux, AWS, Azure, Kubernetes, JavaScript, NumPy",Cloud Engineer,Warangal,87.5,66.25,Recommended
+RES0624,B.Tech IT,Junior,2,"NumPy, Statistics, Python, Data Visualization, Power BI, Pandas, Excel",Data Analyst,Hyderabad,87.5,71.25,Recommended
+RES0625,B.Sc Computer Science,Senior,9,"Excel, Power BI, Statistics, Data Visualization, SQL",Data Analyst,Delhi,62.5,73.75,Recommended
+RES0626,MCA,Mid-Level,5,"Deep Learning, Docker, Scikit-learn, Python, SQL, TensorFlow, PyTorch, Machine Learning, Pandas",ML Engineer,Mumbai,100.0,95.0,Highly Recommended
+RES0627,MCA,Senior,6,"REST API, MongoDB, JavaScript, Node.js",Web Developer,Hyderabad,50.0,65.0,Recommended
+RES0628,B.Tech CSE,Mid-Level,4,"Git, Flask, Java, MySQL, REST API, SQL, PyTorch, Docker",Backend Developer,Pune,75.0,72.5,Recommended
+RES0629,B.Tech CSE,Fresher,0,"Pandas, SQL, Statistics, Excel, NumPy, Data Visualization, Power BI, Linux",Data Analyst,Hyderabad,87.5,61.25,Recommended
+RES0630,B.Sc Computer Science,Mid-Level,4,"MySQL, REST API, Python, Git, Flask, Linux",Backend Developer,Mumbai,62.5,63.75,Recommended
+RES0631,MCA,Mid-Level,4,"Python, Data Visualization, NumPy, Power BI, SQL, Statistics, Pandas, Excel",Data Analyst,Mumbai,100.0,90.0,Highly Recommended
+RES0632,M.Tech CSE,Mid-Level,5,"Networking, Linux, Docker, Python, Azure, AWS, Git",Cloud Engineer,Hyderabad,87.5,86.25,Highly Recommended
+RES0633,M.Tech CSE,Senior,8,"HTML, MongoDB, React, REST API, Node.js, Git, CSS, JavaScript, Pandas, Data Visualization",Web Developer,Mumbai,100.0,100.0,Highly Recommended
+RES0634,B.Tech IT,Fresher,0,"MySQL, Git, SQL, Python, Java, Django",Backend Developer,Warangal,75.0,52.5,Recommended
+RES0635,M.Tech CSE,Junior,1,"Python, SQL, Power BI, Statistics, Pandas, PyTorch",Data Analyst,Chennai,62.5,48.75,Not Recommended
+RES0636,MCA,Senior,9,"MongoDB, React, HTML, Git, CSS",Web Developer,Hyderabad,62.5,73.75,Recommended
+RES0637,MCA,Senior,9,"React, CSS, JavaScript, Node.js, MongoDB, HTML, REST API, Git",Web Developer,Delhi,100.0,100.0,Highly Recommended
+RES0638,B.Tech CSE,Senior,10,"Django, Python, REST API, Flask, Git, SQL, Java, MySQL, Node.js, Linux",Backend Developer,Chennai,100.0,100.0,Highly Recommended
+RES0639,MCA,Mid-Level,4,"Django, Flask, REST API, MySQL",Backend Developer,Delhi,50.0,55.0,Recommended
+RES0640,MCA,Junior,1,"JavaScript, MongoDB, Git, CSS, React",Web Developer,Mumbai,62.5,48.75,Not Recommended
+RES0641,MCA,Junior,1,"Networking, Azure, Docker, Kubernetes, Linux, Python, Data Visualization, Git",Cloud Engineer,Chennai,87.5,66.25,Recommended
+RES0642,M.Tech CSE,Senior,6,"Networking, Azure, Git, Python",Cloud Engineer,Warangal,50.0,65.0,Recommended
+RES0643,B.Tech IT,Junior,1,"Node.js, CSS, REST API, MongoDB, HTML, React, Git, Scikit-learn",Web Developer,Warangal,87.5,66.25,Recommended
+RES0644,MCA,Mid-Level,4,"Statistics, Python, Pandas, SQL, Data Visualization, Excel",Data Analyst,Warangal,75.0,72.5,Recommended
+RES0645,B.Tech CSE,Senior,9,"PyTorch, Machine Learning, Scikit-learn, Docker, Power BI, MySQL",ML Engineer,Warangal,50.0,65.0,Recommended
+RES0646,B.Tech CSE,Junior,2,"SQL, Statistics, Pandas, Python, MySQL, Kubernetes",Data Analyst,Bangalore,50.0,45.0,Not Recommended
+RES0647,B.Tech IT,Fresher,0,"Networking, Git, Linux, Kubernetes, AWS, Python, Pandas, Scikit-learn",Cloud Engineer,Warangal,75.0,52.5,Recommended
+RES0648,B.Sc Computer Science,Mid-Level,5,"Statistics, Deep Learning, Python, SQL, Pandas, NumPy, Machine Learning, Azure, MySQL",Data Scientist,Warangal,87.5,86.25,Highly Recommended
+RES0649,MCA,Senior,10,"React, CSS, Node.js, MongoDB, REST API, HTML, Pandas",Web Developer,Warangal,75.0,82.5,Highly Recommended
+RES0650,MCA,Junior,2,"AWS, Kubernetes, Azure, Networking, Linux, Git, Scikit-learn",Cloud Engineer,Hyderabad,75.0,62.5,Recommended
+RES0651,MCA,Mid-Level,5,"JavaScript, Node.js, HTML, REST API, Git",Web Developer,Delhi,62.5,68.75,Recommended
+RES0652,B.Tech IT,Senior,8,"Python, SQL, Deep Learning, PyTorch, Machine Learning, Scikit-learn, Django",ML Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0653,B.Tech IT,Fresher,0,"Kubernetes, Docker, AWS, Python, Git, Azure, Linux, PyTorch, Statistics",Cloud Engineer,Mumbai,87.5,61.25,Recommended
+RES0654,B.Tech IT,Mid-Level,5,"Flask, MySQL, Git, Java, Python, REST API, Power BI, React",Backend Developer,Pune,75.0,77.5,Highly Recommended
+RES0655,B.Tech CSE,Fresher,0,"Python, MySQL, SQL, Flask, CSS, Statistics",Backend Developer,Warangal,50.0,35.0,Not Recommended
+RES0656,B.Tech IT,Junior,2,"Networking, Docker, Linux, AWS, REST API",Cloud Engineer,Chennai,50.0,45.0,Not Recommended
+RES0657,B.Tech CSE,Junior,2,"Deep Learning, Scikit-learn, TensorFlow, PyTorch, Machine Learning, Python, SQL, Docker, CSS",ML Engineer,Warangal,100.0,80.0,Highly Recommended
+RES0658,MCA,Fresher,0,"CSS, HTML, React, MongoDB, Kubernetes",Web Developer,Chennai,50.0,35.0,Not Recommended
+RES0659,MCA,Senior,7,"Git, Linux, Networking, Python, Kubernetes, Azure, Docker, AWS, Machine Learning",Cloud Engineer,Bangalore,100.0,100.0,Highly Recommended
+RES0660,MCA,Fresher,0,"Git, Flask, REST API, Java, Python, TensorFlow, CSS",Backend Developer,Delhi,62.5,43.75,Not Recommended
+RES0661,M.Tech CSE,Junior,1,"Scikit-learn, Python, NumPy, Pandas, Statistics, Deep Learning, SQL, Machine Learning",Data Scientist,Chennai,100.0,75.0,Highly Recommended
+RES0662,B.Sc Computer Science,Mid-Level,3,"PyTorch, Deep Learning, TensorFlow, Python, Machine Learning, Docker, Pandas, Node.js",ML Engineer,Bangalore,75.0,67.5,Recommended
+RES0663,B.Sc Computer Science,Senior,8,"AWS, Networking, Linux, Docker, Git, Kubernetes, Azure, SQL",Cloud Engineer,Warangal,87.5,91.25,Highly Recommended
+RES0664,B.Sc Computer Science,Fresher,0,"JavaScript, REST API, CSS, Node.js, React, Git, MongoDB",Web Developer,Warangal,87.5,61.25,Recommended
+RES0665,B.Tech CSE,Junior,1,"MySQL, REST API, Java, Git, SQL, Django, Python, Flask, React, MongoDB",Backend Developer,Mumbai,100.0,75.0,Highly Recommended
+RES0666,B.Tech CSE,Junior,2,"Azure, Python, Linux, AWS, Networking, Docker, PyTorch, Machine Learning",Cloud Engineer,Mumbai,75.0,62.5,Recommended
+RES0667,M.Tech CSE,Senior,6,"Excel, Python, Data Visualization, SQL",Data Analyst,Warangal,50.0,65.0,Recommended
+RES0668,MCA,Fresher,0,"Flask, REST API, Django, Python, MySQL, Git, Java, SQL",Backend Developer,Warangal,100.0,70.0,Recommended
+RES0669,B.Sc Computer Science,Junior,1,"MySQL, SQL, Python, Flask, Django, Git",Backend Developer,Chennai,75.0,57.5,Recommended
+RES0670,B.Tech CSE,Fresher,0,"Pandas, Power BI, NumPy, SQL, Python, React, Kubernetes",Data Analyst,Chennai,62.5,43.75,Not Recommended
+RES0671,B.Tech CSE,Fresher,0,"Git, CSS, React, JavaScript, Statistics",Web Developer,Bangalore,50.0,35.0,Not Recommended
+RES0672,M.Tech CSE,Senior,6,"Pandas, Deep Learning, NumPy, Scikit-learn, Statistics, Python, SQL, Machine Learning, Docker",Data Scientist,Pune,100.0,100.0,Highly Recommended
+RES0673,MCA,Senior,6,"Power BI, Python, Excel, Pandas, Statistics, Data Visualization, NumPy, PyTorch",Data Analyst,Warangal,87.5,91.25,Highly Recommended
+RES0674,B.Tech CSE,Senior,10,"Kubernetes, Git, Azure, Docker, Python, AWS, Networking, Linux",Cloud Engineer,Chennai,100.0,100.0,Highly Recommended
+RES0675,B.Tech IT,Mid-Level,3,"AWS, Networking, Kubernetes, Docker, Linux, Git, Scikit-learn",Cloud Engineer,Bangalore,75.0,67.5,Recommended
+RES0676,M.Tech CSE,Mid-Level,5,"Azure, Docker, AWS, Kubernetes, Python, Linux, Networking, Git",Cloud Engineer,Chennai,100.0,95.0,Highly Recommended
+RES0677,B.Sc Computer Science,Fresher,0,"Networking, Docker, Azure, Git, Linux, AWS, SQL",Cloud Engineer,Delhi,75.0,52.5,Recommended
+RES0678,MCA,Senior,10,"Deep Learning, Python, Statistics, SQL, Docker",Data Scientist,Hyderabad,50.0,65.0,Recommended
+RES0679,MCA,Mid-Level,4,"AWS, Git, Python, Kubernetes, MySQL, Scikit-learn",Cloud Engineer,Bangalore,50.0,55.0,Recommended
+RES0680,B.Tech IT,Fresher,0,"Azure, Kubernetes, Docker, Networking, Java",Cloud Engineer,Warangal,50.0,35.0,Not Recommended
+RES0681,B.Tech CSE,Mid-Level,4,"TensorFlow, Python, PyTorch, Deep Learning, Machine Learning, SQL, Scikit-learn",ML Engineer,Delhi,87.5,81.25,Highly Recommended
+RES0682,M.Tech CSE,Junior,1,"Kubernetes, AWS, Azure, Networking, Git, Python, Docker, Linux, React, Data Visualization",Cloud Engineer,Mumbai,100.0,75.0,Highly Recommended
+RES0683,B.Sc Computer Science,Junior,1,"Machine Learning, Deep Learning, NumPy, SQL, JavaScript, MongoDB",Data Scientist,Delhi,50.0,40.0,Not Recommended
+RES0684,B.Sc Computer Science,Fresher,0,"Linux, Python, Networking, Kubernetes, AWS, Azure, Git, Docker, NumPy",Cloud Engineer,Delhi,100.0,70.0,Recommended
+RES0685,MCA,Mid-Level,3,"Git, SQL, Django, Python, Java, Flask, REST API, Linux",Backend Developer,Pune,87.5,76.25,Highly Recommended
+RES0686,B.Tech IT,Junior,2,"SQL, NumPy, Python, Deep Learning, Pandas, Scikit-learn",Data Scientist,Chennai,75.0,62.5,Recommended
+RES0687,B.Sc Computer Science,Mid-Level,3,"Python, Power BI, Statistics, Data Visualization, MongoDB, Linux",Data Analyst,Hyderabad,50.0,50.0,Recommended
+RES0688,M.Tech CSE,Senior,6,"Git, REST API, HTML, JavaScript, CSS",Web Developer,Delhi,62.5,73.75,Recommended
+RES0689,MCA,Fresher,0,"CSS, HTML, REST API, Git, React, MongoDB, Node.js, JavaScript",Web Developer,Chennai,100.0,70.0,Recommended
+RES0690,M.Tech CSE,Senior,7,"Java, Python, Flask, MySQL, Django, Git, SQL, Kubernetes",Backend Developer,Warangal,87.5,91.25,Highly Recommended
+RES0691,MCA,Mid-Level,5,"Python, REST API, MySQL, Flask, Django, SQL, Git, Java, Data Visualization, Deep Learning",Backend Developer,Bangalore,100.0,95.0,Highly Recommended
+RES0692,B.Tech IT,Junior,2,"Python, Pandas, NumPy, Data Visualization, MongoDB, Machine Learning",Data Analyst,Chennai,50.0,45.0,Not Recommended
+RES0693,MCA,Mid-Level,4,"MongoDB, CSS, REST API, Git, HTML, React, JavaScript, Power BI",Web Developer,Mumbai,87.5,81.25,Highly Recommended
+RES0694,B.Tech CSE,Junior,1,"SQL, REST API, Git, Django, Flask, React",Backend Developer,Bangalore,62.5,48.75,Not Recommended
+RES0695,MCA,Senior,10,"Python, REST API, SQL, Java, Django, Flask, Git, MySQL, Excel",Backend Developer,Delhi,100.0,100.0,Highly Recommended
+RES0696,MCA,Junior,1,"Scikit-learn, PyTorch, Deep Learning, TensorFlow, Docker, Python, SQL, Machine Learning",ML Engineer,Delhi,100.0,75.0,Highly Recommended
+RES0697,MCA,Junior,2,"Deep Learning, NumPy, SQL, Scikit-learn, Pandas, Data Visualization, React",Data Scientist,Bangalore,62.5,53.75,Recommended
+RES0698,B.Tech IT,Mid-Level,3,"Python, Data Visualization, Excel, Statistics, Pandas, Power BI, CSS",Data Analyst,Hyderabad,75.0,67.5,Recommended
+RES0699,B.Tech IT,Junior,1,"NumPy, SQL, Statistics, Machine Learning, Scikit-learn, Docker",Data Scientist,Hyderabad,62.5,48.75,Not Recommended
+RES0700,B.Sc Computer Science,Junior,2,"SQL, Python, Scikit-learn, Deep Learning, Pandas, Machine Learning",Data Scientist,Pune,75.0,62.5,Recommended
+RES0701,B.Tech CSE,Junior,1,"Scikit-learn, Deep Learning, SQL, NumPy, Pandas, Machine Learning",Data Scientist,Warangal,75.0,57.5,Recommended
+RES0702,M.Tech CSE,Junior,2,"Statistics, Scikit-learn, Machine Learning, Deep Learning, Pandas, TensorFlow, Node.js",Data Scientist,Warangal,62.5,53.75,Recommended
+RES0703,B.Tech CSE,Senior,10,"Pandas, Python, Scikit-learn, Machine Learning, SQL, NumPy, CSS, Azure",Data Scientist,Hyderabad,75.0,82.5,Highly Recommended
+RES0704,B.Sc Computer Science,Senior,9,"Statistics, Deep Learning, Scikit-learn, NumPy, Machine Learning, SQL, Pandas, Python, Data Visualization",Data Scientist,Pune,100.0,100.0,Highly Recommended
+RES0705,MCA,Junior,2,"SQL, Scikit-learn, PyTorch, Python, Machine Learning, Docker, Deep Learning, TensorFlow",ML Engineer,Pune,100.0,80.0,Highly Recommended
+RES0706,B.Sc Computer Science,Junior,1,"JavaScript, REST API, MongoDB, Git, HTML, React, Node.js, CSS, Linux",Web Developer,Pune,100.0,75.0,Highly Recommended
+RES0707,MCA,Fresher,0,"Flask, REST API, MySQL, Git, Django, Java, SQL, Python, React",Backend Developer,Bangalore,100.0,70.0,Recommended
+RES0708,M.Tech CSE,Fresher,0,"Node.js, Git, HTML, JavaScript, REST API, NumPy",Web Developer,Warangal,62.5,43.75,Not Recommended
+RES0709,B.Tech IT,Mid-Level,4,"Machine Learning, Python, SQL, Deep Learning, Scikit-learn, TensorFlow, REST API",ML Engineer,Chennai,75.0,72.5,Recommended
+RES0710,B.Sc Computer Science,Senior,9,"Kubernetes, Python, Linux, Azure, Docker, AWS, Statistics",Cloud Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0711,B.Tech IT,Junior,2,"Git, Flask, Django, Java, TensorFlow",Backend Developer,Bangalore,50.0,45.0,Not Recommended
+RES0712,MCA,Senior,10,"Git, Flask, REST API, SQL, Python, Java, MySQL, Django, NumPy, Excel",Backend Developer,Hyderabad,100.0,100.0,Highly Recommended
+RES0713,B.Tech IT,Senior,9,"Deep Learning, Docker, Scikit-learn, Python, TensorFlow, Git, Statistics",ML Engineer,Delhi,62.5,73.75,Recommended
+RES0714,M.Tech CSE,Senior,9,"Node.js, JavaScript, MongoDB, HTML, Git, React, REST API, CSS, Flask, SQL",Web Developer,Bangalore,100.0,100.0,Highly Recommended
+RES0715,MCA,Mid-Level,3,"REST API, CSS, React, HTML, Linux",Web Developer,Bangalore,50.0,50.0,Recommended
+RES0716,MCA,Mid-Level,3,"Excel, Python, NumPy, Pandas, Power BI, Statistics, Data Visualization, SQL",Data Analyst,Bangalore,100.0,85.0,Highly Recommended
+RES0717,B.Tech CSE,Junior,2,"Machine Learning, TensorFlow, Python, Deep Learning, Scikit-learn, SQL, Docker, PyTorch, Azure",ML Engineer,Pune,100.0,80.0,Highly Recommended
+RES0718,B.Sc Computer Science,Senior,9,"Git, Networking, Azure, Python",Cloud Engineer,Bangalore,50.0,65.0,Recommended
+RES0719,MCA,Fresher,0,"Django, Git, Java, MySQL, REST API, Flask, Python, SQL",Backend Developer,Warangal,100.0,70.0,Recommended
+RES0720,MCA,Mid-Level,5,"React, Node.js, JavaScript, REST API, MongoDB, CSS, Git, HTML, MySQL, Networking",Web Developer,Warangal,100.0,95.0,Highly Recommended
+RES0721,MCA,Senior,7,"Git, Linux, Azure, Kubernetes, Python, AWS, Data Visualization, CSS",Cloud Engineer,Delhi,75.0,82.5,Highly Recommended
+RES0722,B.Sc Computer Science,Mid-Level,5,"MySQL, Flask, Python, Java",Backend Developer,Hyderabad,50.0,60.0,Recommended
+RES0723,B.Tech CSE,Mid-Level,4,"Networking, Kubernetes, Linux, AWS, Docker",Cloud Engineer,Pune,62.5,63.75,Recommended
+RES0724,MCA,Senior,8,"Pandas, NumPy, Python, Deep Learning, Scikit-learn, Statistics, MongoDB, Flask",Data Scientist,Delhi,75.0,82.5,Highly Recommended
+RES0725,MCA,Senior,9,"REST API, HTML, MongoDB, JavaScript, Git, Python, Networking",Web Developer,Hyderabad,62.5,73.75,Recommended
+RES0726,M.Tech CSE,Fresher,0,"Power BI, NumPy, Data Visualization, SQL, Statistics, Pandas, Python, Excel",Data Analyst,Bangalore,100.0,70.0,Recommended
+RES0727,MCA,Mid-Level,3,"SQL, Machine Learning, Python, Scikit-learn, Excel, AWS",ML Engineer,Bangalore,50.0,50.0,Recommended
+RES0728,B.Tech CSE,Senior,8,"Kubernetes, Networking, Python, AWS, Data Visualization, Docker",Cloud Engineer,Pune,62.5,73.75,Recommended
+RES0729,B.Tech CSE,Senior,6,"Python, Data Visualization, Power BI, SQL, Pandas, NumPy, Statistics, Excel",Data Analyst,Hyderabad,100.0,100.0,Highly Recommended
+RES0730,MCA,Fresher,0,"Machine Learning, Docker, Python, SQL, PyTorch",ML Engineer,Warangal,62.5,43.75,Not Recommended
+RES0731,B.Tech IT,Junior,1,"TensorFlow, PyTorch, Machine Learning, SQL, Docker, Scikit-learn",ML Engineer,Chennai,75.0,57.5,Recommended
+RES0732,MCA,Junior,1,"Python, TensorFlow, Scikit-learn, Deep Learning, Docker, Excel",ML Engineer,Delhi,62.5,48.75,Not Recommended
+RES0733,B.Tech IT,Mid-Level,3,"Scikit-learn, Python, SQL, Machine Learning, TensorFlow, PyTorch, Deep Learning, Docker, Linux, Power BI",ML Engineer,Mumbai,100.0,85.0,Highly Recommended
+RES0734,M.Tech CSE,Senior,9,"Deep Learning, Docker, Machine Learning, SQL, TensorFlow, Python, Scikit-learn",ML Engineer,Mumbai,87.5,91.25,Highly Recommended
+RES0735,MCA,Junior,1,"AWS, Azure, Networking, Linux, Python, React",Cloud Engineer,Hyderabad,62.5,48.75,Not Recommended
+RES0736,M.Tech CSE,Senior,8,"Deep Learning, Machine Learning, SQL, Scikit-learn, Pandas, Python, Node.js, Excel",Data Scientist,Bangalore,75.0,82.5,Highly Recommended
+RES0737,B.Tech IT,Fresher,0,"Python, PyTorch, TensorFlow, Deep Learning, Docker, Scikit-learn, Statistics, Networking",ML Engineer,Delhi,75.0,52.5,Recommended
+RES0738,MCA,Fresher,0,"Statistics, NumPy, Machine Learning, SQL, Pandas, Java, Node.js",Data Scientist,Bangalore,62.5,43.75,Not Recommended
+RES0739,M.Tech CSE,Fresher,0,"Power BI, SQL, Python, Statistics, Pandas",Data Analyst,Pune,62.5,43.75,Not Recommended
+RES0740,B.Sc Computer Science,Senior,7,"Linux, Azure, Python, Git, Networking, Kubernetes, AWS, REST API, Scikit-learn",Cloud Engineer,Chennai,87.5,91.25,Highly Recommended
+RES0741,MCA,Senior,7,"Git, React, REST API, CSS, Django",Web Developer,Warangal,50.0,65.0,Recommended
+RES0742,M.Tech CSE,Junior,2,"REST API, React, HTML, JavaScript, NumPy, Python",Web Developer,Pune,50.0,45.0,Not Recommended
+RES0743,MCA,Junior,1,"MongoDB, JavaScript, React, Node.js, Git, HTML, AWS",Web Developer,Bangalore,75.0,57.5,Recommended
+RES0744,B.Sc Computer Science,Senior,9,"NumPy, Power BI, Statistics, Data Visualization, JavaScript",Data Analyst,Chennai,50.0,65.0,Recommended
+RES0745,B.Sc Computer Science,Senior,8,"Azure, Kubernetes, AWS, Python, Git, Docker, Linux, Networking, Statistics",Cloud Engineer,Delhi,100.0,100.0,Highly Recommended
+RES0746,B.Tech CSE,Junior,2,"Statistics, NumPy, SQL, Data Visualization, Power BI, Python, Pandas, MongoDB, Flask",Data Analyst,Mumbai,87.5,71.25,Recommended
+RES0747,B.Tech CSE,Fresher,0,"Node.js, CSS, MongoDB, Git, REST API",Web Developer,Delhi,62.5,43.75,Not Recommended
+RES0748,B.Sc Computer Science,Senior,10,"Git, Python, Linux, AWS, Azure, Kubernetes, Networking, Statistics",Cloud Engineer,Chennai,87.5,91.25,Highly Recommended
+RES0749,MCA,Mid-Level,3,"Azure, AWS, Python, Linux, Docker, Git, Networking, Excel, Machine Learning",Cloud Engineer,Bangalore,87.5,76.25,Highly Recommended
+RES0750,B.Sc Computer Science,Senior,7,"CSS, HTML, Git, React, Scikit-learn, PyTorch",Web Developer,Bangalore,50.0,65.0,Recommended
+RES0751,B.Tech IT,Junior,1,"Deep Learning, Machine Learning, TensorFlow, SQL, Python, HTML",ML Engineer,Hyderabad,62.5,48.75,Not Recommended
+RES0752,B.Sc Computer Science,Fresher,0,"Kubernetes, Docker, Networking, Python, AWS, TensorFlow, Node.js",Cloud Engineer,Pune,62.5,43.75,Not Recommended
+RES0753,B.Tech CSE,Fresher,0,"SQL, Excel, Python, Pandas, Data Visualization, Power BI, JavaScript",Data Analyst,Hyderabad,75.0,52.5,Recommended
+RES0754,MCA,Mid-Level,4,"Python, Docker, Machine Learning, PyTorch",ML Engineer,Pune,50.0,55.0,Recommended
+RES0755,B.Tech CSE,Mid-Level,4,"SQL, Deep Learning, Docker, Scikit-learn, PyTorch, Python, Machine Learning, TensorFlow, JavaScript",ML Engineer,Warangal,100.0,90.0,Highly Recommended
+RES0756,B.Tech CSE,Fresher,0,"Data Visualization, Statistics, NumPy, Power BI, Machine Learning, Python",Data Analyst,Warangal,62.5,43.75,Not Recommended
+RES0757,B.Tech IT,Fresher,0,"REST API, SQL, Git, Django, Flask, MySQL, JavaScript",Backend Developer,Delhi,75.0,52.5,Recommended
+RES0758,M.Tech CSE,Senior,9,"Scikit-learn, SQL, Python, Deep Learning, Django, Excel",ML Engineer,Delhi,50.0,65.0,Recommended
+RES0759,M.Tech CSE,Junior,1,"Flask, REST API, MySQL, Python, Git, React",Backend Developer,Warangal,62.5,48.75,Not Recommended
+RES0760,MCA,Junior,1,"Python, Java, REST API, Git, SQL, Flask, MySQL, Django, Kubernetes",Backend Developer,Bangalore,100.0,75.0,Highly Recommended
+RES0761,B.Sc Computer Science,Senior,8,"SQL, Pandas, Scikit-learn, Python",Data Scientist,Bangalore,50.0,65.0,Recommended
+RES0762,M.Tech CSE,Fresher,0,"Networking, Python, AWS, Azure, Kubernetes, Git, Pandas, REST API",Cloud Engineer,Delhi,75.0,52.5,Recommended
+RES0763,B.Sc Computer Science,Fresher,0,"SQL, Scikit-learn, Docker, PyTorch, TensorFlow, Python, Deep Learning, AWS",ML Engineer,Hyderabad,87.5,61.25,Recommended
+RES0764,M.Tech CSE,Fresher,0,"Power BI, NumPy, Python, Pandas, Excel, Statistics, Git",Data Analyst,Chennai,75.0,52.5,Recommended
+RES0765,MCA,Fresher,0,"Power BI, Statistics, Data Visualization, NumPy, Excel, SQL, Python, Pandas",Data Analyst,Mumbai,100.0,70.0,Recommended
+RES0766,M.Tech CSE,Mid-Level,3,"JavaScript, REST API, MongoDB, CSS, React, Git, Python",Web Developer,Delhi,75.0,67.5,Recommended
+RES0767,M.Tech CSE,Senior,7,"Python, Docker, Linux, AWS, JavaScript",Cloud Engineer,Pune,50.0,65.0,Recommended
+RES0768,B.Tech IT,Senior,9,"Python, SQL, Deep Learning, Machine Learning, PyTorch, Scikit-learn, Docker, Data Visualization, Node.js",ML Engineer,Chennai,87.5,91.25,Highly Recommended
+RES0769,MCA,Senior,6,"AWS, Linux, Kubernetes, Docker, Python, CSS, Scikit-learn",Cloud Engineer,Mumbai,62.5,73.75,Recommended
+RES0770,B.Sc Computer Science,Fresher,0,"Linux, Python, Azure, Networking, Kubernetes, AWS",Cloud Engineer,Warangal,75.0,52.5,Recommended
+RES0771,B.Tech IT,Junior,1,"Networking, Python, Azure, Linux, Git, Kubernetes, Docker, Statistics",Cloud Engineer,Warangal,87.5,66.25,Recommended
+RES0772,MCA,Senior,7,"AWS, Docker, Python, Linux, Networking, Machine Learning, Kubernetes",Cloud Engineer,Hyderabad,75.0,82.5,Highly Recommended
+RES0773,MCA,Junior,1,"Data Visualization, SQL, Python, NumPy, Excel, Power BI, AWS",Data Analyst,Hyderabad,75.0,57.5,Recommended
+RES0774,MCA,Senior,8,"Deep Learning, Machine Learning, Scikit-learn, NumPy, SQL, Statistics, Pandas, Flask, MySQL",Data Scientist,Delhi,87.5,91.25,Highly Recommended
+RES0775,B.Tech IT,Fresher,0,"Python, AWS, Git, Networking, Linux, Kubernetes, Azure, MongoDB, Power BI",Cloud Engineer,Mumbai,87.5,61.25,Recommended
+RES0776,B.Tech IT,Fresher,0,"Git, SQL, Flask, Python, Java, REST API, MySQL, Django, PyTorch",Backend Developer,Chennai,100.0,70.0,Recommended
+RES0777,B.Tech CSE,Junior,1,"Excel, Power BI, NumPy, Python, Statistics, Data Visualization, SQL, Pandas, PyTorch, Linux",Data Analyst,Bangalore,100.0,75.0,Highly Recommended
+RES0778,B.Tech IT,Junior,1,"Python, Django, REST API, SQL, Git",Backend Developer,Hyderabad,62.5,48.75,Not Recommended
+RES0779,B.Tech CSE,Junior,2,"Python, Git, MySQL, Django, SQL, Java, TensorFlow, CSS",Backend Developer,Hyderabad,75.0,62.5,Recommended
+RES0780,M.Tech CSE,Junior,1,"Git, Java, Django, REST API, SQL, Flask, Power BI",Backend Developer,Delhi,75.0,57.5,Recommended
+RES0781,M.Tech CSE,Junior,2,"Python, SQL, Statistics, Excel, NumPy",Data Analyst,Chennai,62.5,53.75,Recommended
+RES0782,B.Sc Computer Science,Senior,7,"Statistics, Python, NumPy, Machine Learning, Scikit-learn, SQL, Deep Learning, Pandas, MySQL",Data Scientist,Mumbai,100.0,100.0,Highly Recommended
+RES0783,M.Tech CSE,Junior,2,"NumPy, Scikit-learn, Statistics, SQL, React, HTML",Data Scientist,Warangal,50.0,45.0,Not Recommended
+RES0784,M.Tech CSE,Fresher,0,"Statistics, Pandas, Python, NumPy, SQL, Scikit-learn, MySQL",Data Scientist,Delhi,75.0,52.5,Recommended
+RES0785,B.Tech IT,Mid-Level,3,"Java, SQL, Flask, Python, MySQL, Git, REST API",Backend Developer,Hyderabad,87.5,76.25,Highly Recommended
+RES0786,B.Tech CSE,Mid-Level,5,"REST API, HTML, MongoDB, CSS, JavaScript, Machine Learning, Pandas",Web Developer,Mumbai,62.5,68.75,Recommended
+RES0787,M.Tech CSE,Senior,9,"PyTorch, Docker, Python, Scikit-learn, Machine Learning, TensorFlow, Deep Learning, SQL, MongoDB",ML Engineer,Mumbai,100.0,100.0,Highly Recommended
+RES0788,B.Sc Computer Science,Fresher,0,"Python, Scikit-learn, NumPy, SQL, Statistics, Deep Learning, Power BI",Data Scientist,Delhi,75.0,52.5,Recommended
+RES0789,MCA,Mid-Level,4,"Kubernetes, Python, Linux, Networking, Git, AWS, Pandas",Cloud Engineer,Pune,75.0,72.5,Recommended
+RES0790,B.Tech CSE,Fresher,0,"Django, Flask, Python, SQL, REST API, Node.js",Backend Developer,Delhi,62.5,43.75,Not Recommended
+RES0791,MCA,Fresher,0,"Machine Learning, NumPy, Python, Scikit-learn, Networking, Docker",Data Scientist,Pune,50.0,35.0,Not Recommended
+RES0792,MCA,Mid-Level,3,"Docker, Kubernetes, Git, Linux, AWS, Azure, Python, Networking, Java, Machine Learning",Cloud Engineer,Delhi,100.0,85.0,Highly Recommended
+RES0793,M.Tech CSE,Mid-Level,3,"AWS, Linux, Kubernetes, Azure, Git, Networking, Docker, Python",Cloud Engineer,Pune,100.0,85.0,Highly Recommended
+RES0794,MCA,Mid-Level,4,"JavaScript, MongoDB, HTML, REST API, CSS, Node.js, Git, Networking",Web Developer,Bangalore,87.5,81.25,Highly Recommended
+RES0795,M.Tech CSE,Senior,8,"Statistics, SQL, Excel, Pandas, Python, Data Visualization, NumPy, Power BI, Java",Data Analyst,Chennai,100.0,100.0,Highly Recommended
+RES0796,B.Tech CSE,Fresher,0,"Python, Deep Learning, Scikit-learn, Machine Learning, Statistics",ML Engineer,Pune,50.0,35.0,Not Recommended
+RES0797,MCA,Fresher,0,"CSS, Node.js, REST API, MongoDB, React",Web Developer,Bangalore,62.5,43.75,Not Recommended
+RES0798,M.Tech CSE,Mid-Level,3,"Kubernetes, Networking, Git, Docker, Linux, Azure, AWS",Cloud Engineer,Pune,87.5,76.25,Highly Recommended
+RES0799,B.Tech IT,Mid-Level,3,"Docker, Azure, Networking, Kubernetes, AWS, Git, Linux",Cloud Engineer,Bangalore,87.5,76.25,Highly Recommended
+RES0800,MCA,Senior,10,"Git, HTML, CSS, MongoDB, React, JavaScript, Node.js",Web Developer,Pune,87.5,91.25,Highly Recommended
+RES0801,B.Tech CSE,Fresher,0,"Python, Git, Kubernetes, Linux, Networking",Cloud Engineer,Warangal,62.5,43.75,Not Recommended
+RES0802,B.Sc Computer Science,Senior,10,"Excel, Data Visualization, Pandas, Python, SQL",Data Analyst,Delhi,62.5,73.75,Recommended
+RES0803,M.Tech CSE,Junior,1,"Data Visualization, Excel, Statistics, Power BI, Python, SQL, Pandas, AWS, Machine Learning",Data Analyst,Chennai,87.5,66.25,Recommended
+RES0804,M.Tech CSE,Junior,1,"Power BI, NumPy, Data Visualization, SQL, Statistics, Excel",Data Analyst,Warangal,75.0,57.5,Recommended
+RES0805,B.Tech IT,Senior,6,"REST API, Python, Java, Git, MySQL, Excel",Backend Developer,Mumbai,62.5,73.75,Recommended
+RES0806,B.Tech IT,Junior,2,"Python, Pandas, Statistics, NumPy, JavaScript",Data Scientist,Pune,50.0,45.0,Not Recommended
+RES0807,B.Sc Computer Science,Mid-Level,4,"REST API, Git, HTML, JavaScript",Web Developer,Chennai,50.0,55.0,Recommended
+RES0808,B.Tech IT,Mid-Level,4,"Kubernetes, Docker, AWS, Azure, Python, Networking, Git, Machine Learning, Pandas",Cloud Engineer,Chennai,87.5,81.25,Highly Recommended
+RES0809,B.Sc Computer Science,Fresher,0,"MySQL, Java, SQL, REST API, Statistics",Backend Developer,Hyderabad,50.0,35.0,Not Recommended
+RES0810,M.Tech CSE,Mid-Level,3,"Docker, Networking, Git, Python, MongoDB, Linux",Cloud Engineer,Delhi,62.5,58.75,Recommended
+RES0811,M.Tech CSE,Junior,1,"SQL, Python, Docker, Machine Learning, Scikit-learn",ML Engineer,Delhi,62.5,48.75,Not Recommended
+RES0812,MCA,Junior,1,"CSS, Node.js, REST API, JavaScript, Flask",Web Developer,Hyderabad,50.0,40.0,Not Recommended
+RES0813,B.Tech CSE,Senior,6,"Statistics, NumPy, Scikit-learn, Machine Learning, Deep Learning, Django",Data Scientist,Pune,62.5,73.75,Recommended
+RES0814,MCA,Fresher,0,"HTML, CSS, Node.js, JavaScript, REST API, React, MongoDB, Git, Azure, Pandas",Web Developer,Bangalore,100.0,70.0,Recommended
+RES0815,M.Tech CSE,Junior,1,"REST API, Node.js, React, Git, JavaScript, HTML, MongoDB, CSS",Web Developer,Warangal,100.0,75.0,Highly Recommended
+RES0816,B.Tech IT,Fresher,0,"Django, SQL, Java, MySQL, Git, REST API, Python",Backend Developer,Mumbai,87.5,61.25,Recommended
+RES0817,B.Tech IT,Junior,1,"Python, Scikit-learn, SQL, Machine Learning, Statistics, Pandas",Data Scientist,Hyderabad,75.0,57.5,Recommended
+RES0818,MCA,Mid-Level,4,"Python, Docker, AWS, Linux, Git, Kubernetes",Cloud Engineer,Hyderabad,75.0,72.5,Recommended
+RES0819,B.Sc Computer Science,Fresher,0,"Python, Azure, Networking, Docker",Cloud Engineer,Mumbai,50.0,35.0,Not Recommended
+RES0820,B.Sc Computer Science,Mid-Level,3,"Azure, Python, Git, Kubernetes, Docker, Linux, AWS, Networking",Cloud Engineer,Mumbai,100.0,85.0,Highly Recommended
+RES0821,MCA,Junior,2,"Docker, Kubernetes, Azure, Git, Networking, AWS, Python",Cloud Engineer,Bangalore,87.5,71.25,Recommended
+RES0822,B.Tech IT,Senior,10,"Deep Learning, Scikit-learn, SQL, Machine Learning, Python, Azure",Data Scientist,Bangalore,62.5,73.75,Recommended
+RES0823,M.Tech CSE,Junior,1,"SQL, Power BI, Data Visualization, Statistics, Pandas",Data Analyst,Mumbai,62.5,48.75,Not Recommended
+RES0824,B.Sc Computer Science,Junior,1,"Statistics, Python, Data Visualization, NumPy, Pandas, Power BI, Excel",Data Analyst,Warangal,87.5,66.25,Recommended
+RES0825,B.Tech IT,Senior,10,"NumPy, Statistics, Data Visualization, Python",Data Analyst,Pune,50.0,65.0,Recommended
+RES0826,M.Tech CSE,Fresher,0,"Scikit-learn, Pandas, SQL, Deep Learning, Python, Machine Learning, Networking, PyTorch",Data Scientist,Hyderabad,75.0,52.5,Recommended
+RES0827,B.Tech CSE,Junior,1,"Pandas, Python, Data Visualization, Power BI",Data Analyst,Bangalore,50.0,40.0,Not Recommended
+RES0828,MCA,Junior,1,"JavaScript, MongoDB, Git, REST API, CSS, Node.js, React, Data Visualization, Python",Web Developer,Bangalore,87.5,66.25,Recommended
+RES0829,B.Tech CSE,Junior,1,"NumPy, Python, Pandas, Excel, Statistics, SQL",Data Analyst,Pune,75.0,57.5,Recommended
+RES0830,B.Tech CSE,Mid-Level,4,"SQL, Flask, REST API, Java, Git, MySQL, Scikit-learn",Backend Developer,Delhi,75.0,72.5,Recommended
+RES0831,MCA,Senior,9,"Machine Learning, SQL, Python, Docker, PyTorch, TensorFlow",ML Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0832,B.Sc Computer Science,Junior,1,"Statistics, NumPy, Excel, SQL",Data Analyst,Warangal,50.0,40.0,Not Recommended
+RES0833,B.Tech IT,Senior,9,"Git, React, REST API, MongoDB, Node.js, JavaScript, Statistics, AWS",Web Developer,Mumbai,75.0,82.5,Highly Recommended
+RES0834,B.Sc Computer Science,Fresher,0,"MongoDB, Node.js, REST API, CSS, React, HTML, Git, JavaScript, MySQL, TensorFlow",Web Developer,Bangalore,100.0,70.0,Recommended
+RES0835,B.Sc Computer Science,Senior,7,"Data Visualization, SQL, Python, NumPy, Excel, Statistics",Data Analyst,Warangal,75.0,82.5,Highly Recommended
+RES0836,B.Tech CSE,Senior,8,"REST API, Java, MySQL, Python, Flask, Django, SQL, Machine Learning",Backend Developer,Hyderabad,87.5,91.25,Highly Recommended
+RES0837,B.Tech IT,Mid-Level,3,"Azure, Kubernetes, Linux, Networking",Cloud Engineer,Hyderabad,50.0,50.0,Recommended
+RES0838,MCA,Junior,2,"Python, NumPy, Pandas, SQL",Data Scientist,Pune,50.0,45.0,Not Recommended
+RES0839,B.Tech CSE,Fresher,0,"MongoDB, REST API, Git, HTML, JavaScript, Node.js",Web Developer,Mumbai,75.0,52.5,Recommended
+RES0840,B.Tech IT,Mid-Level,3,"Machine Learning, Python, Pandas, Scikit-learn, NumPy, Deep Learning, SQL, Statistics, Excel, CSS",Data Scientist,Mumbai,100.0,85.0,Highly Recommended
+RES0841,M.Tech CSE,Fresher,0,"React, MongoDB, Node.js, HTML, CSS, Kubernetes",Web Developer,Warangal,62.5,43.75,Not Recommended
+RES0842,MCA,Junior,2,"Networking, Docker, Python, Kubernetes, Linux, AWS, Git, Flask",Cloud Engineer,Hyderabad,87.5,71.25,Recommended
+RES0843,B.Sc Computer Science,Junior,1,"NumPy, Pandas, Excel, Python",Data Analyst,Hyderabad,50.0,40.0,Not Recommended
+RES0844,M.Tech CSE,Fresher,0,"Python, Statistics, Machine Learning, SQL, NumPy, Scikit-learn, Deep Learning, Pandas, MySQL",Data Scientist,Mumbai,100.0,70.0,Recommended
+RES0845,B.Sc Computer Science,Mid-Level,4,"HTML, JavaScript, MongoDB, REST API",Web Developer,Mumbai,50.0,55.0,Recommended
+RES0846,M.Tech CSE,Fresher,0,"Statistics, Scikit-learn, Machine Learning, SQL, Python, NumPy, MongoDB",Data Scientist,Mumbai,75.0,52.5,Recommended
+RES0847,B.Tech IT,Senior,6,"Statistics, Pandas, NumPy, Python, Kubernetes",Data Scientist,Delhi,50.0,65.0,Recommended
+RES0848,M.Tech CSE,Mid-Level,4,"Power BI, Statistics, NumPy, SQL, Pandas, CSS, MongoDB",Data Analyst,Warangal,62.5,63.75,Recommended
+RES0849,B.Tech IT,Fresher,0,"NumPy, Machine Learning, Deep Learning, Pandas, Python, Statistics, Git, Excel",Data Scientist,Bangalore,75.0,52.5,Recommended
+RES0850,MCA,Mid-Level,3,"Java, MySQL, Python, Git, SQL, REST API, Flask, Kubernetes",Backend Developer,Chennai,87.5,76.25,Highly Recommended
+RES0851,B.Tech CSE,Junior,2,"NumPy, Deep Learning, Machine Learning, Scikit-learn",Data Scientist,Chennai,50.0,45.0,Not Recommended
+RES0852,MCA,Senior,10,"MongoDB, Git, CSS, HTML, React, Node.js, Networking",Web Developer,Delhi,75.0,82.5,Highly Recommended
+RES0853,B.Tech CSE,Fresher,0,"Scikit-learn, NumPy, Statistics, Machine Learning, Deep Learning, Python, SQL, CSS, Networking",Data Scientist,Delhi,87.5,61.25,Recommended
+RES0854,MCA,Senior,6,"Python, SQL, Deep Learning, Machine Learning, Pandas, Scikit-learn, Statistics, NumPy",Data Scientist,Chennai,100.0,100.0,Highly Recommended
+RES0855,MCA,Mid-Level,3,"MongoDB, HTML, REST API, CSS, Git, Node.js, JavaScript",Web Developer,Chennai,87.5,76.25,Highly Recommended
+RES0856,B.Tech IT,Junior,2,"Docker, Machine Learning, Scikit-learn, TensorFlow, Python, SQL, Deep Learning, PyTorch, Kubernetes, NumPy",ML Engineer,Mumbai,100.0,80.0,Highly Recommended
+RES0857,MCA,Mid-Level,4,"Statistics, Python, Excel, Power BI, Pandas, Data Visualization, NumPy, SQL",Data Analyst,Delhi,100.0,90.0,Highly Recommended
+RES0858,B.Sc Computer Science,Senior,9,"Machine Learning, Python, Deep Learning, Pandas",Data Scientist,Mumbai,50.0,65.0,Recommended
+RES0859,B.Tech IT,Mid-Level,4,"Machine Learning, Statistics, Python, Scikit-learn, Pandas, SQL, Kubernetes",Data Scientist,Pune,75.0,72.5,Recommended
+RES0860,M.Tech CSE,Junior,2,"JavaScript, Git, React, MongoDB, REST API, HTML, Node.js, CSS, Data Visualization, PyTorch",Web Developer,Delhi,100.0,80.0,Highly Recommended
+RES0861,MCA,Mid-Level,5,"AWS, Azure, Kubernetes, Git, Python, Linux",Cloud Engineer,Delhi,75.0,77.5,Highly Recommended
+RES0862,M.Tech CSE,Junior,2,"Excel, NumPy, Power BI, Pandas, Python, Statistics, Data Visualization, Azure, Django",Data Analyst,Bangalore,87.5,71.25,Recommended
+RES0863,B.Sc Computer Science,Mid-Level,5,"TensorFlow, Scikit-learn, PyTorch, Python, Deep Learning, Java",ML Engineer,Warangal,62.5,68.75,Recommended
+RES0864,B.Tech IT,Senior,9,"Data Visualization, Power BI, Statistics, Excel, Pandas, NumPy, SQL, React, MySQL",Data Analyst,Chennai,87.5,91.25,Highly Recommended
+RES0865,B.Tech CSE,Fresher,0,"Machine Learning, NumPy, Pandas, Scikit-learn, Deep Learning, Statistics, SQL, Python, JavaScript, AWS",Data Scientist,Hyderabad,100.0,70.0,Recommended
+RES0866,MCA,Fresher,0,"Git, AWS, Kubernetes, Linux, MySQL, PyTorch",Cloud Engineer,Delhi,50.0,35.0,Not Recommended
+RES0867,B.Sc Computer Science,Senior,9,"TensorFlow, Machine Learning, Docker, PyTorch, Scikit-learn, Python, Deep Learning, AWS",ML Engineer,Warangal,87.5,91.25,Highly Recommended
+RES0868,B.Tech IT,Fresher,0,"AWS, Docker, Azure, Linux, Git, Python, Kubernetes, CSS",Cloud Engineer,Pune,87.5,61.25,Recommended
+RES0869,B.Sc Computer Science,Junior,2,"Python, SQL, Excel, Pandas, Linux, REST API",Data Analyst,Bangalore,50.0,45.0,Not Recommended
+RES0870,MCA,Junior,2,"REST API, Django, Flask, Git, Python, SQL, Java",Backend Developer,Chennai,87.5,71.25,Recommended
+RES0871,MCA,Mid-Level,5,"MySQL, Java, Python, Git, Flask, Linux, Machine Learning",Backend Developer,Bangalore,62.5,68.75,Recommended
+RES0872,B.Tech IT,Fresher,0,"Machine Learning, Python, SQL, TensorFlow, Scikit-learn, MongoDB, HTML",ML Engineer,Mumbai,62.5,43.75,Not Recommended
+RES0873,B.Tech IT,Mid-Level,3,"Azure, Linux, Kubernetes, AWS, Networking, Python, Docker, Git",Cloud Engineer,Mumbai,100.0,85.0,Highly Recommended
+RES0874,B.Tech CSE,Senior,10,"NumPy, Scikit-learn, Python, Machine Learning, Statistics, Pandas, Deep Learning, PyTorch, AWS",Data Scientist,Hyderabad,87.5,91.25,Highly Recommended
+RES0875,B.Tech IT,Senior,6,"Pandas, Excel, SQL, Python, Data Visualization, Statistics",Data Analyst,Pune,75.0,82.5,Highly Recommended
+RES0876,MCA,Junior,1,"SQL, Power BI, NumPy, Python, Data Visualization, Excel, Statistics, REST API",Data Analyst,Chennai,87.5,66.25,Recommended
+RES0877,B.Tech CSE,Junior,2,"Python, Data Visualization, Excel, NumPy, Power BI, Linux, Docker",Data Analyst,Hyderabad,62.5,53.75,Recommended
+RES0878,B.Tech CSE,Mid-Level,3,"Python, NumPy, Deep Learning, Statistics, SQL, Scikit-learn, Pandas, Machine Learning",Data Scientist,Bangalore,100.0,85.0,Highly Recommended
+RES0879,M.Tech CSE,Mid-Level,4,"Pandas, Excel, Power BI, SQL, Python, Flask",Data Analyst,Delhi,62.5,63.75,Recommended
+RES0880,M.Tech CSE,Mid-Level,3,"REST API, CSS, JavaScript, MongoDB, Node.js, Git, React, Python",Web Developer,Warangal,87.5,76.25,Highly Recommended
+RES0881,B.Tech IT,Mid-Level,4,"Statistics, Pandas, Deep Learning, NumPy, Machine Learning, SQL, Python, Git, Django",Data Scientist,Delhi,87.5,81.25,Highly Recommended
+RES0882,B.Tech CSE,Junior,2,"Excel, Python, Pandas, Data Visualization, Power BI, SQL, NumPy, Java",Data Analyst,Pune,87.5,71.25,Recommended
+RES0883,B.Tech CSE,Mid-Level,5,"Pandas, Python, SQL, Machine Learning, NumPy, Statistics, MySQL",Data Scientist,Hyderabad,75.0,77.5,Highly Recommended
+RES0884,MCA,Mid-Level,5,"Kubernetes, Networking, Linux, Docker, Azure, Python",Cloud Engineer,Bangalore,75.0,77.5,Highly Recommended
+RES0885,MCA,Mid-Level,4,"Java, Django, SQL, MySQL, Python, PyTorch, Pandas",Backend Developer,Bangalore,62.5,63.75,Recommended
+RES0886,B.Tech CSE,Senior,7,"Deep Learning, Pandas, Python, Machine Learning, AWS",Data Scientist,Mumbai,50.0,65.0,Recommended
+RES0887,MCA,Fresher,0,"SQL, Machine Learning, PyTorch, Python, Deep Learning, Scikit-learn, TensorFlow, Docker, Kubernetes",ML Engineer,Mumbai,100.0,70.0,Recommended
+RES0888,MCA,Mid-Level,4,"Flask, Git, Python, MySQL, AWS",Backend Developer,Chennai,50.0,55.0,Recommended
+RES0889,B.Tech CSE,Mid-Level,5,"Machine Learning, PyTorch, Deep Learning, TensorFlow, Python, Docker, Scikit-learn, CSS, NumPy",ML Engineer,Hyderabad,87.5,86.25,Highly Recommended
+RES0890,MCA,Junior,1,"Python, Statistics, Data Visualization, SQL, NumPy, JavaScript",Data Analyst,Hyderabad,62.5,48.75,Not Recommended
+RES0891,B.Sc Computer Science,Fresher,0,"Python, Scikit-learn, Deep Learning, Machine Learning, Statistics, Pandas",Data Scientist,Chennai,75.0,52.5,Recommended
+RES0892,B.Sc Computer Science,Junior,2,"SQL, Deep Learning, Scikit-learn, Machine Learning, PyTorch, Docker, TensorFlow, Python",ML Engineer,Delhi,100.0,80.0,Highly Recommended
+RES0893,MCA,Junior,1,"React, Node.js, MongoDB, Git, REST API",Web Developer,Chennai,62.5,48.75,Not Recommended
+RES0894,B.Tech CSE,Junior,1,"Scikit-learn, PyTorch, Machine Learning, Docker, Node.js, Pandas",ML Engineer,Delhi,50.0,40.0,Not Recommended
+RES0895,MCA,Junior,1,"Statistics, SQL, Pandas, Python, Machine Learning, NumPy, Deep Learning, MongoDB",Data Scientist,Bangalore,87.5,66.25,Recommended
+RES0896,B.Tech CSE,Mid-Level,4,"Statistics, Pandas, NumPy, Scikit-learn, SQL, Deep Learning",Data Scientist,Bangalore,75.0,72.5,Recommended
+RES0897,MCA,Junior,2,"Azure, Networking, Kubernetes, AWS, Linux, Python",Cloud Engineer,Hyderabad,75.0,62.5,Recommended
+RES0898,MCA,Senior,10,"MongoDB, JavaScript, REST API, HTML, Node.js, CSS, Git, React",Web Developer,Chennai,100.0,100.0,Highly Recommended
+RES0899,B.Sc Computer Science,Junior,2,"Pandas, Excel, Python, NumPy, Power BI, Statistics, SQL",Data Analyst,Bangalore,87.5,71.25,Recommended
+RES0900,B.Tech CSE,Junior,1,"Git, Django, REST API, Python, MySQL, SQL",Backend Developer,Hyderabad,75.0,57.5,Recommended
+RES0901,B.Tech CSE,Junior,2,"Pandas, SQL, Python, Data Visualization, NumPy, Statistics, Power BI, Excel, Git",Data Analyst,Pune,100.0,80.0,Highly Recommended
+RES0902,B.Tech IT,Senior,8,"Pandas, Machine Learning, Scikit-learn, Statistics, NumPy, Java, MySQL",Data Scientist,Warangal,62.5,73.75,Recommended
+RES0903,B.Sc Computer Science,Senior,7,"Docker, Networking, Python, AWS, Azure",Cloud Engineer,Hyderabad,62.5,73.75,Recommended
+RES0904,B.Sc Computer Science,Senior,10,"Git, Docker, AWS, Azure, Networking, Python, Kubernetes, Java, JavaScript",Cloud Engineer,Hyderabad,87.5,91.25,Highly Recommended
+RES0905,M.Tech CSE,Junior,1,"MongoDB, HTML, REST API, Git, JavaScript",Web Developer,Warangal,62.5,48.75,Not Recommended
+RES0906,B.Sc Computer Science,Mid-Level,5,"Pandas, Statistics, NumPy, Excel, CSS",Data Analyst,Pune,50.0,60.0,Recommended
+RES0907,B.Tech CSE,Mid-Level,5,"Docker, Python, Deep Learning, Scikit-learn, PyTorch, TensorFlow, SQL, NumPy",ML Engineer,Mumbai,87.5,86.25,Highly Recommended
+RES0908,B.Tech CSE,Junior,2,"Docker, Kubernetes, Azure, Python, CSS",Cloud Engineer,Chennai,50.0,45.0,Not Recommended
+RES0909,M.Tech CSE,Senior,10,"Pandas, Deep Learning, Scikit-learn, Python, PyTorch",Data Scientist,Bangalore,50.0,65.0,Recommended
+RES0910,B.Tech CSE,Mid-Level,5,"Scikit-learn, TensorFlow, PyTorch, SQL, Deep Learning, Machine Learning",ML Engineer,Hyderabad,75.0,77.5,Highly Recommended
+RES0911,B.Tech IT,Mid-Level,5,"Git, JavaScript, HTML, MongoDB, React, REST API, Node.js, Flask",Web Developer,Mumbai,87.5,86.25,Highly Recommended
+RES0912,MCA,Fresher,0,"Linux, Kubernetes, Docker, AWS, Python",Cloud Engineer,Bangalore,62.5,43.75,Not Recommended
+RES0913,B.Sc Computer Science,Junior,2,"Machine Learning, Python, TensorFlow, Deep Learning, SQL, Docker, PyTorch, Scikit-learn",ML Engineer,Chennai,100.0,80.0,Highly Recommended
+RES0914,B.Tech IT,Fresher,0,"SQL, Python, Flask, Git, Java, Django, MySQL, REST API, AWS, Statistics",Backend Developer,Pune,100.0,70.0,Recommended
+RES0915,B.Sc Computer Science,Junior,2,"SQL, TensorFlow, Docker, Python, Deep Learning, Power BI",ML Engineer,Delhi,62.5,53.75,Recommended
+RES0916,B.Sc Computer Science,Senior,10,"Deep Learning, Scikit-learn, Machine Learning, Docker, SQL, TensorFlow, Python, PyTorch, MySQL",ML Engineer,Bangalore,100.0,100.0,Highly Recommended
+RES0917,MCA,Senior,9,"CSS, MongoDB, Node.js, React, JavaScript, Git, REST API, Scikit-learn",Web Developer,Pune,87.5,91.25,Highly Recommended
+RES0918,M.Tech CSE,Mid-Level,3,"HTML, REST API, React, MongoDB",Web Developer,Mumbai,50.0,50.0,Recommended
+RES0919,MCA,Fresher,0,"SQL, Django, MySQL, Flask, Git, Python, Kubernetes",Backend Developer,Pune,75.0,52.5,Recommended
+RES0920,MCA,Mid-Level,3,"Python, Git, MySQL, SQL, Flask, Java, REST API, Power BI",Backend Developer,Hyderabad,87.5,76.25,Highly Recommended
+RES0921,B.Tech IT,Mid-Level,5,"AWS, Python, Azure, Linux, Git, Docker, Kubernetes, Networking",Cloud Engineer,Chennai,100.0,95.0,Highly Recommended
+RES0922,B.Tech CSE,Fresher,0,"Networking, Linux, Python, Azure",Cloud Engineer,Bangalore,50.0,35.0,Not Recommended
+RES0923,M.Tech CSE,Senior,9,"Java, Git, MySQL, Python, Deep Learning",Backend Developer,Hyderabad,50.0,65.0,Recommended
+RES0924,M.Tech CSE,Fresher,0,"Statistics, Power BI, SQL, NumPy, Excel, Data Visualization, Pandas, JavaScript",Data Analyst,Pune,87.5,61.25,Recommended
+RES0925,M.Tech CSE,Junior,2,"Machine Learning, SQL, Scikit-learn, Statistics",Data Scientist,Pune,50.0,45.0,Not Recommended
+RES0926,B.Tech CSE,Senior,9,"Machine Learning, PyTorch, TensorFlow, Deep Learning, SQL, Docker, Flask",ML Engineer,Warangal,75.0,82.5,Highly Recommended
+RES0927,M.Tech CSE,Mid-Level,3,"HTML, JavaScript, React, MongoDB, Git",Web Developer,Delhi,62.5,58.75,Recommended
+RES0928,B.Tech IT,Mid-Level,5,"Networking, AWS, Docker, Azure, Kubernetes, Python, Linux, Git",Cloud Engineer,Warangal,100.0,95.0,Highly Recommended
+RES0929,B.Tech IT,Mid-Level,5,"Flask, Git, Django, REST API, Python",Backend Developer,Delhi,62.5,68.75,Recommended
+RES0930,MCA,Senior,9,"Git, Flask, Java, SQL, Django, MySQL",Backend Developer,Mumbai,75.0,82.5,Highly Recommended
+RES0931,B.Tech CSE,Fresher,0,"Linux, Azure, Python, Docker, Networking, PyTorch, Git",Cloud Engineer,Hyderabad,75.0,52.5,Recommended
+RES0932,B.Tech IT,Junior,1,"Kubernetes, AWS, Python, Git, Networking, Docker, Scikit-learn",Cloud Engineer,Bangalore,75.0,57.5,Recommended
+RES0933,B.Sc Computer Science,Fresher,0,"Git, AWS, Networking, Linux, Docker, Python, Kubernetes, Node.js, NumPy",Cloud Engineer,Bangalore,87.5,61.25,Recommended
+RES0934,MCA,Senior,8,"Docker, TensorFlow, Machine Learning, PyTorch, Kubernetes, Excel",ML Engineer,Bangalore,50.0,65.0,Recommended
+RES0935,B.Tech CSE,Junior,1,"Statistics, Deep Learning, NumPy, SQL, Python, Java, PyTorch",Data Scientist,Warangal,62.5,48.75,Not Recommended
+RES0936,B.Tech IT,Senior,7,"Scikit-learn, Statistics, Pandas, NumPy, Node.js, Networking",Data Scientist,Warangal,50.0,65.0,Recommended
+RES0937,M.Tech CSE,Fresher,0,"Deep Learning, NumPy, Machine Learning, Scikit-learn, SQL, Python, Pandas, Statistics, Django, MySQL",Data Scientist,Bangalore,100.0,70.0,Recommended
+RES0938,B.Tech IT,Mid-Level,4,"Java, Python, REST API, Git, MySQL, SQL, Scikit-learn, Deep Learning",Backend Developer,Pune,75.0,72.5,Recommended
+RES0939,M.Tech CSE,Mid-Level,4,"Azure, Git, Networking, Docker, AWS, Linux, Excel, HTML",Cloud Engineer,Mumbai,75.0,72.5,Recommended
+RES0940,B.Sc Computer Science,Fresher,0,"SQL, Pandas, Power BI, Excel, Python, NumPy, Data Visualization, Statistics, Azure",Data Analyst,Bangalore,100.0,70.0,Recommended
+RES0941,MCA,Fresher,0,"Scikit-learn, Statistics, Deep Learning, Python, SQL, Pandas, NumPy, Machine Learning, MySQL",Data Scientist,Mumbai,100.0,70.0,Recommended
+RES0942,B.Tech IT,Mid-Level,4,"Node.js, Git, HTML, REST API, MongoDB, NumPy",Web Developer,Pune,62.5,63.75,Recommended
+RES0943,B.Tech CSE,Senior,6,"Python, Docker, SQL, Machine Learning, TensorFlow, PyTorch, Flask",ML Engineer,Pune,75.0,82.5,Highly Recommended
+RES0944,MCA,Fresher,0,"REST API, Git, React, Node.js, CSS",Web Developer,Mumbai,62.5,43.75,Not Recommended
+RES0945,M.Tech CSE,Fresher,0,"TensorFlow, Deep Learning, Docker, Python, Machine Learning, PyTorch",ML Engineer,Bangalore,75.0,52.5,Recommended
+RES0946,B.Sc Computer Science,Fresher,0,"HTML, REST API, MongoDB, CSS, Git, React, JavaScript, Node.js, Kubernetes",Web Developer,Chennai,100.0,70.0,Recommended
+RES0947,B.Sc Computer Science,Junior,2,"TensorFlow, Deep Learning, Machine Learning, PyTorch, Docker, Scikit-learn, Python, SQL",ML Engineer,Delhi,100.0,80.0,Highly Recommended
+RES0948,B.Tech IT,Mid-Level,4,"Kubernetes, Networking, Python, Docker, Linux, Git, JavaScript",Cloud Engineer,Delhi,75.0,72.5,Recommended
+RES0949,M.Tech CSE,Junior,2,"Java, Python, SQL, REST API, Django, Git, MySQL, Flask",Backend Developer,Delhi,100.0,80.0,Highly Recommended
+RES0950,MCA,Senior,6,"Java, SQL, Flask, Git, Python",Backend Developer,Hyderabad,62.5,73.75,Recommended
+RES0951,B.Tech CSE,Fresher,0,"Node.js, JavaScript, MongoDB, React, Machine Learning",Web Developer,Chennai,50.0,35.0,Not Recommended
+RES0952,MCA,Junior,2,"Git, Python, REST API, Flask, Django, MySQL, SQL",Backend Developer,Mumbai,87.5,71.25,Recommended
+RES0953,B.Tech CSE,Mid-Level,5,"Python, Pandas, Excel, Data Visualization, NumPy, SQL, Azure, Machine Learning",Data Analyst,Warangal,75.0,77.5,Highly Recommended
+RES0954,M.Tech CSE,Senior,9,"MySQL, Git, Flask, Python, Django, SQL, Java, MongoDB, REST API",Backend Developer,Mumbai,100.0,100.0,Highly Recommended
+RES0955,B.Tech IT,Mid-Level,4,"Linux, Azure, Kubernetes, Python, Git, AWS, Docker, Networking, Statistics, Node.js",Cloud Engineer,Mumbai,100.0,90.0,Highly Recommended
+RES0956,M.Tech CSE,Fresher,0,"Node.js, JavaScript, REST API, Git, Data Visualization, MongoDB",Web Developer,Hyderabad,62.5,43.75,Not Recommended
+RES0957,MCA,Fresher,0,"Scikit-learn, SQL, Deep Learning, Machine Learning, TensorFlow, PyTorch, Python, Docker",ML Engineer,Chennai,100.0,70.0,Recommended
+RES0958,B.Sc Computer Science,Mid-Level,4,"React, MongoDB, HTML, Node.js, Git, CSS, JavaScript, REST API, Kubernetes",Web Developer,Warangal,100.0,90.0,Highly Recommended
+RES0959,B.Tech CSE,Fresher,0,"React, Git, CSS, REST API, HTML",Web Developer,Bangalore,62.5,43.75,Not Recommended
+RES0960,B.Sc Computer Science,Fresher,0,"Networking, Linux, Docker, AWS, Azure, Git, Kubernetes, Python",Cloud Engineer,Mumbai,100.0,70.0,Recommended
+RES0961,B.Tech IT,Junior,2,"SQL, Python, NumPy, Pandas, Statistics, Machine Learning",Data Scientist,Mumbai,75.0,62.5,Recommended
+RES0962,MCA,Mid-Level,4,"Machine Learning, Scikit-learn, TensorFlow, Deep Learning, Docker, Python, SQL, Git, Statistics",ML Engineer,Chennai,87.5,81.25,Highly Recommended
+RES0963,M.Tech CSE,Fresher,0,"SQL, Git, Python, MySQL",Backend Developer,Hyderabad,50.0,35.0,Not Recommended
+RES0964,MCA,Fresher,0,"Flask, Django, Git, MySQL, SQL",Backend Developer,Delhi,62.5,43.75,Not Recommended
+RES0965,M.Tech CSE,Senior,10,"Git, Networking, Python, AWS, Linux",Cloud Engineer,Delhi,62.5,73.75,Recommended
+RES0966,B.Sc Computer Science,Junior,2,"Python, Pandas, Power BI, Statistics, NumPy, SQL, Excel, Data Visualization, React, TensorFlow",Data Analyst,Bangalore,100.0,80.0,Highly Recommended
+RES0967,B.Sc Computer Science,Fresher,0,"CSS, Git, MongoDB, React, Node.js, REST API",Web Developer,Chennai,75.0,52.5,Recommended
+RES0968,M.Tech CSE,Junior,2,"Kubernetes, Networking, Git, Azure, Linux, Docker, AWS, MongoDB",Cloud Engineer,Warangal,87.5,71.25,Recommended
+RES0969,M.Tech CSE,Senior,7,"Scikit-learn, Python, SQL, TensorFlow, PyTorch, Deep Learning",ML Engineer,Bangalore,75.0,82.5,Highly Recommended
+RES0970,B.Tech CSE,Junior,1,"JavaScript, HTML, React, MongoDB, PyTorch, Pandas",Web Developer,Warangal,50.0,40.0,Not Recommended
+RES0971,B.Sc Computer Science,Junior,2,"JavaScript, HTML, CSS, Node.js, Statistics, Scikit-learn",Web Developer,Delhi,50.0,45.0,Not Recommended
+RES0972,B.Sc Computer Science,Senior,9,"Django, Python, SQL, Flask, MySQL, Deep Learning, Node.js",Backend Developer,Delhi,62.5,73.75,Recommended
+RES0973,B.Tech CSE,Mid-Level,5,"Node.js, REST API, React, CSS, MongoDB, JavaScript, HTML",Web Developer,Delhi,87.5,86.25,Highly Recommended
+RES0974,B.Sc Computer Science,Fresher,0,"Git, React, CSS, Node.js, JavaScript, HTML, REST API, Docker",Web Developer,Mumbai,87.5,61.25,Recommended
+RES0975,M.Tech CSE,Mid-Level,5,"MySQL, SQL, Git, REST API, Flask, Python, Django, Java, Excel, NumPy",Backend Developer,Mumbai,100.0,95.0,Highly Recommended
+RES0976,MCA,Senior,7,"Scikit-learn, Deep Learning, Machine Learning, Python, Networking",ML Engineer,Bangalore,50.0,65.0,Recommended
+RES0977,M.Tech CSE,Junior,1,"Machine Learning, Docker, Scikit-learn, Deep Learning, SQL, Python",ML Engineer,Mumbai,75.0,57.5,Recommended
+RES0978,B.Tech IT,Senior,8,"Power BI, Python, Data Visualization, Statistics, Excel, Pandas, SQL, NumPy, CSS, HTML",Data Analyst,Hyderabad,100.0,100.0,Highly Recommended
+RES0979,B.Tech IT,Mid-Level,5,"Networking, Kubernetes, Git, Docker",Cloud Engineer,Delhi,50.0,60.0,Recommended
+RES0980,MCA,Fresher,0,"SQL, NumPy, Data Visualization, Python, Excel, Pandas, REST API, Networking",Data Analyst,Delhi,75.0,52.5,Recommended
+RES0981,B.Tech CSE,Fresher,0,"AWS, Kubernetes, Networking, Linux, Docker, Python, Flask, JavaScript",Cloud Engineer,Bangalore,75.0,52.5,Recommended
+RES0982,MCA,Mid-Level,3,"Statistics, Deep Learning, SQL, Scikit-learn, Machine Learning, NumPy, Python, Pandas",Data Scientist,Bangalore,100.0,85.0,Highly Recommended
+RES0983,M.Tech CSE,Junior,1,"Kubernetes, AWS, Networking, Git, HTML",Cloud Engineer,Hyderabad,50.0,40.0,Not Recommended
+RES0984,B.Sc Computer Science,Junior,2,"REST API, Git, Node.js, CSS, JavaScript, MongoDB, SQL, Kubernetes",Web Developer,Delhi,75.0,62.5,Recommended
+RES0985,B.Tech CSE,Mid-Level,4,"REST API, Node.js, JavaScript, MongoDB, React, CSS, HTML",Web Developer,Pune,87.5,81.25,Highly Recommended
+RES0986,MCA,Junior,2,"SQL, Python, Machine Learning, TensorFlow, Deep Learning, AWS, Scikit-learn",ML Engineer,Warangal,75.0,62.5,Recommended
+RES0987,M.Tech CSE,Mid-Level,4,"REST API, Git, CSS, HTML, JavaScript, MongoDB, Node.js, React",Web Developer,Delhi,100.0,90.0,Highly Recommended
+RES0988,B.Tech IT,Mid-Level,5,"SQL, Docker, TensorFlow, Scikit-learn, PyTorch, Machine Learning, Python, CSS",ML Engineer,Warangal,87.5,86.25,Highly Recommended
+RES0989,B.Tech CSE,Mid-Level,3,"Data Visualization, Power BI, SQL, Pandas, NumPy, Excel",Data Analyst,Mumbai,75.0,67.5,Recommended
+RES0990,M.Tech CSE,Fresher,0,"Python, MySQL, REST API, Git, Statistics, Scikit-learn",Backend Developer,Delhi,50.0,35.0,Not Recommended
+RES0991,B.Sc Computer Science,Mid-Level,4,"Power BI, Excel, Pandas, SQL, NumPy, Statistics, Data Visualization, Python, Kubernetes",Data Analyst,Bangalore,100.0,90.0,Highly Recommended
+RES0992,MCA,Fresher,0,"Python, Git, MySQL, Django, Flask, Scikit-learn, Machine Learning",Backend Developer,Bangalore,62.5,43.75,Not Recommended
+RES0993,MCA,Junior,2,"Python, Machine Learning, Scikit-learn, SQL, Docker, PyTorch, MySQL, Statistics",ML Engineer,Warangal,75.0,62.5,Recommended
+RES0994,B.Tech CSE,Junior,1,"SQL, Pandas, NumPy, Power BI",Data Analyst,Delhi,50.0,40.0,Not Recommended
+RES0995,MCA,Junior,1,"REST API, MySQL, Django, SQL, Flask, Java, Python, React",Backend Developer,Chennai,87.5,66.25,Recommended
+RES0996,M.Tech CSE,Junior,2,"Networking, Kubernetes, Docker, Git, AWS, Linux, Azure, Python, Scikit-learn",Cloud Engineer,Hyderabad,100.0,80.0,Highly Recommended
+RES0997,MCA,Mid-Level,4,"Git, REST API, Node.js, HTML, React, MongoDB, JavaScript, TensorFlow",Web Developer,Mumbai,87.5,81.25,Highly Recommended
+RES0998,B.Tech IT,Senior,10,"NumPy, SQL, Data Visualization, Python, Pandas, Excel",Data Analyst,Bangalore,75.0,82.5,Highly Recommended
+RES0999,MCA,Mid-Level,4,"Statistics, Pandas, Power BI, Data Visualization, SQL",Data Analyst,Chennai,62.5,63.75,Recommended
+RES1000,B.Tech IT,Senior,10,"Docker, AWS, Networking, Linux, Kubernetes, Git, MongoDB",Cloud Engineer,Pune,75.0,82.5,Highly Recommended
+RES1001,MCA,Fresher,0,"Scikit-learn, TensorFlow, Docker, SQL, Python",ML Engineer,Pune,62.5,43.75,Not Recommended
+RES1002,B.Tech IT,Senior,6,"Machine Learning, NumPy, Scikit-learn, Python",Data Scientist,Hyderabad,50.0,65.0,Recommended
+RES1003,B.Sc Computer Science,Fresher,0,"JavaScript, Git, Node.js, React, CSS, MongoDB, REST API, Java",Web Developer,Pune,87.5,61.25,Recommended
+RES1004,B.Tech IT,Mid-Level,5,"Scikit-learn, PyTorch, Deep Learning, SQL, Machine Learning, Python, NumPy",ML Engineer,Mumbai,75.0,77.5,Highly Recommended
+RES1005,B.Sc Computer Science,Senior,7,"Docker, Machine Learning, Deep Learning, SQL, PyTorch, Scikit-learn, TensorFlow",ML Engineer,Bangalore,87.5,91.25,Highly Recommended
+RES1006,B.Tech CSE,Senior,8,"HTML, JavaScript, Git, CSS",Web Developer,Hyderabad,50.0,65.0,Recommended
+RES1007,B.Sc Computer Science,Mid-Level,4,"Data Visualization, Pandas, SQL, Python, Excel, Power BI, Statistics, NumPy, Java, Azure",Data Analyst,Mumbai,100.0,90.0,Highly Recommended
+RES1008,B.Tech IT,Mid-Level,3,"Python, Linux, Kubernetes, Docker, Azure, AWS, TensorFlow, MySQL",Cloud Engineer,Chennai,75.0,67.5,Recommended
+RES1009,B.Sc Computer Science,Mid-Level,5,"SQL, MySQL, Django, Flask, MongoDB, Statistics",Backend Developer,Warangal,50.0,60.0,Recommended
+RES1010,B.Tech IT,Senior,6,"REST API, Java, Python, MySQL, Django, Flask, SQL",Backend Developer,Chennai,87.5,91.25,Highly Recommended
+RES1011,B.Sc Computer Science,Fresher,0,"Excel, Pandas, Power BI, NumPy, Django, React",Data Analyst,Bangalore,50.0,35.0,Not Recommended
+RES1012,B.Tech IT,Junior,2,"MySQL, Git, REST API, Flask, SQL, Java, Django, Python, PyTorch",Backend Developer,Delhi,100.0,80.0,Highly Recommended
+RES1013,B.Tech CSE,Mid-Level,4,"Deep Learning, Pandas, Scikit-learn, Machine Learning, Python, NumPy, SQL, Statistics, Azure",Data Scientist,Warangal,100.0,90.0,Highly Recommended
+RES1014,B.Tech CSE,Junior,2,"Git, Azure, Linux, Python, Networking, Kubernetes, TensorFlow",Cloud Engineer,Chennai,75.0,62.5,Recommended
+RES1015,M.Tech CSE,Fresher,0,"Python, Django, SQL, Flask, Git, Excel",Backend Developer,Mumbai,62.5,43.75,Not Recommended
+RES1016,B.Sc Computer Science,Mid-Level,5,"PyTorch, Scikit-learn, TensorFlow, SQL",ML Engineer,Hyderabad,50.0,60.0,Recommended
+RES1017,MCA,Fresher,0,"Git, Django, Flask, REST API, AWS",Backend Developer,Hyderabad,50.0,35.0,Not Recommended
+RES1018,B.Tech CSE,Senior,6,"Deep Learning, Scikit-learn, SQL, Machine Learning",ML Engineer,Hyderabad,50.0,65.0,Recommended
+RES1019,M.Tech CSE,Fresher,0,"Git, HTML, Node.js, JavaScript",Web Developer,Chennai,50.0,35.0,Not Recommended
+RES1020,B.Tech CSE,Fresher,0,"Docker, Linux, Python, Networking, AWS, Git, Django",Cloud Engineer,Bangalore,75.0,52.5,Recommended
+RES1021,B.Tech IT,Senior,7,"Django, Python, Java, REST API, MySQL, PyTorch",Backend Developer,Delhi,62.5,73.75,Recommended
+RES1022,B.Sc Computer Science,Senior,10,"Linux, Docker, Networking, Git",Cloud Engineer,Warangal,50.0,65.0,Recommended
+RES1023,B.Tech CSE,Junior,2,"Networking, AWS, Git, Python",Cloud Engineer,Mumbai,50.0,45.0,Not Recommended
+RES1024,B.Tech CSE,Junior,2,"Docker, Git, AWS, Azure, Statistics, Django",Cloud Engineer,Warangal,50.0,45.0,Not Recommended
+RES1025,B.Sc Computer Science,Junior,2,"Docker, Networking, AWS, Kubernetes, Git",Cloud Engineer,Pune,62.5,53.75,Recommended
+RES1026,B.Tech CSE,Senior,8,"NumPy, SQL, Statistics, Machine Learning, Deep Learning, Pandas, Excel",Data Scientist,Mumbai,75.0,82.5,Highly Recommended
+RES1027,M.Tech CSE,Junior,2,"Docker, SQL, Scikit-learn, Machine Learning, Python, Deep Learning, Kubernetes",ML Engineer,Chennai,75.0,62.5,Recommended
+RES1028,B.Sc Computer Science,Junior,2,"Kubernetes, Docker, Python, Linux, Git, AWS, Machine Learning, Excel",Cloud Engineer,Chennai,75.0,62.5,Recommended
+RES1029,M.Tech CSE,Senior,10,"Excel, Power BI, SQL, Statistics, React, REST API",Data Analyst,Hyderabad,50.0,65.0,Recommended
+RES1030,B.Sc Computer Science,Mid-Level,5,"Scikit-learn, SQL, Python, Machine Learning, Django",ML Engineer,Hyderabad,50.0,60.0,Recommended
+RES1031,MCA,Senior,9,"NumPy, SQL, Pandas, Deep Learning, Statistics, Python, PyTorch",Data Scientist,Pune,75.0,82.5,Highly Recommended
+RES1032,B.Tech IT,Fresher,0,"Scikit-learn, NumPy, Machine Learning, Pandas, Statistics, SQL",Data Scientist,Pune,75.0,52.5,Recommended
+RES1033,B.Tech IT,Junior,1,"REST API, Node.js, HTML, CSS, MongoDB, React, Flask, Docker",Web Developer,Delhi,75.0,57.5,Recommended
+RES1034,B.Tech IT,Senior,6,"Machine Learning, Deep Learning, Docker, SQL, Statistics",ML Engineer,Delhi,50.0,65.0,Recommended
+RES1035,B.Tech IT,Senior,6,"Machine Learning, Deep Learning, Statistics, Python, SQL",Data Scientist,Delhi,62.5,73.75,Recommended
+RES1036,MCA,Senior,7,"Scikit-learn, Python, Pandas, SQL, Machine Learning",Data Scientist,Pune,62.5,73.75,Recommended
+RES1037,MCA,Mid-Level,4,"Networking, Python, Azure, AWS, Kubernetes, Linux, Git",Cloud Engineer,Warangal,87.5,81.25,Highly Recommended
+RES1038,M.Tech CSE,Junior,1,"Git, Linux, AWS, Docker, Kubernetes, Networking, Python",Cloud Engineer,Chennai,87.5,66.25,Recommended
+RES1039,B.Tech IT,Senior,7,"Python, PyTorch, SQL, TensorFlow, Docker, Deep Learning",ML Engineer,Hyderabad,75.0,82.5,Highly Recommended
+RES1040,B.Sc Computer Science,Mid-Level,4,"Statistics, Python, Machine Learning, Pandas, SQL, NumPy",Data Scientist,Delhi,75.0,72.5,Recommended
+RES1041,M.Tech CSE,Fresher,0,"Node.js, React, CSS, Git, SQL",Web Developer,Pune,50.0,35.0,Not Recommended
+RES1042,M.Tech CSE,Senior,9,"SQL, NumPy, Power BI, Python, Data Visualization, Statistics",Data Analyst,Hyderabad,75.0,82.5,Highly Recommended
+RES1043,B.Sc Computer Science,Senior,8,"REST API, MongoDB, HTML, JavaScript, React, CSS, Git, Django, Docker",Web Developer,Warangal,87.5,91.25,Highly Recommended
+RES1044,B.Tech IT,Fresher,0,"Java, MySQL, Git, REST API, Django, SQL",Backend Developer,Chennai,75.0,52.5,Recommended
+RES1045,B.Tech CSE,Senior,9,"Linux, Azure, Networking, Python, Kubernetes, Git, AWS, Docker, Deep Learning",Cloud Engineer,Chennai,100.0,100.0,Highly Recommended
+RES1046,MCA,Fresher,0,"NumPy, Excel, Power BI, Statistics, Pandas, Python, SQL, Data Visualization, Scikit-learn",Data Analyst,Pune,100.0,70.0,Recommended
+RES1047,B.Tech IT,Fresher,0,"Python, PyTorch, Docker, Deep Learning, Scikit-learn, SQL, Git, Excel",ML Engineer,Mumbai,75.0,52.5,Recommended
+RES1048,M.Tech CSE,Junior,2,"Excel, NumPy, Power BI, Statistics, Data Visualization, Pandas",Data Analyst,Hyderabad,75.0,62.5,Recommended
+RES1049,B.Sc Computer Science,Mid-Level,4,"NumPy, Python, SQL, Pandas, Statistics, Data Visualization, MongoDB, Node.js",Data Analyst,Pune,75.0,72.5,Recommended
+RES1050,B.Tech IT,Mid-Level,4,"Pandas, NumPy, Statistics, Python, Power BI",Data Analyst,Mumbai,62.5,63.75,Recommended
+RES1051,B.Sc Computer Science,Fresher,0,"REST API, Flask, Python, SQL, Git, MySQL, Java, Django, Machine Learning, TensorFlow",Backend Developer,Mumbai,100.0,70.0,Recommended
+RES1052,MCA,Junior,2,"Node.js, JavaScript, HTML, React, CSS",Web Developer,Chennai,62.5,53.75,Recommended
+RES1053,M.Tech CSE,Mid-Level,5,"Git, HTML, CSS, MongoDB, REST API, JavaScript, Node.js, React",Web Developer,Delhi,100.0,95.0,Highly Recommended
+RES1054,B.Sc Computer Science,Mid-Level,4,"MySQL, Flask, Django, SQL, REST API, Java, Python, Scikit-learn",Backend Developer,Bangalore,87.5,81.25,Highly Recommended
+RES1055,M.Tech CSE,Fresher,0,"React, Node.js, Git, CSS, MongoDB, REST API, JavaScript",Web Developer,Delhi,87.5,61.25,Recommended
+RES1056,MCA,Fresher,0,"Git, HTML, CSS, Node.js, JavaScript, MongoDB, React, REST API, Data Visualization",Web Developer,Bangalore,100.0,70.0,Recommended
+RES1057,MCA,Junior,2,"SQL, Django, Git, MySQL, REST API, Java, Python, Flask, HTML, Networking",Backend Developer,Mumbai,100.0,80.0,Highly Recommended
+RES1058,B.Tech IT,Senior,10,"Statistics, SQL, Data Visualization, Python, Networking, Kubernetes",Data Analyst,Pune,50.0,65.0,Recommended
+RES1059,B.Sc Computer Science,Senior,7,"SQL, PyTorch, Deep Learning, Scikit-learn, Docker, Python, JavaScript",ML Engineer,Warangal,75.0,82.5,Highly Recommended
+RES1060,M.Tech CSE,Mid-Level,4,"MongoDB, JavaScript, React, CSS, Node.js, Git, REST API",Web Developer,Delhi,87.5,81.25,Highly Recommended
+RES1061,B.Tech IT,Fresher,0,"Statistics, NumPy, Scikit-learn, Pandas, Git",Data Scientist,Mumbai,50.0,35.0,Not Recommended
+RES1062,B.Tech IT,Junior,2,"SQL, NumPy, Statistics, Pandas, Python, Power BI",Data Scientist,Delhi,62.5,53.75,Recommended
+RES1063,B.Tech IT,Junior,2,"Python, NumPy, Pandas, Power BI, SQL, Data Visualization, REST API",Data Analyst,Delhi,75.0,62.5,Recommended
+RES1064,B.Tech IT,Senior,7,"Machine Learning, Deep Learning, Python, Scikit-learn, SQL, Statistics, CSS",Data Scientist,Warangal,75.0,82.5,Highly Recommended
+RES1065,B.Tech CSE,Senior,10,"SQL, Statistics, NumPy, Machine Learning, Deep Learning, Python, Pandas, MySQL, Java",Data Scientist,Pune,87.5,91.25,Highly Recommended
+RES1066,M.Tech CSE,Fresher,0,"REST API, JavaScript, Git, Node.js",Web Developer,Pune,50.0,35.0,Not Recommended
+RES1067,M.Tech CSE,Senior,9,"Node.js, REST API, React, HTML, Git",Web Developer,Warangal,62.5,73.75,Recommended
+RES1068,B.Tech IT,Mid-Level,4,"Excel, Statistics, Data Visualization, Pandas",Data Analyst,Delhi,50.0,55.0,Recommended
+RES1069,B.Sc Computer Science,Fresher,0,"TensorFlow, SQL, Docker, Machine Learning, Deep Learning",ML Engineer,Pune,62.5,43.75,Not Recommended
+RES1070,B.Sc Computer Science,Mid-Level,5,"Kubernetes, Git, Docker, Python, Linux, Networking, Azure, NumPy",Cloud Engineer,Hyderabad,87.5,86.25,Highly Recommended
+RES1071,B.Tech IT,Mid-Level,4,"NumPy, Python, SQL, Machine Learning, Deep Learning, React, JavaScript",Data Scientist,Delhi,62.5,63.75,Recommended
+RES1072,B.Sc Computer Science,Junior,1,"JavaScript, Git, REST API, CSS, Node.js, MongoDB, Scikit-learn",Web Developer,Warangal,75.0,57.5,Recommended
+RES1073,B.Tech IT,Mid-Level,5,"NumPy, SQL, Deep Learning, Python, Machine Learning, Statistics, Pandas, Scikit-learn, Azure, Git",Data Scientist,Chennai,100.0,95.0,Highly Recommended
+RES1074,B.Tech CSE,Mid-Level,3,"JavaScript, REST API, Node.js, React, CSS, Git, MongoDB",Web Developer,Chennai,87.5,76.25,Highly Recommended
+RES1075,MCA,Fresher,0,"Machine Learning, Deep Learning, NumPy, Python, SQL, Django",Data Scientist,Warangal,62.5,43.75,Not Recommended
+RES1076,M.Tech CSE,Fresher,0,"Kubernetes, Python, Azure, Docker, AWS, Git, Networking, Linux, Node.js, Statistics",Cloud Engineer,Warangal,100.0,70.0,Recommended
+RES1077,B.Tech CSE,Mid-Level,5,"Power BI, SQL, Excel, Statistics, Pandas, Python, Data Visualization",Data Analyst,Chennai,87.5,86.25,Highly Recommended
+RES1078,B.Tech IT,Junior,2,"SQL, Data Visualization, Pandas, Excel, Python",Data Analyst,Pune,62.5,53.75,Recommended
+RES1079,MCA,Junior,1,"Python, Excel, NumPy, Data Visualization, SQL, Power BI, Pandas, Statistics",Data Analyst,Mumbai,100.0,75.0,Highly Recommended
+RES1080,MCA,Junior,2,"Git, SQL, Django, Python, REST API",Backend Developer,Hyderabad,62.5,53.75,Recommended
+RES1081,B.Sc Computer Science,Mid-Level,5,"PyTorch, TensorFlow, Scikit-learn, Machine Learning, Deep Learning, SQL, Docker, React, JavaScript",ML Engineer,Bangalore,87.5,86.25,Highly Recommended
+RES1082,B.Sc Computer Science,Senior,9,"PyTorch, Scikit-learn, TensorFlow, Python, Machine Learning, SQL",ML Engineer,Bangalore,75.0,82.5,Highly Recommended
+RES1083,M.Tech CSE,Junior,1,"Statistics, Scikit-learn, Machine Learning, Python, React",Data Scientist,Warangal,50.0,40.0,Not Recommended
+RES1084,B.Sc Computer Science,Junior,1,"Power BI, Excel, Pandas, Statistics, NumPy, CSS, MySQL",Data Analyst,Chennai,62.5,48.75,Not Recommended
+RES1085,MCA,Senior,8,"Statistics, Deep Learning, SQL, Scikit-learn, NumPy, Docker",Data Scientist,Bangalore,62.5,73.75,Recommended
+RES1086,B.Sc Computer Science,Senior,10,"PyTorch, Deep Learning, Machine Learning, SQL, Docker, TensorFlow, Scikit-learn, REST API, Django",ML Engineer,Pune,87.5,91.25,Highly Recommended
+RES1087,MCA,Mid-Level,3,"REST API, HTML, React, JavaScript, Data Visualization, Python",Web Developer,Warangal,50.0,50.0,Recommended
+RES1088,B.Sc Computer Science,Senior,9,"Kubernetes, Python, Git, Docker, Linux, Java",Cloud Engineer,Chennai,62.5,73.75,Recommended
+RES1089,B.Tech IT,Mid-Level,5,"REST API, MySQL, Java, Django, Git, Flask, Python, SQL",Backend Developer,Pune,100.0,95.0,Highly Recommended
+RES1090,B.Tech CSE,Fresher,0,"Networking, AWS, Python, Kubernetes, Linux, Git, Azure, Docker",Cloud Engineer,Delhi,100.0,70.0,Recommended
+RES1091,MCA,Junior,1,"Scikit-learn, TensorFlow, Deep Learning, Python, SQL, PyTorch, MySQL, Statistics",ML Engineer,Mumbai,75.0,57.5,Recommended
+RES1092,B.Tech CSE,Mid-Level,4,"TensorFlow, PyTorch, Python, Docker, Machine Learning, SQL, Deep Learning, Scikit-learn, Java, Kubernetes",ML Engineer,Warangal,100.0,90.0,Highly Recommended
+RES1093,B.Tech IT,Mid-Level,4,"JavaScript, MongoDB, React, CSS, Git, Networking",Web Developer,Mumbai,62.5,63.75,Recommended
+RES1094,MCA,Fresher,0,"Docker, AWS, Python, Kubernetes, Git",Cloud Engineer,Warangal,62.5,43.75,Not Recommended
+RES1095,M.Tech CSE,Mid-Level,5,"Flask, Python, Django, REST API",Backend Developer,Pune,50.0,60.0,Recommended
+RES1096,MCA,Junior,1,"Scikit-learn, Docker, Python, SQL, PyTorch, Deep Learning, TensorFlow, Machine Learning, MySQL, Power BI",ML Engineer,Warangal,100.0,75.0,Highly Recommended
+RES1097,MCA,Senior,6,"Linux, Kubernetes, Git, Azure, Docker, AWS, Python, SQL, Scikit-learn",Cloud Engineer,Pune,87.5,91.25,Highly Recommended
+RES1098,B.Tech IT,Mid-Level,3,"Python, Django, REST API, Git, MySQL, Flask, CSS",Backend Developer,Mumbai,75.0,67.5,Recommended
+RES1099,B.Tech IT,Junior,2,"Networking, Python, Git, Azure, Docker, Kubernetes, AWS, Excel",Cloud Engineer,Bangalore,87.5,71.25,Recommended
+RES1100,B.Sc Computer Science,Mid-Level,3,"Python, Statistics, SQL, Pandas, Node.js",Data Analyst,Delhi,50.0,50.0,Recommended
+RES1101,B.Sc Computer Science,Fresher,0,"NumPy, SQL, Pandas, Machine Learning, Statistics",Data Scientist,Bangalore,62.5,43.75,Not Recommended
+RES1102,MCA,Senior,9,"REST API, HTML, React, CSS, Deep Learning",Web Developer,Bangalore,50.0,65.0,Recommended
+RES1103,MCA,Mid-Level,5,"SQL, Python, Deep Learning, NumPy, Statistics, Pandas, Machine Learning",Data Scientist,Chennai,87.5,86.25,Highly Recommended
+RES1104,B.Tech CSE,Senior,6,"React, HTML, Node.js, JavaScript, MongoDB, CSS",Web Developer,Hyderabad,75.0,82.5,Highly Recommended
+RES1105,B.Sc Computer Science,Junior,1,"REST API, MongoDB, HTML, JavaScript, Node.js, CSS, Git, SQL",Web Developer,Delhi,87.5,66.25,Recommended
+RES1106,M.Tech CSE,Fresher,0,"Networking, AWS, Docker, Python, Git, Kubernetes, Linux",Cloud Engineer,Bangalore,87.5,61.25,Recommended
+RES1107,B.Sc Computer Science,Mid-Level,5,"SQL, Flask, REST API, Python, Django, Machine Learning, Azure",Backend Developer,Pune,62.5,68.75,Recommended
+RES1108,B.Tech CSE,Senior,7,"Machine Learning, SQL, NumPy, Statistics, Scikit-learn, Pandas, Python",Data Scientist,Chennai,87.5,91.25,Highly Recommended
+RES1109,MCA,Fresher,0,"Node.js, MongoDB, JavaScript, HTML, REST API, CSS",Web Developer,Delhi,75.0,52.5,Recommended
+RES1110,B.Sc Computer Science,Junior,1,"Python, NumPy, Pandas, Statistics, SQL, Deep Learning, Machine Learning",Data Scientist,Pune,87.5,66.25,Recommended
+RES1111,M.Tech CSE,Fresher,0,"Data Visualization, Power BI, Statistics, Pandas, Python",Data Analyst,Chennai,62.5,43.75,Not Recommended
+RES1112,M.Tech CSE,Junior,1,"Node.js, CSS, JavaScript, MongoDB, Git, React, HTML, NumPy",Web Developer,Bangalore,87.5,66.25,Recommended
+RES1113,M.Tech CSE,Fresher,0,"SQL, Java, Flask, Python, Django, Scikit-learn, React",Backend Developer,Bangalore,62.5,43.75,Not Recommended
+RES1114,M.Tech CSE,Mid-Level,3,"Machine Learning, Scikit-learn, Statistics, Deep Learning, NumPy, Pandas, JavaScript",Data Scientist,Chennai,75.0,67.5,Recommended
+RES1115,B.Tech IT,Junior,1,"JavaScript, Node.js, Git, HTML, React, MongoDB",Web Developer,Bangalore,75.0,57.5,Recommended
+RES1116,M.Tech CSE,Senior,9,"Kubernetes, Azure, Networking, Docker",Cloud Engineer,Warangal,50.0,65.0,Recommended
+RES1117,B.Sc Computer Science,Mid-Level,4,"SQL, TensorFlow, Machine Learning, Docker, Deep Learning, Pandas, Python",ML Engineer,Bangalore,75.0,72.5,Recommended
+RES1118,M.Tech CSE,Mid-Level,3,"Docker, SQL, PyTorch, TensorFlow, Python, Deep Learning, Machine Learning",ML Engineer,Warangal,87.5,76.25,Highly Recommended
+RES1119,M.Tech CSE,Mid-Level,3,"Python, PyTorch, Machine Learning, Docker, Scikit-learn, TensorFlow, SQL",ML Engineer,Warangal,87.5,76.25,Highly Recommended
+RES1120,B.Tech IT,Fresher,0,"Docker, TensorFlow, PyTorch, Python, Machine Learning, SQL, Azure, AWS",ML Engineer,Bangalore,75.0,52.5,Recommended
+RES1121,B.Tech IT,Junior,2,"Docker, Linux, Git, Python, AWS, Networking, Power BI",Cloud Engineer,Bangalore,75.0,62.5,Recommended
+RES1122,B.Sc Computer Science,Fresher,0,"Power BI, Statistics, NumPy, SQL, Data Visualization",Data Analyst,Pune,62.5,43.75,Not Recommended
+RES1123,B.Tech CSE,Mid-Level,5,"SQL, TensorFlow, Docker, Deep Learning, Machine Learning, PyTorch, Scikit-learn",ML Engineer,Mumbai,87.5,86.25,Highly Recommended
+RES1124,B.Tech IT,Senior,7,"Kubernetes, Python, Linux, Git, AWS, Networking, Azure",Cloud Engineer,Warangal,87.5,91.25,Highly Recommended
+RES1125,B.Tech IT,Mid-Level,3,"Machine Learning, Scikit-learn, Pandas, Statistics, SQL, Python, NumPy",Data Scientist,Pune,87.5,76.25,Highly Recommended
+RES1126,B.Tech CSE,Senior,7,"Excel, SQL, Power BI, Statistics, Data Visualization, Pandas, Python, NumPy, React, HTML",Data Analyst,Delhi,100.0,100.0,Highly Recommended
+RES1127,B.Sc Computer Science,Mid-Level,3,"CSS, Node.js, Git, REST API, React, HTML",Web Developer,Pune,75.0,67.5,Recommended
+RES1128,MCA,Mid-Level,3,"Docker, TensorFlow, PyTorch, Machine Learning, SQL, MongoDB",ML Engineer,Mumbai,62.5,58.75,Recommended
+RES1129,B.Tech CSE,Mid-Level,5,"NumPy, SQL, Data Visualization, Power BI, Statistics, Deep Learning",Data Analyst,Delhi,62.5,68.75,Recommended
+RES1130,B.Tech CSE,Senior,7,"Scikit-learn, TensorFlow, Docker, Deep Learning, PyTorch, Python",ML Engineer,Mumbai,75.0,82.5,Highly Recommended
+RES1131,MCA,Senior,6,"REST API, Git, JavaScript, HTML, React, Power BI, Linux",Web Developer,Mumbai,62.5,73.75,Recommended
+RES1132,MCA,Senior,10,"SQL, Pandas, Python, NumPy, Data Visualization, Power BI, Excel, Statistics, Deep Learning, Scikit-learn",Data Analyst,Warangal,100.0,100.0,Highly Recommended
+RES1133,M.Tech CSE,Junior,1,"MySQL, Git, Flask, REST API, Java, Azure",Backend Developer,Delhi,62.5,48.75,Not Recommended
+RES1134,B.Sc Computer Science,Mid-Level,3,"PyTorch, TensorFlow, Python, SQL, Statistics",ML Engineer,Chennai,50.0,50.0,Recommended
+RES1135,B.Tech IT,Mid-Level,5,"Git, React, MongoDB, JavaScript",Web Developer,Pune,50.0,60.0,Recommended
+RES1136,B.Tech IT,Mid-Level,4,"Docker, SQL, Python, Deep Learning, PyTorch, NumPy, MongoDB",ML Engineer,Hyderabad,62.5,63.75,Recommended
+RES1137,MCA,Junior,2,"Git, Docker, Linux, Kubernetes, AWS, MongoDB",Cloud Engineer,Warangal,62.5,53.75,Recommended
+RES1138,B.Tech CSE,Junior,2,"Python, Docker, Kubernetes, Git, Azure, AWS, Networking",Cloud Engineer,Mumbai,87.5,71.25,Recommended
+RES1139,B.Tech CSE,Senior,8,"Linux, Git, Networking, Python, Azure, Kubernetes, AWS, Docker",Cloud Engineer,Bangalore,100.0,100.0,Highly Recommended
+RES1140,M.Tech CSE,Fresher,0,"Python, Kubernetes, Azure, Git, AWS, Docker, SQL",Cloud Engineer,Chennai,75.0,52.5,Recommended
+RES1141,B.Tech IT,Junior,1,"Python, SQL, NumPy, Statistics, Machine Learning, Deep Learning, Scikit-learn",Data Scientist,Pune,87.5,66.25,Recommended
+RES1142,MCA,Junior,2,"Docker, AWS, Networking, Azure, Git, NumPy, CSS",Cloud Engineer,Bangalore,62.5,53.75,Recommended
+RES1143,B.Sc Computer Science,Junior,2,"MySQL, Flask, Django, REST API, SQL, Git, Java, Python, Pandas",Backend Developer,Mumbai,100.0,80.0,Highly Recommended
+RES1144,B.Tech CSE,Senior,10,"Deep Learning, Docker, Scikit-learn, Machine Learning, HTML, AWS",ML Engineer,Chennai,50.0,65.0,Recommended
+RES1145,MCA,Senior,10,"Power BI, NumPy, Excel, Pandas, SQL, Data Visualization, Statistics, Python, JavaScript",Data Analyst,Pune,100.0,100.0,Highly Recommended
+RES1146,B.Tech IT,Fresher,0,"Python, Pandas, Power BI, Statistics, Data Visualization, CSS",Data Analyst,Delhi,62.5,43.75,Not Recommended
+RES1147,MCA,Junior,2,"PyTorch, Docker, Deep Learning, Python, Linux, Django",ML Engineer,Bangalore,50.0,45.0,Not Recommended
+RES1148,M.Tech CSE,Mid-Level,3,"Linux, Networking, Python, Docker, Git, AWS, Azure",Cloud Engineer,Mumbai,87.5,76.25,Highly Recommended
+RES1149,B.Tech IT,Junior,1,"SQL, Statistics, Python, Pandas, NumPy, Excel, Data Visualization",Data Analyst,Mumbai,87.5,66.25,Recommended
+RES1150,B.Tech CSE,Senior,10,"Python, Scikit-learn, Pandas, Deep Learning, Machine Learning",Data Scientist,Delhi,62.5,73.75,Recommended
+RES1151,B.Sc Computer Science,Mid-Level,3,"Git, Kubernetes, Python, Networking, Azure, Linux, AWS",Cloud Engineer,Delhi,87.5,76.25,Highly Recommended
+RES1152,B.Sc Computer Science,Fresher,0,"MongoDB, HTML, CSS, JavaScript, React, REST API",Web Developer,Chennai,75.0,52.5,Recommended
+RES1153,B.Sc Computer Science,Fresher,0,"Node.js, HTML, MongoDB, REST API, Deep Learning, PyTorch",Web Developer,Bangalore,50.0,35.0,Not Recommended
+RES1154,B.Tech IT,Senior,7,"Python, Data Visualization, Excel, Power BI, NumPy, Statistics, SQL, Pandas",Data Analyst,Mumbai,100.0,100.0,Highly Recommended
+RES1155,MCA,Junior,1,"SQL, Statistics, Scikit-learn, Deep Learning, Machine Learning, Pandas",Data Scientist,Warangal,75.0,57.5,Recommended
+RES1156,B.Sc Computer Science,Junior,1,"HTML, Node.js, MongoDB, JavaScript, Python",Web Developer,Hyderabad,50.0,40.0,Not Recommended
+RES1157,M.Tech CSE,Fresher,0,"JavaScript, Node.js, MongoDB, React, REST API, Python",Web Developer,Chennai,62.5,43.75,Not Recommended
+RES1158,MCA,Fresher,0,"Machine Learning, SQL, Pandas, Statistics, Scikit-learn, Python, Deep Learning",Data Scientist,Warangal,87.5,61.25,Recommended
+RES1159,MCA,Junior,2,"Flask, Django, MySQL, Git, Docker, NumPy",Backend Developer,Chennai,50.0,45.0,Not Recommended
+RES1160,MCA,Fresher,0,"Pandas, Machine Learning, Scikit-learn, Deep Learning, NumPy, SQL, Statistics",Data Scientist,Pune,87.5,61.25,Recommended
+RES1161,M.Tech CSE,Fresher,0,"Data Visualization, Pandas, Power BI, Excel, NumPy, SQL, Flask, Deep Learning",Data Analyst,Bangalore,75.0,52.5,Recommended
+RES1162,B.Tech IT,Mid-Level,5,"Excel, NumPy, Data Visualization, Python, Pandas, Power BI, Scikit-learn",Data Analyst,Hyderabad,75.0,77.5,Highly Recommended
+RES1163,B.Tech IT,Mid-Level,3,"Docker, Linux, Networking, AWS, Azure, Git, Kubernetes",Cloud Engineer,Delhi,87.5,76.25,Highly Recommended
+RES1164,B.Tech CSE,Mid-Level,3,"Pandas, NumPy, Scikit-learn, Statistics, Python, Deep Learning, SQL",Data Scientist,Bangalore,87.5,76.25,Highly Recommended
+RES1165,B.Tech IT,Junior,2,"Docker, Kubernetes, Azure, Networking, Git, AWS",Cloud Engineer,Pune,75.0,62.5,Recommended
+RES1166,B.Sc Computer Science,Junior,2,"Linux, Azure, Python, Docker, Kubernetes, Networking, AWS, Git, CSS",Cloud Engineer,Chennai,100.0,80.0,Highly Recommended
+RES1167,B.Tech IT,Fresher,0,"MySQL, Python, Flask, REST API",Backend Developer,Delhi,50.0,35.0,Not Recommended
+RES1168,M.Tech CSE,Mid-Level,3,"Excel, Statistics, Power BI, Python",Data Analyst,Delhi,50.0,50.0,Recommended
+RES1169,B.Tech CSE,Senior,7,"PyTorch, Docker, Deep Learning, Scikit-learn, SQL, Python, TensorFlow, Excel",ML Engineer,Bangalore,87.5,91.25,Highly Recommended
+RES1170,B.Tech CSE,Senior,7,"Git, REST API, Python, Flask",Backend Developer,Hyderabad,50.0,65.0,Recommended
+RES1171,B.Tech IT,Senior,10,"Kubernetes, Networking, Linux, Docker, Flask",Cloud Engineer,Warangal,50.0,65.0,Recommended
+RES1172,B.Tech IT,Mid-Level,4,"Power BI, Statistics, SQL, Excel, Python, Pandas, Data Visualization, NumPy, Networking",Data Analyst,Bangalore,100.0,90.0,Highly Recommended
+RES1173,B.Tech IT,Junior,2,"Git, Kubernetes, Azure, Docker, Node.js, Excel",Cloud Engineer,Delhi,50.0,45.0,Not Recommended
+RES1174,M.Tech CSE,Mid-Level,3,"AWS, Git, Kubernetes, Networking, Azure, Docker, Python, Excel, TensorFlow",Cloud Engineer,Hyderabad,87.5,76.25,Highly Recommended
+RES1175,B.Sc Computer Science,Mid-Level,3,"Git, Linux, Networking, AWS, Flask, Kubernetes",Cloud Engineer,Bangalore,62.5,58.75,Recommended
+RES1176,M.Tech CSE,Fresher,0,"Python, Power BI, Data Visualization, Pandas, NumPy, MongoDB",Data Analyst,Warangal,62.5,43.75,Not Recommended
+RES1177,B.Sc Computer Science,Senior,9,"SQL, Python, Scikit-learn, Pandas, Power BI, Statistics",Data Scientist,Delhi,62.5,73.75,Recommended
+RES1178,B.Tech IT,Mid-Level,5,"NumPy, Machine Learning, Scikit-learn, Pandas, Deep Learning, Python, SQL, Statistics, Excel",Data Scientist,Delhi,100.0,95.0,Highly Recommended
+RES1179,MCA,Senior,10,"NumPy, SQL, Machine Learning, Python, Pandas, Statistics, Deep Learning",Data Scientist,Warangal,87.5,91.25,Highly Recommended
+RES1180,MCA,Senior,9,"Machine Learning, Statistics, Scikit-learn, Deep Learning, SQL, Pandas, NumPy, CSS",Data Scientist,Pune,87.5,91.25,Highly Recommended
+RES1181,B.Tech IT,Junior,2,"Scikit-learn, Docker, TensorFlow, Machine Learning, PyTorch, Python",ML Engineer,Pune,75.0,62.5,Recommended
+RES1182,M.Tech CSE,Senior,8,"Flask, Git, SQL, Java, REST API, Python, Django",Backend Developer,Warangal,87.5,91.25,Highly Recommended
+RES1183,MCA,Fresher,0,"Python, Java, MySQL, SQL, Flask, Django, REST API, CSS, TensorFlow",Backend Developer,Delhi,87.5,61.25,Recommended
+RES1184,MCA,Mid-Level,4,"Machine Learning, Deep Learning, Scikit-learn, NumPy, SQL, Statistics, Pandas, Azure, AWS",Data Scientist,Bangalore,87.5,81.25,Highly Recommended
+RES1185,B.Tech CSE,Fresher,0,"Networking, Docker, Linux, Python, AWS, MySQL, Machine Learning",Cloud Engineer,Hyderabad,62.5,43.75,Not Recommended
+RES1186,B.Tech IT,Junior,2,"NumPy, Statistics, Python, Excel, Azure",Data Analyst,Warangal,50.0,45.0,Not Recommended
+RES1187,B.Sc Computer Science,Mid-Level,3,"NumPy, Pandas, Power BI, Data Visualization, Excel, Statistics",Data Analyst,Warangal,75.0,67.5,Recommended
+RES1188,M.Tech CSE,Senior,8,"SQL, Java, REST API, Python, Flask",Backend Developer,Delhi,62.5,73.75,Recommended
+RES1189,MCA,Senior,9,"Machine Learning, Pandas, Python, Scikit-learn",Data Scientist,Pune,50.0,65.0,Recommended
+RES1190,MCA,Fresher,0,"Scikit-learn, Pandas, NumPy, Deep Learning",Data Scientist,Pune,50.0,35.0,Not Recommended
+RES1191,B.Tech CSE,Junior,2,"Python, Docker, AWS, Git, Networking, Kubernetes, Linux, Azure, CSS, TensorFlow",Cloud Engineer,Chennai,100.0,80.0,Highly Recommended
+RES1192,B.Tech IT,Mid-Level,4,"Python, Linux, Kubernetes, AWS, HTML, Pandas",Cloud Engineer,Bangalore,50.0,55.0,Recommended
+RES1193,B.Sc Computer Science,Mid-Level,4,"Python, REST API, SQL, Java, Git, Flask",Backend Developer,Pune,75.0,72.5,Recommended
+RES1194,M.Tech CSE,Fresher,0,"PyTorch, Scikit-learn, SQL, TensorFlow, Node.js, React",ML Engineer,Bangalore,50.0,35.0,Not Recommended
+RES1195,MCA,Fresher,0,"Python, SQL, REST API, Java, Git",Backend Developer,Delhi,62.5,43.75,Not Recommended
+RES1196,B.Sc Computer Science,Mid-Level,5,"Git, Docker, Networking, Linux, Kubernetes, Azure, Statistics, Python",Cloud Engineer,Bangalore,87.5,86.25,Highly Recommended
+RES1197,B.Tech CSE,Junior,1,"Node.js, HTML, React, REST API, JavaScript, Git",Web Developer,Bangalore,75.0,57.5,Recommended
+RES1198,B.Tech CSE,Fresher,0,"NumPy, Python, SQL, Pandas, Data Visualization",Data Analyst,Delhi,62.5,43.75,Not Recommended
+RES1199,M.Tech CSE,Fresher,0,"SQL, Data Visualization, Pandas, Power BI, Excel, NumPy",Data Analyst,Hyderabad,75.0,52.5,Recommended
+RES1200,MCA,Junior,1,"Kubernetes, Python, AWS, Azure, Git, Node.js, Java",Cloud Engineer,Hyderabad,62.5,48.75,Not Recommended
